@@ -1,0 +1,50 @@
+{
+    "email_accounts": [
+        {
+            "sender_email": "your-email@gmail.com",
+            "sender_password": "your-app-password",
+            "sender_name": "Your Name",
+            "smtp_server": "smtp.gmail.com",
+            "smtp_port": 587,
+            "use_tls": true
+        },
+        {
+            "sender_email": "your-second-email@gmail.com",
+            "sender_password": "your-app-password-2",
+            "sender_name": "Your Name",
+            "smtp_server": "smtp.gmail.com",
+            "smtp_port": 587,
+            "use_tls": true
+        }
+    ],
+    "email_templates": [
+        {
+            "name": "basic_outreach",
+            "content": "{Hi|Hey|Hello},\n\nI hope this email finds you well.\n\n{I wanted to reach out because|I came across your profile and|I thought you might be interested in} {our services|what we're building|this opportunity}.\n\n{Would you be interested in learning more?|Let me know if you'd like to chat|I'd love to tell you more about it}.\n\nBest regards,\n{Your Name|The Team}"
+        },
+        {
+            "name": "business_proposal",
+            "content": "{Hi|Hello} there,\n\n{Running a business is tough enough without|Business growth doesn't have to be|What if I told you that} {outreach headaches, right?|complicated processes.|there's an easier way?}\n\n{Our AI automation can|We've developed a system that|I've created a solution that} {handle the heavy lifting|takes care of the tedious work|automates the boring stuff} {so you can focus on|allowing you to concentrate on|freeing you up for} {what matters most|growing your business|closing deals}.\n\n{Interested in learning more?|Want to see how it works?|Curious about the details?}\n\nBest,\n{Your Name|The Team}"
+        },
+        {
+            "name": "ai_automation",
+            "content": "{Hi|Hey|Hello},\n\n{Growth happens when outreach becomes efficient, not overwhelming, don't ya think?|Have some time to read about making outreach work for you, not against you?|What if getting clients felt effortless and natural instead of draining?}\n\n{With my AI automation, you can skip the manual work and let tech handle the sending for you.|My Email AI ensures your outreach emails are sent effortlessly, right on schedule.|Say goodbye to tedious email sending—My Email AI's got that part covered.}\n\n{Oh, and it's got you covered on emails too—it scrapes the web for your perfect leads.|It even finds the right people for you—no need to buy another email list, ever.|And yeah, it kinda stalks the Internet (in a good way) to grab the emails of the clients you actually want.}\n\n{It also handles client replies and secures meetings, leaving you free to focus on growth.|Beyond that, it even replies to emails and schedules appointments for you—all on autopilot.|It takes care of follow-ups and appointment scheduling, all without lifting a finger.}\n\n{It's like having a cheat code—let AI line it all up, and you handle the fun part: closing deals.|So, all you've gotta do is show up for those booked calls and close, while AI does the rest.|You can now leave those tough parts for AI and just focus on turning those booked calls into wins.}\n\n{Just so you know, the AI flagged you as a great fit—which means it can do the same for your target clients too.|And yeah, the AI scraped your profile as a great match for this—just think how it'll pinpoint your dream clients too.|To be real with you, if the AI found you as a perfect lead for me, imagine how spot-on it'll be for your business.}\n\n{Let me know if this sounds cool to you, and I'll hook you up with the details.|Anyway, lemme know if you wanna try it out—no pressure, just thought it'd help.|So yeah, just hit me up if you wanna see how it works—I'm here to help.}\n\nBest regards,\nYour Name\nAI Automation Expert\nCEO at Your Company"
+        }
+    ],
+    "subject_lines": [
+        "AI?",
+        "can we just fix this outreach hassle already??",
+        "what if outreach wasn't your problem anymore?",
+        "can I fix this outreach problem with AI?",
+        "you've been doing outreach wrong…",
+        "tryna crack this outreach code—thoughts...",
+        "is this the end of our outreach headache (thanks to AI)?",
+        "outreach struggles? Maybe AI's got it.",
+        "i don't want to believe this lead machine…",
+        "Quick question about your business",
+        "Thought you might be interested",
+        "Business growth opportunity",
+        "Automation solution for you",
+        "Making outreach effortless"
+    ]
+}

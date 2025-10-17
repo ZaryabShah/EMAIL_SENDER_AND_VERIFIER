@@ -1,0 +1,21 @@
+# Standalone Email Pipeline Requirements
+# Install these packages to run the standalone email verification and sending system
+
+# DNS resolution for email verification
+dnspython==2.7.0
+
+# Email sending (built into Python, no additional packages needed)
+# smtplib - built-in
+# email - built-in
+# ssl - built-in
+
+# Core Python packages (usually built-in, but listed for completeness)
+# re - built-in
+# json - built-in  
+# os - built-in
+# random - built-in
+# time - built-in
+# typing - built-in
+# datetime - built-in
+# argparse - built-in
+# sys - built-in
