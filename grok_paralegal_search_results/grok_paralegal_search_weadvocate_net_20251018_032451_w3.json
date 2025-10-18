@@ -1,0 +1,90 @@
+{
+  "domain": "weadvocate.net",
+  "search_url": "weadvocate.net",
+  "attorney_info": {
+    "original_website": "weadvocate.net",
+    "attorney_name": "Mary K. Whitmer",
+    "attorney_email": "mkw@WEadvocate.net",
+    "phone": "(216) 771-5056",
+    "firm_name": "WHITMER & EHRMAN LLC",
+    "practice_area": "OTHER CIVIL",
+    "case_id": "CV-2025-10-5036",
+    "row_data": {
+      "Case Number": "CV-2025-10-5036",
+      "Filing Date": "10/16/2025",
+      "Case Type": "OTHER CIVIL",
+      "Court": "Summit County Court of Common Pleas",
+      "County": "SUMMIT",
+      "Plaintiff": "MARK E. DOTTORE, solely in his capacity as the Receiver for the Receivership Entities",
+      "Primary Defendant": "DONALD M. BLATHERWICK",
+      "Attorney Name": "Mary K. Whitmer",
+      "Attorney Office": "WHITMER & EHRMAN LLC",
+      "Attorney Email": "mkw@WEadvocate.net",
+      "Attorney Phone": "(216) 771-5056",
+      "Attorney Website": "weadvocate.net",
+      "Relief Requested": "Avoiding all of the Transfers pursuant to O.R.C. § 1336.07(A), Judgment for the value of the Transfers pursuant to O.R.C. § 1336.08(B)(1)(a), Judgment for the value of any subsequent Transfers pursuant to O.R.C. §1336.08(B)(1)(b), Imposing a constructive trust in favor of the Receiver over all monies and assets obtained with the monies that Defendant or a Defendant Entity received from AEM Services, Damages in excess of Twenty-Five Thousand Dollars ($25,000.00) for Counts I-IV, Post-judgment interest as allowed by Ohio law, Costs of this action including the Receiver’s reasonable attorneys’ fees, Such other and further relief as the Court deems just and equitable",
+      "Processed At": "2025-10-17T21:31:25.187581",
+      "Folder Name": "CV-2025-10-5036_10_16_2025",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Mary K. Whitmer\n- Email: mkw@WEadvocate.net\n- Phone: (216) 771-5056\n- Website: weadvocate.net\n- Firm: WHITMER & EHRMAN LLC\n- Practice Area: OTHER CIVIL\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (weadvocate.net) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: mkw@WEadvocate.net and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: mkw@WEadvocate.net\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER CIVIL), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: weadvocate.net",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 2,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Ruthie C. Owen",
+        "title": "Director of Legal Services",
+        "email": "rco@weadvocate.net",
+        "email_options": [
+          "ruthie.owen@weadvocate.net",
+          "rco@weadvocate.net",
+          "rowen@weadvocate.net"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "(216) 771-5056",
+        "department": "Legal Services",
+        "quote": "Director of Legal Services at Whitmer & Ehrman LLC with previous experience as Senior Paralegal at Elk + Elk.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Mary K. Whitmer\n- Email: mkw@WEadvocate.net\n- Phone: (216) 771-5056\n- Website: weadvocate.net\n- Firm: WHITMER & EHRMAN LLC\n- Practice Area: OTHER CIVIL\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (weadvocate.net) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: mkw@WEadvocate.net and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: mkw@WEadvocate.net\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER CIVIL), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: weadvocate.net\nThought for 1m 31s\n{\n\"page_url\": \"https://weadvocate.net/\",\n\"search_sources\": [\"https://weadvocate.net/\", \"LinkedIn company and profiles\", \"web searches including RocketReach, SignalHire, legal directories\"],\n\"total_staff_found\": 1,\n\"attorney_email_domain\": \"weadvocate.net\",\n\"paralegals\": [\n{\n\"name\": \"Ruthie C. Owen\",\n\"title\": \"Director of Legal Services\",\n\"email\": \"rco@weadvocate.net\",\n\"email_options\": [\"ruthie.owen@weadvocate.net\", \"rco@weadvocate.net\", \"rowen@weadvocate.net\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"(216) 771-5056\",\n\"department\": \"Legal Services\",\n\"quote\": \"Director of Legal Services at Whitmer & Ehrman LLC with previous experience as Senior Paralegal at Elk + Elk.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n}\n],\n\"best_contact_reasoning\": \"Ruthie C. Owen is the only support staff identified and holds a senior position as Director of Legal Services, making her the most likely to handle new client intake, client communications, and decisions related to new cases in the firm's civil practice area of business insolvency and restructuring.\",\n\"search_notes\": \"Thorough search of the firm's website revealed only attorneys listed, with no mention of support staff. Deep search on LinkedIn identified Ruthie C. Owen as Director of Legal Services. Additional searches on Facebook, Instagram, Avvo, FindLaw, Lawyers.com, Ohio State Bar Association, and general web/X searches yielded no other support staff. No direct email found, so generated options based on attorney pattern (e.g., firstinitial middleinitial lastnameinitial@domain).\"\n}\n10 𝕏 posts\n75 web pages\n2 / 2\n3.2s\nExpert\nVerify Ruthie Owen's email\nSearch Ohio Bar paralegals\nAdd more email patterns\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:24:51.288587",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_032451.txt"
+  },
+  "search_completed_at": "2025-10-18T03:24:51.298486",
+  "associated_cases": 2,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_weadvocate_net_20251018_032451_w3.json"
+}

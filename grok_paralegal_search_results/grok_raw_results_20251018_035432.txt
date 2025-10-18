@@ -1,0 +1,357 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Lindsey A. Wrubel
+- Email: law@eques.law
+- Phone: 330.231.1195
+- Website: eques.law
+- Firm: Eques, Inc.
+- Practice Area: FORECLOSURE
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (eques.law) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: law@eques.law and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: law@eques.law
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: FORECLOSURE), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: eques.law
+Thought for 2m 15s
+{
+"page_url": "https://eques.law",
+"search_sources": ["https://eques.law", "LinkedIn company and profiles", "Facebook business page", "Instagram", "Avvo", "FindLaw", "Lawyers.com", "X (Twitter)", "Google search results"],
+"total_staff_found": 18,
+"attorney_email_domain": "eques.law",
+"paralegals": [
+{
+"name": "Diane Mullen",
+"title": "Senior Litigation Paralegal/Case Manager",
+"email": "diane.mullen@eques.law",
+"email_options": ["diane.mullen@eques.law", "dmullen@eques.law", "diane@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Litigation",
+"quote": "Diane Mullen is the Senior Paralegal and Case Manager for Eques. She has experience as a legal secretary, legal assistant, and office manager. Diane spent 12 years working for law firms in Akron, Youngstown, and Millersburg. Diane graduated in 1987 from the University of Akron with an associate degree in Office Administration and in 1989 received her paralegal certificate from Dyke College in Cleveland.",
+"Best_match": "False",
+"Priority_score": "9"
+},
+{
+"name": "Sumer Riley",
+"title": "Transactional Paralegal/Case Manager",
+"email": "sumer.riley@eques.law",
+"email_options": ["sumer.riley@eques.law", "sriley@eques.law", "sumer@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Transactional",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Meghan Cozens",
+"title": "HOA/Litigation Paralegal",
+"email": "meghan.cozens@eques.law",
+"email_options": ["meghan.cozens@eques.law", "mcozens@eques.law", "meghan@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "HOA/Litigation",
+"quote": "Meghan Cozens is our HOA/Litigation Paralegal at our Northfield office. She earned her Associates’ Degree in Paralegal Studies back in 2016. Before starting her career with Eques, Meghan was a Paralegal for a small law firm in downtown Cleveland, Ohio, where she gained experience in dealing with HOA collection work as well as enforcement matters, foreclosures, and other HOA litigation cases for the past six years.",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Isabella Ergh",
+"title": "Legal Assistant",
+"email": "isabella.ergh@eques.law",
+"email_options": ["isabella.ergh@eques.law", "iergh@eques.law", "isabella@eques.law"],
+"email_confidence": "generated_low",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Aara Wise",
+"title": "Legal Assistant",
+"email": "aara.wise@eques.law",
+"email_options": ["aara.wise@eques.law", "awise@eques.law", "aara@eques.law"],
+"email_confidence": "generated_low",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Mary Stone",
+"title": "Legal Secretary",
+"email": "mary.stone@eques.law",
+"email_options": ["mary.stone@eques.law", "mstone@eques.law", "mary@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "4"
+},
+{
+"name": "Amy Haney",
+"title": "Licensed Title Agent/Document Specialist",
+"email": "amy.haney@eques.law",
+"email_options": ["amy.haney@eques.law", "ahaney@eques.law", "amy@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Title/Real Estate",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Robyn Montgomery",
+"title": "Estate Planning Paralegal",
+"email": "robyn.montgomery@eques.law",
+"email_options": ["robyn.montgomery@eques.law", "rmontgomery@eques.law", "robyn@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Estate Planning",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Stephanie Weaver",
+"title": "Legal Assistant",
+"email": "stephanie.weaver@eques.law",
+"email_options": ["stephanie.weaver@eques.law", "sweaver@eques.law", "stephanie@eques.law"],
+"email_confidence": "generated_low",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Brandy Jeffers",
+"title": "Senior Paralegal",
+"email": "brandy.jeffers@eques.law",
+"email_options": ["brandy.jeffers@eques.law", "bjeffers@eques.law", "brandy@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "",
+"quote": "In 1998 Brandy began working for a statewide program for families whose children had developmental delays and disabilities. She was a case manager for over 20 years.",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Beth Fletcher",
+"title": "General Practice Paralegal",
+"email": "beth.fletcher@eques.law",
+"email_options": ["beth.fletcher@eques.law", "bfletcher@eques.law", "beth@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "General Practice",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Debbie Helms",
+"title": "Paralegal",
+"email": "debbie.helms@eques.law",
+"email_options": ["debbie.helms@eques.law", "dhelms@eques.law", "debbie@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Erica Rusk",
+"title": "Systems Manager/Executive Administrative Assistant",
+"email": "erica.rusk@eques.law",
+"email_options": ["erica.rusk@eques.law", "erusk@eques.law", "erica@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Administration",
+"quote": "Erica Rusk joined White Law Office in February 2014 as the Front desk clerk. Since then, her responsibilities and role have changed to Executive Administrative Assistant, Data Base Manager and Supervisor of the Administrative Assistants.",
+"Best_match": "False",
+"Priority_score": "3"
+},
+{
+"name": "Jaime White",
+"title": "Human Resource and Operations Manager",
+"email": "jaime.white@eques.law",
+"email_options": ["jaime.white@eques.law", "jwhite@eques.law", "jaime@eques.law", "jnw@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "HR/Operations",
+"quote": "Jaime White, the wife of Christopher White, is currently the Human Resource and Operations manager at EQUES Law Group. Jaime went to school at Kentucky Christian University and received her degree in Music Education and Biblical Studies. She became the Human Resource manager for EQUES Law Group in 2013.",
+"Best_match": "False",
+"Priority_score": "2"
+},
+{
+"name": "Melissa Gongora",
+"title": "Legal Secretary/Office Administrator",
+"email": "melissa.gongora@eques.law",
+"email_options": ["melissa.gongora@eques.law", "mgongora@eques.law", "melissa@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Litigation",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "4"
+},
+{
+"name": "Kelby Crawford",
+"title": "Legal Secretary/Intake Specialist",
+"email": "kelby.crawford@eques.law",
+"email_options": ["kelby.crawford@eques.law", "kcrawford@eques.law", "kelby@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Client Intake",
+"quote": "Hired as the Legal Secretary in our Northfield office, she will be part of our amazing intake team.",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Rebecca Hill",
+"title": "Client Services Coordinator/Intake Specialist",
+"email": "rebecca.hill@eques.law",
+"email_options": ["rebecca.hill@eques.law", "rhill@eques.law", "rebecca@eques.law"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Client Services",
+"quote": "Project Manager, Content Creator, Potential Client Intake Specialist",
+"Best_match": "False",
+"Priority_score": "4"
+},
+{
+"name": "Becky Fulton",
+"title": "Administrative Assistant",
+"email": "rsf@eques.law",
+"email_options": ["becky.fulton@eques.law", "bfulton@eques.law", "becky@eques.law", "rsf@eques.law"],
+"email_confidence": "found",
+"phone": "740-472-1681",
+"department": "Family Law/Oil and Gas",
+"quote": "Becky Fulton, Administrative Assistant at Eques in Woodsfield. Ohio family law attorney consultation and oil and gas lease agreements services",
+"Best_match": "False",
+"Priority_score": "3"
+}
+],
+"best_contact_reasoning": "Meghan Cozens was selected as the best match because her role as HOA/Litigation Paralegal includes direct experience with foreclosures, enforcement matters, and HOA litigation, which directly aligns with the firm's foreclosure practice area. She is likely involved in client communications and case management for new cases in this area, making her senior enough and relevant for handling new client intake related to foreclosure matters.",
+"search_notes": "Started with browsing the main website eques.law and our-team page, which provided a list of legal staff. Used web searches to find additional profiles on LinkedIn, Facebook, Instagram, and legal directories. Browsed individual staff pages for bios and details. Searched X for mentions in posts. Found general contact email but no individual emails except one; generated options based on common patterns. Focused on cross-referencing sources to confirm roles and backgrounds, especially for foreclosure-related experience."
+}
+15 𝕏 posts
+112 web pages
+1.5s
+Expert
+Full bio for Brandy Jeffers
+Foreclosure process in Ohio
+How can Grok help?
+Auto

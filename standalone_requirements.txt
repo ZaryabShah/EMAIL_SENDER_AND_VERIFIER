@@ -4,6 +4,12 @@
 # DNS resolution for email verification
 dnspython==2.7.0
 
+# HTTP requests for proxy testing
+requests==2.31.0
+
+# Proxy support for SMTP connections (optional, for SOCKS proxies)
+PySocks==1.7.1
+
 # Email sending (built into Python, no additional packages needed)
 # smtplib - built-in
 # email - built-in

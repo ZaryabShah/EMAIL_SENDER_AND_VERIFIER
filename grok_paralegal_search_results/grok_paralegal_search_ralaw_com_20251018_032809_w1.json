@@ -1,0 +1,458 @@
+{
+  "domain": "ralaw.com",
+  "search_url": "ralaw.com",
+  "attorney_info": {
+    "original_website": "ralaw.com",
+    "attorney_name": "Irving B. Sugerman",
+    "attorney_email": "isugerman@ralaw.com",
+    "phone": "330-376-2700",
+    "firm_name": "ROETZEL & ANDRESS LPA",
+    "practice_area": "DECLARATORY JUDGMENT",
+    "case_id": "CV-2025-10-5044",
+    "row_data": {
+      "Case Number": "CV-2025-10-5044",
+      "Filing Date": "10/16/2025",
+      "Case Type": "DECLARATORY JUDGMENT",
+      "Court": "COURT OF COMMON PLEAS, SUMMIT COUNTY, OHIO",
+      "County": "SUMMIT",
+      "Plaintiff": "THE BOARD OF HEALTH OF THE SUMMIT COUNTY COMBINED GENERAL HEALTH DISTRICT",
+      "Primary Defendant": "WALL STREET RENTALS LLC",
+      "Attorney Name": "Irving B. Sugerman",
+      "Attorney Office": "ROETZEL & ANDRESS LPA",
+      "Attorney Email": "isugerman@ralaw.com",
+      "Attorney Phone": "330-376-2700",
+      "Attorney Website": "ralaw.com",
+      "Relief Requested": "Issue a preliminary and permanent injunction ordering Owner to correct and abate the nuisance., Issue a preliminary and permanent injunction ordering the Owner to abate and correct the unsafe health conditions and violations at the Property cited in the Public Health Order., Issue a preliminary and permanent injunction ordering Owner to hire a Licensed Lead Abatement Contractor (LAC), and, after the Licensed Lead Abatement Contractor abates the nuisance, have an Ohio Licensed Lead Risk Assessor complete a final inspection at the Property and produce a “clearance examination report.”, Issue an Order declaring the Property to be a common-law and statutory nuisance., Issue a preliminary and permanent injunction ordering the Owner to abate the common-law nuisance and the statutory nuisance at the Property., Issue an Order requiring the Owner and its tenants to vacate the Property unless and until the nuisance is abated., Retain jurisdiction of the Property for the purpose of making necessary orders in the future to carry out this Court’s judgment., Issue an Order declaring that Owner intentionally disregarded the Board’s Orders., Assess, fine, and impose a civil penalty of one hundred dollars for each day that Owner has violated the Board’s Orders and continuing until Owner abates the nuisance by retaining a Licensed Lead Abatement Contractor and, after the work is complete, by having an Ohio Licensed Lead Risk Assessor complete a final inspection at the Property and produce a “clearance examination report.”, Order Owner to pay all costs of this action and to pay the Board any fees or costs it has incurred herein by virtue or having to commence and prosecute this action., Grant any other relief as may be justified under the circumstances and equities of this case.",
+      "Processed At": "2025-10-17T21:48:10.601334",
+      "Folder Name": "CV-2025-10-5044_10_16_2025",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Irving B. Sugerman\n- Email: isugerman@ralaw.com\n- Phone: 330-376-2700\n- Website: ralaw.com\n- Firm: ROETZEL & ANDRESS LPA\n- Practice Area: DECLARATORY JUDGMENT\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (ralaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: isugerman@ralaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: isugerman@ralaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DECLARATORY JUDGMENT), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: ralaw.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 25,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Jessica Guida-Harris",
+        "title": "Paralegal",
+        "email": "jguida-harris@ralaw.com",
+        "email_options": [
+          "jguida-harris@ralaw.com",
+          "jessica.guida-harris@ralaw.com",
+          "jessica@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 69 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Janet Cardenas",
+        "title": "Real Estate Paralegal",
+        "email": "jcardenas@ralaw.com",
+        "email_options": [
+          "jcardenas@ralaw.com",
+          "janet.cardenas@ralaw.com",
+          "janet@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Real Estate",
+        "quote": "Real Estate Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Education: University of Florida · Location: Naples · 53 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Kathy Nunnally",
+        "title": "Paralegal",
+        "email": "knunnally@ralaw.com",
+        "email_options": [
+          "knunnally@ralaw.com",
+          "kathy.nunnally@ralaw.com",
+          "kathy@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Fort Myers · 5 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Cheryl Kutay",
+        "title": "Real Estate Paralegal",
+        "email": "ckutay@ralaw.com",
+        "email_options": [
+          "ckutay@ralaw.com",
+          "cheryl.kutay@ralaw.com",
+          "cheryl@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Real Estate",
+        "quote": "Real Estate Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 245 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Jamie Ritter",
+        "title": "REO/Real Estate Paralegal",
+        "email": "jritter@ralaw.com",
+        "email_options": [
+          "jritter@ralaw.com",
+          "jamie.ritter@ralaw.com",
+          "jamie@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Real Estate",
+        "quote": "REO/Real Estate Paralegal at Roetzel & Andress · I specialize in REO closings. · Experience: Roetzel & Andress · Education: University of Miami and Florida.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Deborah S. Davis",
+        "title": "Paralegal",
+        "email": "ddavis@ralaw.com",
+        "email_options": [
+          "ddavis@ralaw.com",
+          "deborah.davis@ralaw.com",
+          "deborah@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 37 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Heidi Manni",
+        "title": "Collections Paralegal",
+        "email": "hmanni@ralaw.com",
+        "email_options": [
+          "hmanni@ralaw.com",
+          "heidi.manni@ralaw.com",
+          "heidi@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Collections",
+        "quote": "Collections Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Education: University of Minnesota-Twin Cities · Location: Bonita Springs · 43 connections.",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Carla Thoman",
+        "title": "Paralegal",
+        "email": "cthoman@ralaw.com",
+        "email_options": [
+          "cthoman@ralaw.com",
+          "carla.thoman@ralaw.com",
+          "carla@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron · 1 connection on LinkedIn.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Connie Carlin",
+        "title": "Legal Assistant",
+        "email": "ccarlin@ralaw.com",
+        "email_options": [
+          "ccarlin@ralaw.com",
+          "connie.carlin@ralaw.com",
+          "connie@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: Bryant & Stratton · Location: Cleveland · 275 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "LaFaria Wilson",
+        "title": "Legal Assistant",
+        "email": "lwilson@ralaw.com",
+        "email_options": [
+          "lwilson@ralaw.com",
+          "lafaria.wilson@ralaw.com",
+          "lafaria@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: Shaw High School · Location: Cincinnati · 99 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Nicole Mayer",
+        "title": "Legal Assistant",
+        "email": "nmayer@ralaw.com",
+        "email_options": [
+          "nmayer@ralaw.com",
+          "nicole.mayer@ralaw.com",
+          "nicole@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Denise Mauser",
+        "title": "Legal Assistant",
+        "email": "dmauser@ralaw.com",
+        "email_options": [
+          "dmauser@ralaw.com",
+          "denise.mauser@ralaw.com",
+          "denise@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: Baldwin-Wallace College · Location: Akron · 194 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Michelle Danko",
+        "title": "Legal Assistant",
+        "email": "mdanko@ralaw.com",
+        "email_options": [
+          "mdanko@ralaw.com",
+          "michelle.danko@ralaw.com",
+          "michelle@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Location: Olmsted Falls · 1 connection on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Carol Regula",
+        "title": "Legal Assistant",
+        "email": "cregula@ralaw.com",
+        "email_options": [
+          "cregula@ralaw.com",
+          "carol.regula@ralaw.com",
+          "carol@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress, LPA · Experience: Roetzel & Andress, LPA · Education: Ocean County College · Location: Naples · 1 connection on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Trina Eastman",
+        "title": "Legal Assistant",
+        "email": "teastman@ralaw.com",
+        "email_options": [
+          "teastman@ralaw.com",
+          "trina.eastman@ralaw.com",
+          "trina@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 13 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Christine Tucker",
+        "title": "Legal Assistant",
+        "email": "ctucker@ralaw.com",
+        "email_options": [
+          "ctucker@ralaw.com",
+          "christine.tucker@ralaw.com",
+          "christine@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: The University of Akron · Location: Akron · 29 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Cathy Meacham",
+        "title": "Legal Assistant",
+        "email": "cmeacham@ralaw.com",
+        "email_options": [
+          "cmeacham@ralaw.com",
+          "cathy.meacham@ralaw.com",
+          "cathy@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Assistant/Council Clerk at Roetzel & Andress/City of Cuyahoga Falls.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Sandra O'Rourke",
+        "title": "Legal Secretary - Litigation",
+        "email": "sorourke@ralaw.com",
+        "email_options": [
+          "sorourke@ralaw.com",
+          "sandra.orourke@ralaw.com",
+          "sandra@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Legal Secretary - Litigation at Roetzel & Andress · Experienced Legal Secretary and strong legal professional with a Paralegal Certificate and successful experience.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Anita Gill",
+        "title": "Legal Secretary",
+        "email": "agill@ralaw.com",
+        "email_options": [
+          "agill@ralaw.com",
+          "anita.gill@ralaw.com",
+          "anita@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron · 29 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Lynn Mumford",
+        "title": "Legal Secretary",
+        "email": "lmumford@ralaw.com",
+        "email_options": [
+          "lmumford@ralaw.com",
+          "lynn.mumford@ralaw.com",
+          "lynn@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Secretary at Roetzel & Andress · I am hard working, driven, conscientious, detail-oriented and motivated to succeed. · Experience: Carlile Patchen.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Sue Schlanger",
+        "title": "Legal Secretary",
+        "email": "sschlanger@ralaw.com",
+        "email_options": [
+          "sschlanger@ralaw.com",
+          "sue.schlanger@ralaw.com",
+          "sue@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Greater Chicago Area · 12 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Lynn Browning",
+        "title": "Legal Secretary",
+        "email": "lbrowning@ralaw.com",
+        "email_options": [
+          "lbrowning@ralaw.com",
+          "lynn.browning@ralaw.com",
+          "lynn@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron · 10 connections on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Kimberly Brabham",
+        "title": "Legal Secretary",
+        "email": "kbrabham@ralaw.com",
+        "email_options": [
+          "kbrabham@ralaw.com",
+          "kimberly.brabham@ralaw.com",
+          "kimberly@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Sharon Schultz",
+        "title": "Legal Secretary",
+        "email": "sschultz@ralaw.com",
+        "email_options": [
+          "sschultz@ralaw.com",
+          "sharon.schultz@ralaw.com",
+          "sharon@ralaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "General",
+        "quote": "Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Canfield · 1 connection on LinkedIn.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Irving B. Sugerman\n- Email: isugerman@ralaw.com\n- Phone: 330-376-2700\n- Website: ralaw.com\n- Firm: ROETZEL & ANDRESS LPA\n- Practice Area: DECLARATORY JUDGMENT\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (ralaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: isugerman@ralaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: isugerman@ralaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DECLARATORY JUDGMENT), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: ralaw.com\nThought for 1m 17s\n{\n\"page_url\": \"https://www.ralaw.com\",\n\"search_sources\": [\"https://www.ralaw.com\", \"https://www.linkedin.com\", \"https://www.facebook.com/RoetzelAndress\", \"https://www.instagram.com\", \"https://www.avvo.com\", \"https://www.findlaw.com\", \"https://www.lawyers.com\"],\n\"total_staff_found\": 24,\n\"attorney_email_domain\": \"ralaw.com\",\n\"paralegals\": [\n{\n\"name\": \"Jessica Guida-Harris\",\n\"title\": \"Paralegal\",\n\"email\": \"jguida-harris@ralaw.com\",\n\"email_options\": [\"jguida-harris@ralaw.com\", \"jessica.guida-harris@ralaw.com\", \"jessica@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 69 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Janet Cardenas\",\n\"title\": \"Real Estate Paralegal\",\n\"email\": \"jcardenas@ralaw.com\",\n\"email_options\": [\"jcardenas@ralaw.com\", \"janet.cardenas@ralaw.com\", \"janet@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Real Estate\",\n\"quote\": \"Real Estate Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Education: University of Florida · Location: Naples · 53 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Kathy Nunnally\",\n\"title\": \"Paralegal\",\n\"email\": \"knunnally@ralaw.com\",\n\"email_options\": [\"knunnally@ralaw.com\", \"kathy.nunnally@ralaw.com\", \"kathy@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Fort Myers · 5 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Cheryl Kutay\",\n\"title\": \"Real Estate Paralegal\",\n\"email\": \"ckutay@ralaw.com\",\n\"email_options\": [\"ckutay@ralaw.com\", \"cheryl.kutay@ralaw.com\", \"cheryl@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Real Estate\",\n\"quote\": \"Real Estate Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 245 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Jamie Ritter\",\n\"title\": \"REO/Real Estate Paralegal\",\n\"email\": \"jritter@ralaw.com\",\n\"email_options\": [\"jritter@ralaw.com\", \"jamie.ritter@ralaw.com\", \"jamie@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Real Estate\",\n\"quote\": \"REO/Real Estate Paralegal at Roetzel & Andress · I specialize in REO closings. · Experience: Roetzel & Andress · Education: University of Miami and Florida.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Deborah S. Davis\",\n\"title\": \"Paralegal\",\n\"email\": \"ddavis@ralaw.com\",\n\"email_options\": [\"ddavis@ralaw.com\", \"deborah.davis@ralaw.com\", \"deborah@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 37 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Heidi Manni\",\n\"title\": \"Collections Paralegal\",\n\"email\": \"hmanni@ralaw.com\",\n\"email_options\": [\"hmanni@ralaw.com\", \"heidi.manni@ralaw.com\", \"heidi@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Collections\",\n\"quote\": \"Collections Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Education: University of Minnesota-Twin Cities · Location: Bonita Springs · 43 connections.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Carla Thoman\",\n\"title\": \"Paralegal\",\n\"email\": \"cthoman@ralaw.com\",\n\"email_options\": [\"cthoman@ralaw.com\", \"carla.thoman@ralaw.com\", \"carla@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Paralegal at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron · 1 connection on LinkedIn.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Connie Carlin\",\n\"title\": \"Legal Assistant\",\n\"email\": \"ccarlin@ralaw.com\",\n\"email_options\": [\"ccarlin@ralaw.com\", \"connie.carlin@ralaw.com\", \"connie@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: Bryant & Stratton · Location: Cleveland · 275 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"LaFaria Wilson\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lwilson@ralaw.com\",\n\"email_options\": [\"lwilson@ralaw.com\", \"lafaria.wilson@ralaw.com\", \"lafaria@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: Shaw High School · Location: Cincinnati · 99 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Nicole Mayer\",\n\"title\": \"Legal Assistant\",\n\"email\": \"nmayer@ralaw.com\",\n\"email_options\": [\"nmayer@ralaw.com\", \"nicole.mayer@ralaw.com\", \"nicole@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Denise Mauser\",\n\"title\": \"Legal Assistant\",\n\"email\": \"dmauser@ralaw.com\",\n\"email_options\": [\"dmauser@ralaw.com\", \"denise.mauser@ralaw.com\", \"denise@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: Baldwin-Wallace College · Location: Akron · 194 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Michelle Danko\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mdanko@ralaw.com\",\n\"email_options\": [\"mdanko@ralaw.com\", \"michelle.danko@ralaw.com\", \"michelle@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Location: Olmsted Falls · 1 connection on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Carol Regula\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cregula@ralaw.com\",\n\"email_options\": [\"cregula@ralaw.com\", \"carol.regula@ralaw.com\", \"carol@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress, LPA · Experience: Roetzel & Andress, LPA · Education: Ocean County College · Location: Naples · 1 connection on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Trina Eastman\",\n\"title\": \"Legal Assistant\",\n\"email\": \"teastman@ralaw.com\",\n\"email_options\": [\"teastman@ralaw.com\", \"trina.eastman@ralaw.com\", \"trina@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Location: Naples · 13 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Christine Tucker\",\n\"title\": \"Legal Assistant\",\n\"email\": \"ctucker@ralaw.com\",\n\"email_options\": [\"ctucker@ralaw.com\", \"christine.tucker@ralaw.com\", \"christine@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant at Roetzel & Andress · Experience: Roetzel & Andress · Education: The University of Akron · Location: Akron · 29 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Cathy Meacham\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cmeacham@ralaw.com\",\n\"email_options\": [\"cmeacham@ralaw.com\", \"cathy.meacham@ralaw.com\", \"cathy@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Assistant/Council Clerk at Roetzel & Andress/City of Cuyahoga Falls.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Sandra O'Rourke\",\n\"title\": \"Legal Secretary - Litigation\",\n\"email\": \"sorourke@ralaw.com\",\n\"email_options\": [\"sorourke@ralaw.com\", \"sandra.orourke@ralaw.com\", \"sandra@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Legal Secretary - Litigation at Roetzel & Andress · Experienced Legal Secretary and strong legal professional with a Paralegal Certificate and successful experience.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Anita Gill\",\n\"title\": \"Legal Secretary\",\n\"email\": \"agill@ralaw.com\",\n\"email_options\": [\"agill@ralaw.com\", \"anita.gill@ralaw.com\", \"anita@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron · 29 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Lynn Mumford\",\n\"title\": \"Legal Secretary\",\n\"email\": \"lmumford@ralaw.com\",\n\"email_options\": [\"lmumford@ralaw.com\", \"lynn.mumford@ralaw.com\", \"lynn@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Secretary at Roetzel & Andress · I am hard working, driven, conscientious, detail-oriented and motivated to succeed. · Experience: Carlile Patchen.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Sue Schlanger\",\n\"title\": \"Legal Secretary\",\n\"email\": \"sschlanger@ralaw.com\",\n\"email_options\": [\"sschlanger@ralaw.com\", \"sue.schlanger@ralaw.com\", \"sue@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Greater Chicago Area · 12 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Lynn Browning\",\n\"title\": \"Legal Secretary\",\n\"email\": \"lbrowning@ralaw.com\",\n\"email_options\": [\"lbrowning@ralaw.com\", \"lynn.browning@ralaw.com\", \"lynn@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron · 10 connections on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Kimberly Brabham\",\n\"title\": \"Legal Secretary\",\n\"email\": \"kbrabham@ralaw.com\",\n\"email_options\": [\"kbrabham@ralaw.com\", \"kimberly.brabham@ralaw.com\", \"kimberly@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Akron.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Sharon Schultz\",\n\"title\": \"Legal Secretary\",\n\"email\": \"sschultz@ralaw.com\",\n\"email_options\": [\"sschultz@ralaw.com\", \"sharon.schultz@ralaw.com\", \"sharon@ralaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"General\",\n\"quote\": \"Legal Secretary at Roetzel & Andress · Experience: Roetzel & Andress · Location: Canfield · 1 connection on LinkedIn.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n}\n],\n\"best_contact_reasoning\": \"Carla Thoman was selected as the best match because she is a paralegal based in the Akron office, matching the location of attorney Irving B. Sugerman. As a paralegal, she holds a senior support role likely involved in client intake and case management for practice areas like declaratory judgment, which involves litigation. Other candidates are either in different locations or lower-level roles like secretaries, making her the most suitable for handling new client matters in the relevant area.\",\n\"search_notes\": \"The firm's website (ralaw.com) provided no details on support staff, only attorney profiles. Extensive searches on LinkedIn yielded the majority of results through targeted queries for roles and firm name. Social media (Facebook, Instagram) and legal directories (Avvo, FindLaw, Lawyers.com) offered no additional staff information. Focused on current employees; excluded former ones. Generated emails based on the attorney's pattern for consistency.\"\n}\n92 web pages\n2.2s\nExpert\nVerify email patterns with more examples\nResearch Irving B. Sugerman's bio\nAdd phone numbers where possible\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:28:09.856243",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_032809.txt"
+  },
+  "search_completed_at": "2025-10-18T03:28:09.893479",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_ralaw_com_20251018_032809_w1.json"
+}

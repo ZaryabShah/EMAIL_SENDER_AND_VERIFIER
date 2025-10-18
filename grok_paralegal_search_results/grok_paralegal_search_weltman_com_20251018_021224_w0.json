@@ -1,0 +1,682 @@
+{
+  "domain": "weltman.com",
+  "search_url": "weltman.com",
+  "attorney_info": {
+    "original_website": "weltman.com",
+    "attorney_name": "ALEXANDER WEINBERG",
+    "attorney_email": "BROATTY@WELTMAN.COM",
+    "phone": "216-739-5100",
+    "firm_name": "WELTMAN, WEINBERG & REIS CO., L.P.A.",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "CUYAHOGA COUNTY COURT OF COMMON PLEAS",
+      "County": "CUYAHOGA",
+      "Plaintiff": "CAPITAL ONE, N.A.",
+      "Primary Defendant": "CAYAWNEE A MORRIS",
+      "Attorney Name": "ALEXANDER WEINBERG",
+      "Attorney Office": "WELTMAN, WEINBERG & REIS CO., L.P.A.",
+      "Attorney Email": "BROATTY@WELTMAN.COM",
+      "Attorney Phone": "216-739-5100",
+      "Attorney Website": "weltman.com",
+      "Relief Requested": "$1,461.77",
+      "Processed At": "2025-10-18T01:04:30.503710",
+      "Folder Name": "case_3645909",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: ALEXANDER WEINBERG\n- Email: BROATTY@WELTMAN.COM\n- Phone: 216-739-5100\n- Website: weltman.com\n- Firm: WELTMAN, WEINBERG & REIS CO., L.P.A.\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (weltman.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: BROATTY@WELTMAN.COM and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: BROATTY@WELTMAN.COM\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: weltman.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 39,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Kala Williams",
+        "title": "Paralegal",
+        "email": "kwilliams@weltman.com",
+        "email_options": [
+          "kwilliams@weltman.com",
+          "kala.williams@weltman.com",
+          "kalawilliams@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: American Musical and Dramatic Academy · Location: Philadelphia",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Tamara Williams",
+        "title": "Paralegal",
+        "email": "twilliams@weltman.com",
+        "email_options": [
+          "twilliams@weltman.com",
+          "tamara.williams@weltman.com",
+          "tamarawilliams@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg, and Reis · Experience: Weltman, Weinberg, and Reis · Education: Frankford High · Location: Philadelphia",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Heidi Kelly",
+        "title": "Paralegal",
+        "email": "hkelly@weltman.com",
+        "email_options": [
+          "hkelly@weltman.com",
+          "heidi.kelly@weltman.com",
+          "heidikelly@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Pittsburgh",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Katie Prosen",
+        "title": "Paralegal",
+        "email": "kprosen@weltman.com",
+        "email_options": [
+          "kprosen@weltman.com",
+          "katie.prosen@weltman.com",
+          "katieprosen@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg & Reis · I have been a paralegal/legal assistant/legal secretary for over 20 years",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Blake Simms",
+        "title": "Paralegal",
+        "email": "bsimms@weltman.com",
+        "email_options": [
+          "bsimms@weltman.com",
+          "blake.simms@weltman.com",
+          "blakesimms@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg & Reis Co., LPA: · Associate's degree from Robert Morris University and a Bachelor's degree at Loyola University in paralegal",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Mika Born",
+        "title": "Paralegal",
+        "email": "mborn@weltman.com",
+        "email_options": [
+          "mborn@weltman.com",
+          "mika.born@weltman.com",
+          "mikaborn@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Detroit",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Jamilyn Popovich",
+        "title": "Paralegal",
+        "email": "jpopovich@weltman.com",
+        "email_options": [
+          "jpopovich@weltman.com",
+          "jamilyn.popovich@weltman.com",
+          "jamilynpopovich@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Pittsburgh",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Angela Magda",
+        "title": "Legal Assistant Paralegal",
+        "email": "amagda@weltman.com",
+        "email_options": [
+          "amagda@weltman.com",
+          "angela.magda@weltman.com",
+          "angelamagda@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant Paralegal. Weltman, Weinberg & Reis Co., LPA. Sep 2011 - Present 14 years 1 month",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Deanna Soligny",
+        "title": "Paralegal",
+        "email": "dsoligny@weltman.com",
+        "email_options": [
+          "dsoligny@weltman.com",
+          "deanna.soligny@weltman.com",
+          "deannasoligny@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal · Experience: Weltman, Weinberg & Reis Co., LPA · Education: Cuyahoga Community College · Location: Port St Lucie",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Theresa Wawrosz",
+        "title": "Legal Assistant",
+        "email": "twawrosz@weltman.com",
+        "email_options": [
+          "twawrosz@weltman.com",
+          "theresa.wawrosz@weltman.com",
+          "theresawawrosz@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Elizabeth Allen",
+        "title": "Legal Assistant",
+        "email": "eallen@weltman.com",
+        "email_options": [
+          "eallen@weltman.com",
+          "elizabeth.allen@weltman.com",
+          "elizabethallen@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg, & Reis Co., LPA · I am a 2024 J.D. Candidate at Salmon P. Chase College of Law and a magna cum laude graduate",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Rebeca Marshall",
+        "title": "Legal Assistant",
+        "email": "rmarshall@weltman.com",
+        "email_options": [
+          "rmarshall@weltman.com",
+          "rebeca.marshall@weltman.com",
+          "rebecamarshall@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cincinnati",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jasmine Sood",
+        "title": "Legal Assistant",
+        "email": "jsood@weltman.com",
+        "email_options": [
+          "jsood@weltman.com",
+          "jasmine.sood@weltman.com",
+          "jasminesood@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant | Weltman, Weinberg & Reis Co., LPA · Hi, my name is Jasmine! I am an aspiring paralegal with hands-on experience in client communication",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Cheri Zmija",
+        "title": "Legal Assistant II",
+        "email": "czmija@weltman.com",
+        "email_options": [
+          "czmija@weltman.com",
+          "cheri.zmija@weltman.com",
+          "cherizmija@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant II. Weltman, Weinberg & Reis. Aug 2008 - Present 17 years 1 month. COLLECTOR, REDEMPTION SPECIALIST, ESTATE CLAIMS SPECIALIST AND PARALEGAL",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Lori Sanger",
+        "title": "Legal Assistant",
+        "email": "lsanger@weltman.com",
+        "email_options": [
+          "lsanger@weltman.com",
+          "lori.sanger@weltman.com",
+          "lorisanger@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cincinnati",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Martha May",
+        "title": "Legal Assistant",
+        "email": "mmay@weltman.com",
+        "email_options": [
+          "mmay@weltman.com",
+          "martha.may@weltman.com",
+          "marthamay@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Richard Frum",
+        "title": "Legal Assistant",
+        "email": "rfrum@weltman.com",
+        "email_options": [
+          "rfrum@weltman.com",
+          "richard.frum@weltman.com",
+          "richardfrum@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg & Reis",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Laura Harrison",
+        "title": "Legal Assistant",
+        "email": "lharrison@weltman.com",
+        "email_options": [
+          "lharrison@weltman.com",
+          "laura.harrison@weltman.com",
+          "lauraharrison@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Weltman, Weinberg & Reis Co., LPA. Weltman, Weinberg ... Cuyahoga Community College. Paralegal Studies Post Degree Professional Certificate",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jazmin Cornejo",
+        "title": "Senior Legal Assistant",
+        "email": "jcornejo@weltman.com",
+        "email_options": [
+          "jcornejo@weltman.com",
+          "jazmin.cornejo@weltman.com",
+          "jazmincornejo@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Senior Legal Assistant at Weltman, Weinberg & Reis - 3 years experience",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Christol McKernan",
+        "title": "Legal Assistant Auditor",
+        "email": "cmckernan@weltman.com",
+        "email_options": [
+          "cmckernan@weltman.com",
+          "christol.mckernan@weltman.com",
+          "christolmckernan@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant Auditor at Weltman, Weinberg & Reis Co., LPA · A highly accomplished professional, with an excellent track record in Customer Service",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Michelle Collins",
+        "title": "Executive Administrator to Legal Collections",
+        "email": "mcollins@weltman.com",
+        "email_options": [
+          "mcollins@weltman.com",
+          "michelle.collins@weltman.com",
+          "michellecollins@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Executive Administrator to Legal Collections at Weltman, Weinberg & Reis Co., LPA · Experienced Case Manager with exceptional knowledge of Creditor's Rights",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Shanissa Neal",
+        "title": "Legal Case Manager",
+        "email": "sneal@weltman.com",
+        "email_options": [
+          "sneal@weltman.com",
+          "shanissa.neal@weltman.com",
+          "shanissaneal@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Case Manager. Weltman, Weinberg & Reis Co., LPA. Sep 2021 - Present 4 years 1 month",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Alexandria Ramos",
+        "title": "Case Manager",
+        "email": "aramos@weltman.com",
+        "email_options": [
+          "aramos@weltman.com",
+          "alexandria.ramos@weltman.com",
+          "alexandriaramos@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Case Manager/ Customer Service/. Weltman, Weinberg & Reis Co., LPA Bryant and Stratton College-Parma. Cleveland, Ohio, United States",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Denise Loyd",
+        "title": "Executive Legal Secretary",
+        "email": "dloyd@weltman.com",
+        "email_options": [
+          "dloyd@weltman.com",
+          "denise.loyd@weltman.com",
+          "deniseloyd@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Executive Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Valley Forge High School · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Renee Goldsmith",
+        "title": "Legal Secretary",
+        "email": "rgoldsmith@weltman.com",
+        "email_options": [
+          "rgoldsmith@weltman.com",
+          "renee.goldsmith@weltman.com",
+          "reneegoldsmith@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary 3. Weltman, Weinberg & Reis. Oct 2008 - Present 17 years 1 month",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Michelle Raphael",
+        "title": "Legal Secretary",
+        "email": "mraphael@weltman.com",
+        "email_options": [
+          "mraphael@weltman.com",
+          "michelle.raphael@weltman.com",
+          "michelleraphael@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Lakeland Community College · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Mary Beth Childs",
+        "title": "Legal Secretary",
+        "email": "mchilds@weltman.com",
+        "email_options": [
+          "mchilds@weltman.com",
+          "marybeth.childs@weltman.com",
+          "marybethchilds@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Carol Hayes",
+        "title": "Legal Secretary",
+        "email": "chayes@weltman.com",
+        "email_options": [
+          "chayes@weltman.com",
+          "carol.hayes@weltman.com",
+          "carolhayes@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Sandusky High School · Location: Westlake",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Renee Dregalla",
+        "title": "Legal Secretary",
+        "email": "rdregalla@weltman.com",
+        "email_options": [
+          "rdregalla@weltman.com",
+          "renee.dregalla@weltman.com",
+          "reneedregalla@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Padua · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Lisa Kuehn",
+        "title": "Legal Secretary Supervisor",
+        "email": "lkuehn@weltman.com",
+        "email_options": [
+          "lkuehn@weltman.com",
+          "lisa.kuehn@weltman.com",
+          "lisakuehn@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary Supervisor at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Independence",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Rachel Santiago",
+        "title": "Legal Secretary II",
+        "email": "rsantiago@weltman.com",
+        "email_options": [
+          "rsantiago@weltman.com",
+          "rachel.santiago@weltman.com",
+          "rachelsantiago@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary II at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Kelly Kravitz",
+        "title": "Legal Secretary",
+        "email": "kkravitz@weltman.com",
+        "email_options": [
+          "kkravitz@weltman.com",
+          "kelly.kravitz@weltman.com",
+          "kellykravitz@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Secretary in Ohio · Experience: Weltman, Weinberg & Reis Co., LPA · Education: Purdue Global · Location: Columbus, Ohio Metropolitan Area",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Betsy Ruiz",
+        "title": "Legal Administrative Assistant",
+        "email": "bruiz@weltman.com",
+        "email_options": [
+          "bruiz@weltman.com",
+          "betsy.ruiz@weltman.com",
+          "betsyruiz@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Administrative Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Amanda Bowen",
+        "title": "Administrative Legal Assistant",
+        "email": "abowen@weltman.com",
+        "email_options": [
+          "abowen@weltman.com",
+          "amanda.bowen@weltman.com",
+          "amandabowen@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Administrative Legal Assistant. Weltman, Weinberg & Reis Co., LPA",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jodi Thompson",
+        "title": "Administrative Assistant",
+        "email": "jthompson@weltman.com",
+        "email_options": [
+          "jthompson@weltman.com",
+          "jodi.thompson@weltman.com",
+          "jodithompson@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Administrative Assistant at Weltman, Weinberg & Reis Co., LPA · Experience: Weltman, Weinberg & Reis Co., LPA · Location: Columbus, Ohio Metropolitan Area",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Corinne Genis",
+        "title": "Administrative Assistant",
+        "email": "cgenis@weltman.com",
+        "email_options": [
+          "cgenis@weltman.com",
+          "corinne.genis@weltman.com",
+          "corinnegenis@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Administrative Asst at Weltman, Weinberg & Reis Co., LPA · Experience: Weltman, Weinberg & Reis Co., LPA · Location: Columbus",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Carol Higgins",
+        "title": "Administrative Assistant",
+        "email": "chiggins@weltman.com",
+        "email_options": [
+          "chiggins@weltman.com",
+          "carol.higgins@weltman.com",
+          "carolhiggins@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Administrative Assistant · Experience: Weltman, Weinberg & Reis · Education: Whittier College · Location: Brunswick",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Brian Truskolaski",
+        "title": "Document Administrator",
+        "email": "btruskolaski@weltman.com",
+        "email_options": [
+          "btruskolaski@weltman.com",
+          "brian.truskolaski@weltman.com",
+          "briantruskolaski@weltman.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Document Administrator at Weltman, Weinberg & Reis Co., LPA · Experience: Weltman, Weinberg & Reis Co., LPA · Location: Cleveland",
+        "Best_match": "False",
+        "Priority_score": "4"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: ALEXANDER WEINBERG\n- Email: BROATTY@WELTMAN.COM\n- Phone: 216-739-5100\n- Website: weltman.com\n- Firm: WELTMAN, WEINBERG & REIS CO., L.P.A.\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (weltman.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: BROATTY@WELTMAN.COM and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: BROATTY@WELTMAN.COM\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: weltman.com\nThought for 4m 34s\n{\n\"page_url\": \"https://www.weltman.com\",\n\"search_sources\": [\"https://www.weltman.com\", \"https://www.linkedin.com\"],\n\"total_staff_found\": 38,\n\"attorney_email_domain\": \"weltman.com\",\n\"paralegals\": [\n{\n\"name\": \"Kala Williams\",\n\"title\": \"Paralegal\",\n\"email\": \"kwilliams@weltman.com\",\n\"email_options\": [\"kwilliams@weltman.com\", \"kala.williams@weltman.com\", \"kalawilliams@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: American Musical and Dramatic Academy · Location: Philadelphia\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Tamara Williams\",\n\"title\": \"Paralegal\",\n\"email\": \"twilliams@weltman.com\",\n\"email_options\": [\"twilliams@weltman.com\", \"tamara.williams@weltman.com\", \"tamarawilliams@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg, and Reis · Experience: Weltman, Weinberg, and Reis · Education: Frankford High · Location: Philadelphia\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Heidi Kelly\",\n\"title\": \"Paralegal\",\n\"email\": \"hkelly@weltman.com\",\n\"email_options\": [\"hkelly@weltman.com\", \"heidi.kelly@weltman.com\", \"heidikelly@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Pittsburgh\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Katie Prosen\",\n\"title\": \"Paralegal\",\n\"email\": \"kprosen@weltman.com\",\n\"email_options\": [\"kprosen@weltman.com\", \"katie.prosen@weltman.com\", \"katieprosen@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg & Reis · I have been a paralegal/legal assistant/legal secretary for over 20 years\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Blake Simms\",\n\"title\": \"Paralegal\",\n\"email\": \"bsimms@weltman.com\",\n\"email_options\": [\"bsimms@weltman.com\", \"blake.simms@weltman.com\", \"blakesimms@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg & Reis Co., LPA: · Associate's degree from Robert Morris University and a Bachelor's degree at Loyola University in paralegal\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Mika Born\",\n\"title\": \"Paralegal\",\n\"email\": \"mborn@weltman.com\",\n\"email_options\": [\"mborn@weltman.com\", \"mika.born@weltman.com\", \"mikaborn@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Detroit\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Jamilyn Popovich\",\n\"title\": \"Paralegal\",\n\"email\": \"jpopovich@weltman.com\",\n\"email_options\": [\"jpopovich@weltman.com\", \"jamilyn.popovich@weltman.com\", \"jamilynpopovich@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Pittsburgh\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Angela Magda\",\n\"title\": \"Legal Assistant Paralegal\",\n\"email\": \"amagda@weltman.com\",\n\"email_options\": [\"amagda@weltman.com\", \"angela.magda@weltman.com\", \"angelamagda@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant Paralegal. Weltman, Weinberg & Reis Co., LPA. Sep 2011 - Present 14 years 1 month\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Deanna Soligny\",\n\"title\": \"Paralegal\",\n\"email\": \"dsoligny@weltman.com\",\n\"email_options\": [\"dsoligny@weltman.com\", \"deanna.soligny@weltman.com\", \"deannasoligny@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal · Experience: Weltman, Weinberg & Reis Co., LPA · Education: Cuyahoga Community College · Location: Port St Lucie\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Theresa Wawrosz\",\n\"title\": \"Legal Assistant\",\n\"email\": \"twawrosz@weltman.com\",\n\"email_options\": [\"twawrosz@weltman.com\", \"theresa.wawrosz@weltman.com\", \"theresawawrosz@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Elizabeth Allen\",\n\"title\": \"Legal Assistant\",\n\"email\": \"eallen@weltman.com\",\n\"email_options\": [\"eallen@weltman.com\", \"elizabeth.allen@weltman.com\", \"elizabethallen@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg, & Reis Co., LPA · I am a 2024 J.D. Candidate at Salmon P. Chase College of Law and a magna cum laude graduate\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Rebeca Marshall\",\n\"title\": \"Legal Assistant\",\n\"email\": \"rmarshall@weltman.com\",\n\"email_options\": [\"rmarshall@weltman.com\", \"rebeca.marshall@weltman.com\", \"rebecamarshall@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cincinnati\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jasmine Sood\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jsood@weltman.com\",\n\"email_options\": [\"jsood@weltman.com\", \"jasmine.sood@weltman.com\", \"jasminesood@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant | Weltman, Weinberg & Reis Co., LPA · Hi, my name is Jasmine! I am an aspiring paralegal with hands-on experience in client communication\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Cheri Zmija\",\n\"title\": \"Legal Assistant II\",\n\"email\": \"czmija@weltman.com\",\n\"email_options\": [\"czmija@weltman.com\", \"cheri.zmija@weltman.com\", \"cherizmija@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant II. Weltman, Weinberg & Reis. Aug 2008 - Present 17 years 1 month. COLLECTOR, REDEMPTION SPECIALIST, ESTATE CLAIMS SPECIALIST AND PARALEGAL\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Lori Sanger\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lsanger@weltman.com\",\n\"email_options\": [\"lsanger@weltman.com\", \"lori.sanger@weltman.com\", \"lorisanger@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cincinnati\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Martha May\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mmay@weltman.com\",\n\"email_options\": [\"mmay@weltman.com\", \"martha.may@weltman.com\", \"marthamay@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Richard Frum\",\n\"title\": \"Legal Assistant\",\n\"email\": \"rfrum@weltman.com\",\n\"email_options\": [\"rfrum@weltman.com\", \"richard.frum@weltman.com\", \"richardfrum@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg & Reis\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Laura Harrison\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lharrison@weltman.com\",\n\"email_options\": [\"lharrison@weltman.com\", \"laura.harrison@weltman.com\", \"lauraharrison@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Weltman, Weinberg & Reis Co., LPA. Weltman, Weinberg ... Cuyahoga Community College. Paralegal Studies Post Degree Professional Certificate\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jazmin Cornejo\",\n\"title\": \"Senior Legal Assistant\",\n\"email\": \"jcornejo@weltman.com\",\n\"email_options\": [\"jcornejo@weltman.com\", \"jazmin.cornejo@weltman.com\", \"jazmincornejo@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Senior Legal Assistant at Weltman, Weinberg & Reis - 3 years experience\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Christol McKernan\",\n\"title\": \"Legal Assistant Auditor\",\n\"email\": \"cmckernan@weltman.com\",\n\"email_options\": [\"cmckernan@weltman.com\", \"christol.mckernan@weltman.com\", \"christolmckernan@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant Auditor at Weltman, Weinberg & Reis Co., LPA · A highly accomplished professional, with an excellent track record in Customer Service\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Michelle Collins\",\n\"title\": \"Executive Administrator to Legal Collections\",\n\"email\": \"mcollins@weltman.com\",\n\"email_options\": [\"mcollins@weltman.com\", \"michelle.collins@weltman.com\", \"michellecollins@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Executive Administrator to Legal Collections at Weltman, Weinberg & Reis Co., LPA · Experienced Case Manager with exceptional knowledge of Creditor's Rights\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Shanissa Neal\",\n\"title\": \"Legal Case Manager\",\n\"email\": \"sneal@weltman.com\",\n\"email_options\": [\"sneal@weltman.com\", \"shanissa.neal@weltman.com\", \"shanissaneal@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Case Manager. Weltman, Weinberg & Reis Co., LPA. Sep 2021 - Present 4 years 1 month\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Alexandria Ramos\",\n\"title\": \"Case Manager\",\n\"email\": \"aramos@weltman.com\",\n\"email_options\": [\"aramos@weltman.com\", \"alexandria.ramos@weltman.com\", \"alexandriaramos@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Case Manager/ Customer Service/. Weltman, Weinberg & Reis Co., LPA Bryant and Stratton College-Parma. Cleveland, Ohio, United States\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Denise Loyd\",\n\"title\": \"Executive Legal Secretary\",\n\"email\": \"dloyd@weltman.com\",\n\"email_options\": [\"dloyd@weltman.com\", \"denise.loyd@weltman.com\", \"deniseloyd@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Executive Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Valley Forge High School · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Renee Goldsmith\",\n\"title\": \"Legal Secretary\",\n\"email\": \"rgoldsmith@weltman.com\",\n\"email_options\": [\"rgoldsmith@weltman.com\", \"renee.goldsmith@weltman.com\", \"reneegoldsmith@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary 3. Weltman, Weinberg & Reis. Oct 2008 - Present 17 years 1 month\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Michelle Raphael\",\n\"title\": \"Legal Secretary\",\n\"email\": \"mraphael@weltman.com\",\n\"email_options\": [\"mraphael@weltman.com\", \"michelle.raphael@weltman.com\", \"michelleraphael@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Lakeland Community College · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Mary Beth Childs\",\n\"title\": \"Legal Secretary\",\n\"email\": \"mchilds@weltman.com\",\n\"email_options\": [\"mchilds@weltman.com\", \"marybeth.childs@weltman.com\", \"marybethchilds@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Carol Hayes\",\n\"title\": \"Legal Secretary\",\n\"email\": \"chayes@weltman.com\",\n\"email_options\": [\"chayes@weltman.com\", \"carol.hayes@weltman.com\", \"carolhayes@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Sandusky High School · Location: Westlake\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Renee Dregalla\",\n\"title\": \"Legal Secretary\",\n\"email\": \"rdregalla@weltman.com\",\n\"email_options\": [\"rdregalla@weltman.com\", \"renee.dregalla@weltman.com\", \"reneedregalla@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Education: Padua · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Lisa Kuehn\",\n\"title\": \"Legal Secretary Supervisor\",\n\"email\": \"lkuehn@weltman.com\",\n\"email_options\": [\"lkuehn@weltman.com\", \"lisa.kuehn@weltman.com\", \"lisakuehn@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary Supervisor at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Independence\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Rachel Santiago\",\n\"title\": \"Legal Secretary II\",\n\"email\": \"rsantiago@weltman.com\",\n\"email_options\": [\"rsantiago@weltman.com\", \"rachel.santiago@weltman.com\", \"rachelsantiago@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary II at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Kelly Kravitz\",\n\"title\": \"Legal Secretary\",\n\"email\": \"kkravitz@weltman.com\",\n\"email_options\": [\"kkravitz@weltman.com\", \"kelly.kravitz@weltman.com\", \"kellykravitz@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Secretary in Ohio · Experience: Weltman, Weinberg & Reis Co., LPA · Education: Purdue Global · Location: Columbus, Ohio Metropolitan Area\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Betsy Ruiz\",\n\"title\": \"Legal Administrative Assistant\",\n\"email\": \"bruiz@weltman.com\",\n\"email_options\": [\"bruiz@weltman.com\", \"betsy.ruiz@weltman.com\", \"betsyruiz@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Administrative Assistant at Weltman, Weinberg & Reis · Experience: Weltman, Weinberg & Reis · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Amanda Bowen\",\n\"title\": \"Administrative Legal Assistant\",\n\"email\": \"abowen@weltman.com\",\n\"email_options\": [\"abowen@weltman.com\", \"amanda.bowen@weltman.com\", \"amandabowen@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Administrative Legal Assistant. Weltman, Weinberg & Reis Co., LPA\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jodi Thompson\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"jthompson@weltman.com\",\n\"email_options\": [\"jthompson@weltman.com\", \"jodi.thompson@weltman.com\", \"jodithompson@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Administrative Assistant at Weltman, Weinberg & Reis Co., LPA · Experience: Weltman, Weinberg & Reis Co., LPA · Location: Columbus, Ohio Metropolitan Area\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Corinne Genis\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"cgenis@weltman.com\",\n\"email_options\": [\"cgenis@weltman.com\", \"corinne.genis@weltman.com\", \"corinnegenis@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Administrative Asst at Weltman, Weinberg & Reis Co., LPA · Experience: Weltman, Weinberg & Reis Co., LPA · Location: Columbus\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Carol Higgins\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"chiggins@weltman.com\",\n\"email_options\": [\"chiggins@weltman.com\", \"carol.higgins@weltman.com\", \"carolhiggins@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Administrative Assistant · Experience: Weltman, Weinberg & Reis · Education: Whittier College · Location: Brunswick\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Brian Truskolaski\",\n\"title\": \"Document Administrator\",\n\"email\": \"btruskolaski@weltman.com\",\n\"email_options\": [\"btruskolaski@weltman.com\", \"brian.truskolaski@weltman.com\", \"briantruskolaski@weltman.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Document Administrator at Weltman, Weinberg & Reis Co., LPA · Experience: Weltman, Weinberg & Reis Co., LPA · Location: Cleveland\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n}\n],\n\"best_contact_reasoning\": \"Cheri Zmija was selected as the best match due to her 17 years of tenure at the firm, her role as Legal Assistant II, and her diverse background including collector, redemption specialist, estate claims specialist, and paralegal. This experience aligns closely with debt collection practices, making her senior enough to handle new client intake, communications, and decisions on cases in this area.\",\n\"search_notes\": \"Thoroughly searched the firm's website (weltman.com) including team and people pages, but no support staff were listed—only attorneys. Performed deep searches on LinkedIn using targeted queries for specific roles, yielding numerous current employee profiles. Analyzed attorney emails from site snippets to determine the predominant pattern of firstinitiallastname@weltman.com for generating staff email options. Checked social media like Facebook and Instagram, but no additional staff info found. Attempted to verify Sharon Parker but could not confirm current employment.\"\n}\n113 web pages\n1.5s\nExpert\nDetails on Cheri Zmija's role\nSimilar firms for debt collection\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:12:23.957677",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_021223.txt"
+  },
+  "search_completed_at": "2025-10-18T02:12:24.146398",
+  "associated_cases": 11,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_weltman_com_20251018_021224_w0.json"
+}

@@ -1,0 +1,322 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: YanFang Marilyn Ramirez
+- Email: Marilyn.Rameriz@brockandscott.com
+- Phone: (866) 519-1889
+- Website: brockandscott.com
+- Firm: BROCK & SCOTT, PLLC
+- Practice Area: FORECLOSURE
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (brockandscott.com) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: Marilyn.Rameriz@brockandscott.com and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: Marilyn.Rameriz@brockandscott.com
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: FORECLOSURE), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: brockandscott.com
+Thought for 2m 51s
+{
+"page_url": "https://www.brockandscott.com/",
+"search_sources": ["brockandscott.com", "linkedin.com", "facebook.com"],
+"total_staff_found": 15,
+"attorney_email_domain": "brockandscott.com",
+"paralegals": [
+{
+"name": "April Stevens",
+"title": "Foreclosure Manager",
+"email": "april.stevens@brockandscott.com",
+"email_options": ["april.stevens@brockandscott.com", "astevens@brockandscott.com", "april@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Foreclosure Manager at Brock & Scott, PLLC",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Linda Richardson",
+"title": "Legal Assistant",
+"email": "linda.richardson@brockandscott.com",
+"email_options": ["linda.richardson@brockandscott.com", "lrichardson@brockandscott.com", "linda@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure (Mobile Home)",
+"quote": "Legal Assistant at Brock & Scott, PLLC with 16 years experience, working in the Mobile Home department",
+"Best_match": "False",
+"Priority_score": "9"
+},
+{
+"name": "William Murdock",
+"title": "Legal Assistant",
+"email": "william.murdock@brockandscott.com",
+"email_options": ["william.murdock@brockandscott.com", "wmurdock@brockandscott.com", "william@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC with 10 years experience",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Eric Padjen",
+"title": "Paralegal",
+"email": "eric.padjen@brockandscott.com",
+"email_options": ["eric.padjen@brockandscott.com", "epadjen@brockandscott.com", "eric@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Paralegal at Brock & Scott, PLLC with 5 years experience, previously Senior Legal Assistant",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Kelly Darpel",
+"title": "Paralegal",
+"email": "kelly.darpel@brockandscott.com",
+"email_options": ["kelly.darpel@brockandscott.com", "kdarpel@brockandscott.com", "kelly@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Paralegal at Brock & Scott, PLLC with 4 years experience",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Michelle Goble",
+"title": "Legal Assistant",
+"email": "michelle.goble@brockandscott.com",
+"email_options": ["michelle.goble@brockandscott.com", "mgoble@brockandscott.com", "michelle@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC with 4 years experience",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Bonnie Lough",
+"title": "Legal Assistant Paralegal",
+"email": "bonnie.lough@brockandscott.com",
+"email_options": ["bonnie.lough@brockandscott.com", "blough@brockandscott.com", "bonnie@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant Paralegal at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "4"
+},
+{
+"name": "Meghan Woods",
+"title": "Legal Assistant Paralegal",
+"email": "meghan.woods@brockandscott.com",
+"email_options": ["meghan.woods@brockandscott.com", "mwoods@brockandscott.com", "meghan@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant Paralegal at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "4"
+},
+{
+"name": "Elaina Harrold",
+"title": "Legal Assistant",
+"email": "elaina.harrold@brockandscott.com",
+"email_options": ["elaina.harrold@brockandscott.com", "eharrold@brockandscott.com", "elaina@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC, also Document Specialist and Escalation Specialist",
+"Best_match": "False",
+"Priority_score": "3"
+},
+{
+"name": "Ray Frazier",
+"title": "Legal Assistant",
+"email": "ray.frazier@brockandscott.com",
+"email_options": ["ray.frazier@brockandscott.com", "rfrazier@brockandscott.com", "ray@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "3"
+},
+{
+"name": "Michelle McGovern",
+"title": "Legal Assistant",
+"email": "michelle.mcgovern@brockandscott.com",
+"email_options": ["michelle.mcgovern@brockandscott.com", "mmcgovern@brockandscott.com", "michelle@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "2"
+},
+{
+"name": "Brian Green",
+"title": "Legal Assistant",
+"email": "brian.green@brockandscott.com",
+"email_options": ["brian.green@brockandscott.com", "bgreen@brockandscott.com", "brian@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "2"
+},
+{
+"name": "Sydney Boyle",
+"title": "Legal Assistant",
+"email": "sydney.boyle@brockandscott.com",
+"email_options": ["sydney.boyle@brockandscott.com", "sboyle@brockandscott.com", "sydney@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "2"
+},
+{
+"name": "Debbieann Collibee",
+"title": "Legal Assistant",
+"email": "debbieann.collibee@brockandscott.com",
+"email_options": ["debbieann.collibee@brockandscott.com", "dcollibee@brockandscott.com", "debbieann@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC",
+"Best_match": "False",
+"Priority_score": "1"
+},
+{
+"name": "Paris Scott",
+"title": "Legal Assistant",
+"email": "paris.scott@brockandscott.com",
+"email_options": ["paris.scott@brockandscott.com", "pscott@brockandscott.com", "paris@brockandscott.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Foreclosure",
+"quote": "Legal Assistant at Brock & Scott, PLLC with 1 year experience, also Administrative Assistant",
+"Best_match": "False",
+"Priority_score": "1"
+}
+],
+"best_contact_reasoning": "Selected April Stevens as the best match because as Foreclosure Manager, she is senior and most likely to handle new client intake, decisions about new cases, and client communications specifically in the foreclosure practice area.",
+"search_notes": "Searched the main website brockandscott.com via web search and browse, found primarily attorneys and leaders but mentions of legal assistants without names. Deep search on LinkedIn via web search yielded multiple legal assistants and paralegals from profile snippets. Checked Facebook for business page and staff mentions, found additional roles like Foreclosure Manager. Also searched legal directories like Avvo, FindLaw, Lawyers.com, but they listed mostly attorneys. No direct emails or phones found, so generated email options based on the attorney's email pattern."
+}
+97 web pages
+2 / 2
+4.5s
+Expert
+Expand on email generation patterns
+Search similar law firms
+Prioritize by state locations
+How can Grok help?
+Auto

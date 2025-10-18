@@ -1,0 +1,202 @@
+{
+  "domain": "cavitch.com",
+  "search_url": "cavitch.com",
+  "attorney_info": {
+    "original_website": "cavitch.com",
+    "attorney_name": "Derek P. Hartman",
+    "attorney_email": "dhartman@cavitch.com",
+    "phone": "(216) 621-7860",
+    "firm_name": "CAVITCH FAMILO & DURKIN CO., L.P.A.",
+    "practice_area": "FORECLOSURE",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "COURT OF COMMON PLEAS, CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "CROSSROADS PROPERTY RESTORATION LLC",
+      "Primary Defendant": "ALBERT ALQUISOLA",
+      "Attorney Name": "Derek P. Hartman",
+      "Attorney Office": "CAVITCH FAMILO & DURKIN CO., L.P.A.",
+      "Attorney Email": "dhartman@cavitch.com",
+      "Attorney Phone": "(216) 621-7860",
+      "Attorney Website": "cavitch.com",
+      "Relief Requested": "$144,091.96",
+      "Processed At": "2025-10-18T01:04:30.891561",
+      "Folder Name": "case_3646319",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Derek P. Hartman\n- Email: dhartman@cavitch.com\n- Phone: (216) 621-7860\n- Website: cavitch.com\n- Firm: CAVITCH FAMILO & DURKIN CO., L.P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (cavitch.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: dhartman@cavitch.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: dhartman@cavitch.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: cavitch.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 9,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Robin Brady",
+        "title": "Legal Assistant",
+        "email": "rbrady@cavitch.com",
+        "email_options": [
+          "robin.brady@cavitch.com",
+          "rbrady@cavitch.com",
+          "robin@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Iris Dieckman",
+        "title": "Legal Secretary",
+        "email": "idieckman@cavitch.com",
+        "email_options": [
+          "iris.dieckman@cavitch.com",
+          "idieckman@cavitch.com",
+          "iris@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Mary Power",
+        "title": "Legal Assistant",
+        "email": "mpower@cavitch.com",
+        "email_options": [
+          "mary.power@cavitch.com",
+          "mpower@cavitch.com",
+          "mary@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Cheryl Belgrave",
+        "title": "Legal Assistant",
+        "email": "cbelgrave@cavitch.com",
+        "email_options": [
+          "cheryl.belgrave@cavitch.com",
+          "cbelgrave@cavitch.com",
+          "cheryl@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Terry Leotta",
+        "title": "Legal Assistant",
+        "email": "tleotta@cavitch.com",
+        "email_options": [
+          "terry.leotta@cavitch.com",
+          "tleotta@cavitch.com",
+          "terry@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Courtney Coykendall",
+        "title": "Paralegal",
+        "email": "ccoykendall@cavitch.com",
+        "email_options": [
+          "courtney.coykendall@cavitch.com",
+          "ccoykendall@cavitch.com",
+          "courtney@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Rebecca Bair",
+        "title": "Legal Assistant/Paralegal",
+        "email": "rbair@cavitch.com",
+        "email_options": [
+          "rebecca.bair@cavitch.com",
+          "rbair@cavitch.com",
+          "rebecca@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Donna M. Shimko",
+        "title": "Legal Assistant",
+        "email": "dshimko@cavitch.com",
+        "email_options": [
+          "donna.shimko@cavitch.com",
+          "dshimko@cavitch.com",
+          "donna@cavitch.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Derek P. Hartman\n- Email: dhartman@cavitch.com\n- Phone: (216) 621-7860\n- Website: cavitch.com\n- Firm: CAVITCH FAMILO & DURKIN CO., L.P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (cavitch.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: dhartman@cavitch.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: dhartman@cavitch.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: cavitch.com\nThought for 2m 1s\n{\n\"page_url\": \"cavitch.com\",\n\"search_sources\": [\"cavitch.com\", \"linkedin.com\", \"facebook.com\", \"instagram.com\", \"google business\", \"avvo.com\", \"findlaw.com\", \"lawyers.com\", \"pdf documents\", \"X (Twitter)\"],\n\"total_staff_found\": 8,\n\"attorney_email_domain\": \"cavitch.com\",\n\"paralegals\": [\n{\n\"name\": \"Robin Brady\",\n\"title\": \"Legal Assistant\",\n\"email\": \"rbrady@cavitch.com\",\n\"email_options\": [\"robin.brady@cavitch.com\", \"rbrady@cavitch.com\", \"robin@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Iris Dieckman\",\n\"title\": \"Legal Secretary\",\n\"email\": \"idieckman@cavitch.com\",\n\"email_options\": [\"iris.dieckman@cavitch.com\", \"idieckman@cavitch.com\", \"iris@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Mary Power\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mpower@cavitch.com\",\n\"email_options\": [\"mary.power@cavitch.com\", \"mpower@cavitch.com\", \"mary@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Cheryl Belgrave\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cbelgrave@cavitch.com\",\n\"email_options\": [\"cheryl.belgrave@cavitch.com\", \"cbelgrave@cavitch.com\", \"cheryl@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Terry Leotta\",\n\"title\": \"Legal Assistant\",\n\"email\": \"tleotta@cavitch.com\",\n\"email_options\": [\"terry.leotta@cavitch.com\", \"tleotta@cavitch.com\", \"terry@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Courtney Coykendall\",\n\"title\": \"Paralegal\",\n\"email\": \"ccoykendall@cavitch.com\",\n\"email_options\": [\"courtney.coykendall@cavitch.com\", \"ccoykendall@cavitch.com\", \"courtney@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Rebecca Bair\",\n\"title\": \"Legal Assistant/Paralegal\",\n\"email\": \"rbair@cavitch.com\",\n\"email_options\": [\"rebecca.bair@cavitch.com\", \"rbair@cavitch.com\", \"rebecca@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Donna M. Shimko\",\n\"title\": \"Legal Assistant\",\n\"email\": \"dshimko@cavitch.com\",\n\"email_options\": [\"donna.shimko@cavitch.com\", \"dshimko@cavitch.com\", \"donna@cavitch.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n}\n],\n\"best_contact_reasoning\": \"Courtney Coykendall was selected as the best match because she holds the title of Paralegal, which aligns with the highest priority for senior paralegals or case managers. In a foreclosure practice area, a paralegal is more likely to handle substantive case management, client intake, and communications compared to legal assistants or secretaries. Her role suggests seniority in legal support and relevance to new client matters.\",\n\"search_notes\": \"Primary search on cavitch.com via site-specific queries revealed attorney listings and blog posts but no support staff details. Deep search on LinkedIn yielded the majority of staff profiles with current roles. Social media (Facebook, Instagram, X) provided firm updates but no additional staff names. Legal directories listed attorneys only. PDF searches found firm documents but no specific staff mentions. Job postings confirmed active recruitment for paralegals and assistants, supporting the identified roles.\"\n}\n2 𝕏 posts\n71 web pages\n1.4s\nExpert\nExplore Cheryl Belgrave's long tenure\nSearch other foreclosure firms' staff\nAdd phone numbers and bios\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:13:02.365589",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_021302.txt"
+  },
+  "search_completed_at": "2025-10-18T02:13:02.381635",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_cavitch_com_20251018_021302_w3.json"
+}

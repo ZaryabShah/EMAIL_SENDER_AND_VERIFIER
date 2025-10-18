@@ -1,0 +1,282 @@
+{
+  "domain": "weinerlaw.com",
+  "search_url": "weinerlaw.com",
+  "attorney_info": {
+    "original_website": "weinerlaw.com",
+    "attorney_name": "Joshua Blaha",
+    "attorney_email": "collections@weinerlaw.com",
+    "phone": "(216) 771-6500",
+    "firm_name": "Keith D. Weiner & Associates Co., LPA",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "CUYAHOGA COUNTY COMMON PLEAS COURT",
+      "County": "CUYAHOGA",
+      "Plaintiff": "Forsythe Finance, LLC",
+      "Primary Defendant": "Horace Cummings",
+      "Attorney Name": "Joshua Blaha",
+      "Attorney Office": "Keith D. Weiner & Associates Co., LPA",
+      "Attorney Email": "collections@weinerlaw.com",
+      "Attorney Phone": "(216) 771-6500",
+      "Attorney Website": "weinerlaw.com",
+      "Relief Requested": "$3,574.77",
+      "Processed At": "2025-10-18T01:04:32.082734",
+      "Folder Name": "case_3647427",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Joshua Blaha\n- Email: collections@weinerlaw.com\n- Phone: (216) 771-6500\n- Website: weinerlaw.com\n- Firm: Keith D. Weiner & Associates Co., LPA\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (weinerlaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: collections@weinerlaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: collections@weinerlaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: weinerlaw.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 14,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Lakisha Glover",
+        "title": "Paralegal",
+        "email": "lakisha.glover@weinerlaw.com",
+        "email_options": [
+          "lakisha.glover@weinerlaw.com",
+          "lglover@weinerlaw.com",
+          "lakisha@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Celebrated 20 years of service",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Kim Raymer",
+        "title": "Senior Paralegal",
+        "email": "kim.raymer@weinerlaw.com",
+        "email_options": [
+          "kim.raymer@weinerlaw.com",
+          "kraymer@weinerlaw.com",
+          "kim@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Cathy Watson",
+        "title": "Head Bankruptcy Paralegal",
+        "email": "cathy.watson@weinerlaw.com",
+        "email_options": [
+          "cathy.watson@weinerlaw.com",
+          "cwatson@weinerlaw.com",
+          "cathy@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Bankruptcy",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Mindy Callahan Kobzowicz",
+        "title": "Supervising Foreclosure Paralegal",
+        "email": "mindy.kobzowicz@weinerlaw.com",
+        "email_options": [
+          "mindy.kobzowicz@weinerlaw.com",
+          "mkobzowicz@weinerlaw.com",
+          "mindy@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Allison Vasarab",
+        "title": "Paralegal Collections Specialist",
+        "email": "allison.vasarab@weinerlaw.com",
+        "email_options": [
+          "allison.vasarab@weinerlaw.com",
+          "avasarab@weinerlaw.com",
+          "allison@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Collections",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Oleh Fedak",
+        "title": "Legal Assistant",
+        "email": "oleh.fedak@weinerlaw.com",
+        "email_options": [
+          "oleh.fedak@weinerlaw.com",
+          "ofedak@weinerlaw.com",
+          "oleh@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Rita Collazo",
+        "title": "Support Staff Manager",
+        "email": "rita.collazo@weinerlaw.com",
+        "email_options": [
+          "rita.collazo@weinerlaw.com",
+          "rcollazo@weinerlaw.com",
+          "rita@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Support Staff",
+        "quote": "With KWA since 2009; celebrated 15 years of service",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Nicolaus D’Amore",
+        "title": "Manager of Client Relations",
+        "email": "nicolaus.damore@weinerlaw.com",
+        "email_options": [
+          "nicolaus.damore@weinerlaw.com",
+          "ndamore@weinerlaw.com",
+          "nicolaus@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Client Services",
+        "quote": "With KWA since 2013",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Michael Gilner",
+        "title": "Collection Manager",
+        "email": "michael.gilner@weinerlaw.com",
+        "email_options": [
+          "michael.gilner@weinerlaw.com",
+          "mgilner@weinerlaw.com",
+          "michael@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Collections",
+        "quote": "With KWA since 2010",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "William Seelbach",
+        "title": "Compliance Analyst, Change Control Lead",
+        "email": "william.seelbach@weinerlaw.com",
+        "email_options": [
+          "william.seelbach@weinerlaw.com",
+          "wseelbach@weinerlaw.com",
+          "william@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Compliance",
+        "quote": "With KWA since 2005",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "James Kuchta",
+        "title": "Collections Specialist",
+        "email": "james.kuchta@weinerlaw.com",
+        "email_options": [
+          "james.kuchta@weinerlaw.com",
+          "jkuchta@weinerlaw.com",
+          "james@weinerlaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Collections",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "MacKenzie Canter",
+        "title": "Paralegal",
+        "email": "mackenzie.canter@weinerlaw.com",
+        "email_options": [
+          "mackenzie.canter@weinerlaw.com",
+          "mcanter@weinerlaw.com",
+          "mackenzie@weinerlaw.com"
+        ],
+        "email_confidence": "generated_low",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Holds Paralegal Certificate",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Emily Cole",
+        "title": "Paralegal",
+        "email": "emily.cole@weinerlaw.com",
+        "email_options": [
+          "emily.cole@weinerlaw.com",
+          "ecole@weinerlaw.com",
+          "emily@weinerlaw.com"
+        ],
+        "email_confidence": "generated_low",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Joshua Blaha\n- Email: collections@weinerlaw.com\n- Phone: (216) 771-6500\n- Website: weinerlaw.com\n- Firm: Keith D. Weiner & Associates Co., LPA\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (weinerlaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: collections@weinerlaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: collections@weinerlaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: weinerlaw.com\nThought for 2m 33s\n{\n\"page_url\": \"https://weinerlaw.com\",\n\"search_sources\": [\"https://weinerlaw.com\", \"LinkedIn company page and profiles\", \"Web searches on legal directories (Avvo, Lawyers.com, FindLaw)\", \"LinkedIn posts\"],\n\"total_staff_found\": 13,\n\"attorney_email_domain\": \"weinerlaw.com\",\n\"paralegals\": [\n{\n\"name\": \"Lakisha Glover\",\n\"title\": \"Paralegal\",\n\"email\": \"lakisha.glover@weinerlaw.com\",\n\"email_options\": [\"lakisha.glover@weinerlaw.com\", \"lglover@weinerlaw.com\", \"lakisha@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Celebrated 20 years of service\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Kim Raymer\",\n\"title\": \"Senior Paralegal\",\n\"email\": \"kim.raymer@weinerlaw.com\",\n\"email_options\": [\"kim.raymer@weinerlaw.com\", \"kraymer@weinerlaw.com\", \"kim@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Cathy Watson\",\n\"title\": \"Head Bankruptcy Paralegal\",\n\"email\": \"cathy.watson@weinerlaw.com\",\n\"email_options\": [\"cathy.watson@weinerlaw.com\", \"cwatson@weinerlaw.com\", \"cathy@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Bankruptcy\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Mindy Callahan Kobzowicz\",\n\"title\": \"Supervising Foreclosure Paralegal\",\n\"email\": \"mindy.kobzowicz@weinerlaw.com\",\n\"email_options\": [\"mindy.kobzowicz@weinerlaw.com\", \"mkobzowicz@weinerlaw.com\", \"mindy@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Allison Vasarab\",\n\"title\": \"Paralegal Collections Specialist\",\n\"email\": \"allison.vasarab@weinerlaw.com\",\n\"email_options\": [\"allison.vasarab@weinerlaw.com\", \"avasarab@weinerlaw.com\", \"allison@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Collections\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Oleh Fedak\",\n\"title\": \"Legal Assistant\",\n\"email\": \"oleh.fedak@weinerlaw.com\",\n\"email_options\": [\"oleh.fedak@weinerlaw.com\", \"ofedak@weinerlaw.com\", \"oleh@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Rita Collazo\",\n\"title\": \"Support Staff Manager\",\n\"email\": \"rita.collazo@weinerlaw.com\",\n\"email_options\": [\"rita.collazo@weinerlaw.com\", \"rcollazo@weinerlaw.com\", \"rita@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Support Staff\",\n\"quote\": \"With KWA since 2009; celebrated 15 years of service\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Nicolaus D’Amore\",\n\"title\": \"Manager of Client Relations\",\n\"email\": \"nicolaus.damore@weinerlaw.com\",\n\"email_options\": [\"nicolaus.damore@weinerlaw.com\", \"ndamore@weinerlaw.com\", \"nicolaus@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Client Services\",\n\"quote\": \"With KWA since 2013\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Michael Gilner\",\n\"title\": \"Collection Manager\",\n\"email\": \"michael.gilner@weinerlaw.com\",\n\"email_options\": [\"michael.gilner@weinerlaw.com\", \"mgilner@weinerlaw.com\", \"michael@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Collections\",\n\"quote\": \"With KWA since 2010\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"William Seelbach\",\n\"title\": \"Compliance Analyst, Change Control Lead\",\n\"email\": \"william.seelbach@weinerlaw.com\",\n\"email_options\": [\"william.seelbach@weinerlaw.com\", \"wseelbach@weinerlaw.com\", \"william@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Compliance\",\n\"quote\": \"With KWA since 2005\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"James Kuchta\",\n\"title\": \"Collections Specialist\",\n\"email\": \"james.kuchta@weinerlaw.com\",\n\"email_options\": [\"james.kuchta@weinerlaw.com\", \"jkuchta@weinerlaw.com\", \"james@weinerlaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Collections\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"MacKenzie Canter\",\n\"title\": \"Paralegal\",\n\"email\": \"mackenzie.canter@weinerlaw.com\",\n\"email_options\": [\"mackenzie.canter@weinerlaw.com\", \"mcanter@weinerlaw.com\", \"mackenzie@weinerlaw.com\"],\n\"email_confidence\": \"generated_low\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Holds Paralegal Certificate\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Emily Cole\",\n\"title\": \"Paralegal\",\n\"email\": \"emily.cole@weinerlaw.com\",\n\"email_options\": [\"emily.cole@weinerlaw.com\", \"ecole@weinerlaw.com\", \"emily@weinerlaw.com\"],\n\"email_confidence\": \"generated_low\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n}\n],\n\"best_contact_reasoning\": \"Allison Vasarab was selected as the best match because her role as Paralegal Collections Specialist directly aligns with the firm's debt collection practice area. She is likely involved in handling case details, client communications, and new matters in collections, making her senior enough for intake and decisions in this specific area.\",\n\"search_notes\": \"Thorough search of the firm's website revealed a leadership team page with several support staff managers and analysts. LinkedIn searches uncovered multiple paralegal profiles and a work anniversary post highlighting long-tenured staff, including paralegals. No direct emails or phones found beyond general firm contact; emails generated based on patterns. Legal directories provided attorney info but limited support staff details.\"\n}\n70 web pages\n1.5s\nExpert\nVerify Allison Vasarab's current role\nExplore Weiner Law's client intake process\nAdd phone numbers to contacts\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:51:08.306379",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_025108.txt"
+  },
+  "search_completed_at": "2025-10-18T02:51:08.357466",
+  "associated_cases": 20,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_weinerlaw_com_20251018_025108_w1.json"
+}

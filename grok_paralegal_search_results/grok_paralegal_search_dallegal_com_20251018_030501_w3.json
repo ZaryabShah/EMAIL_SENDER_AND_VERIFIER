@@ -1,0 +1,248 @@
+{
+  "domain": "dallegal.com",
+  "search_url": "dallegal.com",
+  "attorney_info": {
+    "original_website": "dallegal.com",
+    "attorney_name": "Adrienne Foster",
+    "attorney_email": "answersms@dallegal.com",
+    "phone": "(954) 564-0071",
+    "firm_name": "Diaz Anselmo & Associates, P.A.",
+    "practice_area": "FORECLOSURE",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "Court of Common Pleas, Cuyahoga County, Ohio",
+      "County": "CUYAHOGA",
+      "Plaintiff": "NATIONSTAR MORTGAGE LLC",
+      "Primary Defendant": "KENNETH R. HENRY",
+      "Attorney Name": "Adrienne Foster",
+      "Attorney Office": "Diaz Anselmo & Associates, P.A.",
+      "Attorney Email": "answersms@dallegal.com",
+      "Attorney Phone": "(954) 564-0071",
+      "Attorney Website": "dallegal.com",
+      "Relief Requested": "$89,209.05",
+      "Processed At": "2025-10-18T01:04:32.749832",
+      "Folder Name": "case_3647884",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Adrienne Foster\n- Email: answersms@dallegal.com\n- Phone: (954) 564-0071\n- Website: dallegal.com\n- Firm: Diaz Anselmo & Associates, P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (dallegal.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: answersms@dallegal.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: answersms@dallegal.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: dallegal.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 12,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Carrie Roberts Ortiz",
+        "title": "Paralegal",
+        "email": "cortiz@dallegal.com",
+        "email_options": [
+          "cortiz@dallegal.com"
+        ],
+        "email_confidence": "found",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Florida Registered Paralegal at Diaz Anselmo & Associates, P.A.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Katherine McKay",
+        "title": "Legal Assistant",
+        "email": "kmckay@dallegal.com",
+        "email_options": [
+          "katherine.mckay@dallegal.com",
+          "kmckay@dallegal.com",
+          "katherine@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Legal Assistant at Diaz Anselmo & Associates P.A. since October 2022, Naperville, IL.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Teddy Bujalski",
+        "title": "Legal Assistant",
+        "email": "tbujalski@dallegal.com",
+        "email_options": [
+          "teddy.bujalski@dallegal.com",
+          "tbujalski@dallegal.com",
+          "teddy@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Legal Assistant at Diaz Anselmo & Associates P.A. since April 2024, Plantation, Florida.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Alissa Satchell",
+        "title": "Paralegal",
+        "email": "asatchell@dallegal.com",
+        "email_options": [
+          "alissa.satchell@dallegal.com",
+          "asatchell@dallegal.com",
+          "alissa@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Judgment / Foreclosure",
+        "quote": "Paralegal and Judgment Admin at Diaz Anselmo & Associates P.A.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Teresa Sandoval",
+        "title": "Administrative Assistant",
+        "email": "tsandoval@dallegal.com",
+        "email_options": [
+          "teresa.sandoval@dallegal.com",
+          "tsandoval@dallegal.com",
+          "teresa@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administrative",
+        "quote": "Administrative Assistant at Diaz Anselmo & Associates P.A. since November 2023, Naperville, IL.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Usurla Laguerre",
+        "title": "Foreclosure Specialist",
+        "email": "ulaguerre@dallegal.com",
+        "email_options": [
+          "usurla.laguerre@dallegal.com",
+          "ulaguerre@dallegal.com",
+          "usurla@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Foreclosure Specialist at Diaz Anselmo & Associates P.A. with Associate's degree in Legal Assistant/Paralegal.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Christine Cummings",
+        "title": "Paralegal",
+        "email": "ccummings@dallegal.com",
+        "email_options": [
+          "christine.cummings@dallegal.com",
+          "ccummings@dallegal.com",
+          "christine@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Experienced Paralegal skilled in Foreclosure Law and Document Preparation at Diaz Anselmo & Associates P.A.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Stephne Lazarz",
+        "title": "Senior Foreclosure Specialist",
+        "email": "slazarz@dallegal.com",
+        "email_options": [
+          "stephne.lazarz@dallegal.com",
+          "slazarz@dallegal.com",
+          "stephne@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Experienced Legal Assistant and Senior Foreclosure Specialist at Diaz Anselmo & Associates P.A.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Jaclene Morris",
+        "title": "Bankruptcy Specialist",
+        "email": "jmorris@dallegal.com",
+        "email_options": [
+          "jaclene.morris@dallegal.com",
+          "jmorris@dallegal.com",
+          "jaclene@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Bankruptcy",
+        "quote": "Bankruptcy Specialist at Diaz Anselmo & Associates P.A.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Nicole Solis",
+        "title": "Supervisor",
+        "email": "nsolis@dallegal.com",
+        "email_options": [
+          "nicole.solis@dallegal.com",
+          "nsolis@dallegal.com",
+          "nicole@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Legal Support",
+        "quote": "Supervisor at Diaz Anselmo & Associates P.A., previously Legal Assistant since April 2013, Plainfield, IL.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Jacqueline Garro",
+        "title": "Legal Assistant",
+        "email": "jgarro@dallegal.com",
+        "email_options": [
+          "jacqueline.garro@dallegal.com",
+          "jgarro@dallegal.com",
+          "jacqueline@dallegal.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Legal Assistant at Diaz Anselmo & Associates P.A. since June 2024.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Adrienne Foster\n- Email: answersms@dallegal.com\n- Phone: (954) 564-0071\n- Website: dallegal.com\n- Firm: Diaz Anselmo & Associates, P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (dallegal.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: answersms@dallegal.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: answersms@dallegal.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: dallegal.com\nThought for 3m 58s\n{\n\"page_url\": \"https://www.dallegal.com/\",\n\"search_sources\": [\"https://www.dallegal.com/\", \"LinkedIn\", \"floridabar.org\", \"Avvo\", \"FindLaw\", \"Lawyers.com\", \"web searches for PDFs and court documents\", \"Facebook search\", \"Instagram search\", \"Google Business search\", \"Twitter search\"],\n\"total_staff_found\": 11,\n\"attorney_email_domain\": \"dallegal.com\",\n\"paralegals\": [\n{\n\"name\": \"Carrie Roberts Ortiz\",\n\"title\": \"Paralegal\",\n\"email\": \"cortiz@dallegal.com\",\n\"email_options\": [\"cortiz@dallegal.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Florida Registered Paralegal at Diaz Anselmo & Associates, P.A.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Katherine McKay\",\n\"title\": \"Legal Assistant\",\n\"email\": \"kmckay@dallegal.com\",\n\"email_options\": [\"katherine.mckay@dallegal.com\", \"kmckay@dallegal.com\", \"katherine@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Legal Assistant at Diaz Anselmo & Associates P.A. since October 2022, Naperville, IL.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Teddy Bujalski\",\n\"title\": \"Legal Assistant\",\n\"email\": \"tbujalski@dallegal.com\",\n\"email_options\": [\"teddy.bujalski@dallegal.com\", \"tbujalski@dallegal.com\", \"teddy@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Legal Assistant at Diaz Anselmo & Associates P.A. since April 2024, Plantation, Florida.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Alissa Satchell\",\n\"title\": \"Paralegal\",\n\"email\": \"asatchell@dallegal.com\",\n\"email_options\": [\"alissa.satchell@dallegal.com\", \"asatchell@dallegal.com\", \"alissa@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Judgment / Foreclosure\",\n\"quote\": \"Paralegal and Judgment Admin at Diaz Anselmo & Associates P.A.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Teresa Sandoval\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"tsandoval@dallegal.com\",\n\"email_options\": [\"teresa.sandoval@dallegal.com\", \"tsandoval@dallegal.com\", \"teresa@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administrative\",\n\"quote\": \"Administrative Assistant at Diaz Anselmo & Associates P.A. since November 2023, Naperville, IL.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Usurla Laguerre\",\n\"title\": \"Foreclosure Specialist\",\n\"email\": \"ulaguerre@dallegal.com\",\n\"email_options\": [\"usurla.laguerre@dallegal.com\", \"ulaguerre@dallegal.com\", \"usurla@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Foreclosure Specialist at Diaz Anselmo & Associates P.A. with Associate's degree in Legal Assistant/Paralegal.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Christine Cummings\",\n\"title\": \"Paralegal\",\n\"email\": \"ccummings@dallegal.com\",\n\"email_options\": [\"christine.cummings@dallegal.com\", \"ccummings@dallegal.com\", \"christine@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Experienced Paralegal skilled in Foreclosure Law and Document Preparation at Diaz Anselmo & Associates P.A.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Stephne Lazarz\",\n\"title\": \"Senior Foreclosure Specialist\",\n\"email\": \"slazarz@dallegal.com\",\n\"email_options\": [\"stephne.lazarz@dallegal.com\", \"slazarz@dallegal.com\", \"stephne@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Experienced Legal Assistant and Senior Foreclosure Specialist at Diaz Anselmo & Associates P.A.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Jaclene Morris\",\n\"title\": \"Bankruptcy Specialist\",\n\"email\": \"jmorris@dallegal.com\",\n\"email_options\": [\"jaclene.morris@dallegal.com\", \"jmorris@dallegal.com\", \"jaclene@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Bankruptcy\",\n\"quote\": \"Bankruptcy Specialist at Diaz Anselmo & Associates P.A.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Nicole Solis\",\n\"title\": \"Supervisor\",\n\"email\": \"nsolis@dallegal.com\",\n\"email_options\": [\"nicole.solis@dallegal.com\", \"nsolis@dallegal.com\", \"nicole@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Legal Support\",\n\"quote\": \"Supervisor at Diaz Anselmo & Associates P.A., previously Legal Assistant since April 2013, Plainfield, IL.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Jacqueline Garro\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jgarro@dallegal.com\",\n\"email_options\": [\"jacqueline.garro@dallegal.com\", \"jgarro@dallegal.com\", \"jacqueline@dallegal.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Legal Assistant at Diaz Anselmo & Associates P.A. since June 2024.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n}\n],\n\"best_contact_reasoning\": \"Stephne Lazarz was selected as the best match due to her senior role as a Foreclosure Specialist, directly aligning with the firm's primary practice area of foreclosure. Her experience as an experienced Legal Assistant with a senior designation indicates she is likely involved in case management, client communications, and handling new matters in foreclosure, making her suitable for decision-making on new cases.\",\n\"search_notes\": \"The firm website provided general information on firm size and roles but no specific staff names or profiles. LinkedIn searches yielded multiple support staff profiles via search results and snippets, focusing on target roles. One direct email was found via Florida Bar for a registered paralegal. Social media, legal directories, and PDF searches did not reveal additional staff details. Direct browsing of individual LinkedIn profiles was unsuccessful, so relied on search snippets for information.\"\n}\n83 web pages\n2.2s\nExpert\nDetails on Stephne Lazarz\nFlorida Bar Paralegals\nPrioritize FL Staff\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:05:01.184852",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_030501.txt"
+  },
+  "search_completed_at": "2025-10-18T03:05:01.366828",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_dallegal_com_20251018_030501_w3.json"
+}

@@ -1,0 +1,177 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Aaron P. Berg
+- Email: Aberg@cbjustice.com
+- Phone: (216) 696-6500
+- Website: cbjustice.com
+- Firm: Caravona & Berg, LLC
+- Practice Area: OTHER
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (cbjustice.com) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: Aberg@cbjustice.com and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: Aberg@cbjustice.com
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: OTHER), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: cbjustice.com
+Thought for 1m 22s
+{
+"page_url": "https://www.cbjustice.com",
+"search_sources": ["https://www.cbjustice.com/team/", "https://www.cbjustice.com/team/regina-ewing/", "https://www.cbjustice.com/team/natalya-duncan/", "https://www.linkedin.com/in/kelly-rohr-45363114", "https://www.linkedin.com/in/regina-ewing-292b931b6", "https://www.linkedin.com/in/natalya-duncan-s12598637", "https://www.zoominfo.com/p/Kelly-Rohr/-1486139979", "https://rocketreach.co/regina-ewing-email_575395072", "Facebook pages", "LinkedIn search results"],
+"total_staff_found": 3,
+"attorney_email_domain": "cbjustice.com",
+"paralegals": [
+{
+"name": "Regina Ewing",
+"title": "Paralegal",
+"email": "rewing@cbjustice.com",
+"email_options": ["regina.ewing@cbjustice.com", "rewing@cbjustice.com", "regina@cbjustice.com"],
+"email_confidence": "generated_high",
+"phone": "216.696.6500",
+"department": "Workers' Compensation",
+"quote": "With more than 30 years of experience in workers’ compensation claims administration, she works closely with clients on all aspects of the workers’ compensation claim process.",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Natalya Duncan",
+"title": "Legal Secretary / Legal Assistant",
+"email": "nduncan@cbjustice.com",
+"email_options": ["natalya.duncan@cbjustice.com", "nduncan@cbjustice.com", "natalya@cbjustice.com"],
+"email_confidence": "generated_high",
+"phone": "216.696.6500",
+"department": "Personal Injury",
+"quote": "A dedicated legal secretary with a passion for the law, Natalya Duncan excels in managing critical tasks that contribute to the firm's success. With an approachable demeanor, Natalya brings a vibrant personality to her role as a legal secretary.",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Kelly Rohr",
+"title": "Legal Assistant",
+"email": "krohr@cbjustice.com",
+"email_options": ["kelly.rohr@cbjustice.com", "krohr@cbjustice.com", "kelly@cbjustice.com"],
+"email_confidence": "generated_high",
+"phone": "216.696.6500",
+"department": "Personal Injury",
+"quote": "14 years at the Law Firm of Caravona & Czack, LLC. Specialties: Bookkeeper for IOLTA Account.",
+"Best_match": "False",
+"Priority_score": "7"
+}
+],
+"best_contact_reasoning": "Regina Ewing is selected as the best match because she is a paralegal with over 30 years of experience in workers' compensation claims administration, making her senior and likely involved in client intake and case management. The practice area is listed as 'OTHER,' but given the firm's focus on personal injury and workers' comp, her expertise positions her as the most suitable for handling new client matters and communications.",
+"search_notes": "Started with browsing the firm's website team page, which listed Regina Ewing as paralegal and Natalya Duncan as legal secretary. Individual pages provided bio excerpts. LinkedIn searches revealed Kelly Rohr as a current legal assistant and confirmed titles and backgrounds for others. No additional staff found on Facebook, Instagram, or legal directories beyond attorneys. Past employees like Alexander Hallal were excluded as not current. Social media pages had no staff mentions. Used web searches to cross-verify and find contact hints via ZoomInfo and RocketReach."
+}
+52 web pages
+1.4s
+Expert
+Explain workers' compensation process
+Contacting Ohio Bar Association
+more precise email guesses
+How can Grok help?
+Auto

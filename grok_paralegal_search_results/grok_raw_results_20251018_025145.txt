@@ -1,0 +1,250 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Edmond G. Bennett
+- Email: ebennett@fdslaw.com
+- Phone: (216) 621-0070
+- Website: fdslaw.com
+- Firm: FRIEDMAN, DOMIANO & SMITH CO., L.P.A.
+- Practice Area: PERSONAL_INJURY
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (fdslaw.com) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: ebennett@fdslaw.com and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: ebennett@fdslaw.com
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: fdslaw.com
+Thought for 1m 37s
+{
+"page_url": "fdslaw.com",
+"search_sources": ["fdslaw.com", "linkedin.com", "facebook.com", "instagram.com", "google search", "X (formerly Twitter)"],
+"total_staff_found": 9,
+"attorney_email_domain": "fdslaw.com",
+"paralegals": [
+{
+"name": "Julie M. Thomas",
+"title": "Executive Director",
+"email": "jthomas@fdslaw.com",
+"email_options": ["jthomas@fdslaw.com", "julie.thomas@fdslaw.com", "jmthomas@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Jayne M. Sholtz",
+"title": "Litigation Paralegal",
+"email": "jsholtz@fdslaw.com",
+"email_options": ["jsholtz@fdslaw.com", "jayne.sholtz@fdslaw.com", "jmsholtz@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "9"
+},
+{
+"name": "Teresa A. Oszterling",
+"title": "Case Manager Paralegal",
+"email": "toszterling@fdslaw.com",
+"email_options": ["toszterling@fdslaw.com", "teresa.oszterling@fdslaw.com", "taoszterling@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "9"
+},
+{
+"name": "Stephen M. Niznik",
+"title": "Case Manager Paralegal",
+"email": "sniznik@fdslaw.com",
+"email_options": ["sniznik@fdslaw.com", "stephen.niznik@fdslaw.com", "smniznik@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "paralegal Stephen Niznik, who went above and beyond for me.",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Luisa Ramirez",
+"title": "Case Assistant",
+"email": "lramirez@fdslaw.com",
+"email_options": ["lramirez@fdslaw.com", "luisa.ramirez@fdslaw.com", "lramirez@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Tanya L. Ulisses",
+"title": "Case Assistant",
+"email": "tulisses@fdslaw.com",
+"email_options": ["tulisses@fdslaw.com", "tanya.ulisses@fdslaw.com", "tlulisses@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Becky Curran",
+"title": "Case Assistant",
+"email": "bcurran@fdslaw.com",
+"email_options": ["bcurran@fdslaw.com", "becky.curran@fdslaw.com", "bcurran@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Jessica Loeb",
+"title": "Secretary",
+"email": "jloeb@fdslaw.com",
+"email_options": ["jloeb@fdslaw.com", "jessica.loeb@fdslaw.com", "jloeb@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Irene Jernejcic",
+"title": "Paralegal",
+"email": "ijernejcic@fdslaw.com",
+"email_options": ["ijernejcic@fdslaw.com", "irene.jernejcic@fdslaw.com", "ijernejcic@fdslaw.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+}
+],
+"best_contact_reasoning": "Stephen M. Niznik was selected as the best match because he is a Case Manager Paralegal with direct mention in client testimonials for exceptional client service, indicating he handles client communications and case assistance in personal injury matters, making him likely to manage new client intake or case decisions.",
+"search_notes": "Primary search on fdslaw.com staff page yielded main list of support staff. LinkedIn searches identified additional paralegals and secretaries. Social media (Facebook, Instagram, X) provided confirmatory mentions in posts about staff family graduations and client reviews. Web searches and snippets confirmed names and titles. No direct emails or phones for staff found beyond firm general contact."
+}
+39 𝕏 posts
+57 web pages
+2s
+Expert
+Verify Stephen Niznik's email
+Contact other Ohio PI firms
+Prioritize by role seniority
+How can Grok help?
+Auto

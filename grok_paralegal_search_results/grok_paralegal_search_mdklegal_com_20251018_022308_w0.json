@@ -1,0 +1,490 @@
+{
+  "domain": "mdklegal.com",
+  "search_url": "mdklegal.com",
+  "attorney_info": {
+    "original_website": "mdklegal.com",
+    "attorney_name": "Jessica M. Johnson",
+    "attorney_email": "jmjohnson@mdklegal.com",
+    "phone": "614-220-5611",
+    "firm_name": "MDK Legal",
+    "practice_area": "FORECLOSURE",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "IN THE COURT OF COMMON PLEAS CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "U.S. Bank National Association, as Trustee for Structured Asset Securities Corporation Mortgage Pass-Through Certificates, Series 2007-GEL2",
+      "Primary Defendant": "Angel L. Andrades",
+      "Attorney Name": "Jessica M. Johnson",
+      "Attorney Office": "MDK Legal",
+      "Attorney Email": "jmjohnson@mdklegal.com",
+      "Attorney Phone": "614-220-5611",
+      "Attorney Website": "mdklegal.com",
+      "Relief Requested": "$15,477.86",
+      "Processed At": "2025-10-18T01:04:31.106865",
+      "Folder Name": "case_3646547",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Jessica M. Johnson\n- Email: jmjohnson@mdklegal.com\n- Phone: 614-220-5611\n- Website: mdklegal.com\n- Firm: MDK Legal\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (mdklegal.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: jmjohnson@mdklegal.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: jmjohnson@mdklegal.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: mdklegal.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 27,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Lenka Fuhrmann",
+        "title": "Senior Paralegal",
+        "email": "lfuhrmann@mdklegal.com",
+        "email_options": [
+          "lenka.fuhrmann@mdklegal.com",
+          "lfuhrmann@mdklegal.com",
+          "lenka@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Default Litigation/Foreclosure",
+        "quote": "I am working as a Senior Paralegal in one of the leading default litigation law firms that provides services in foreclosure, bankruptcy, eviction, and related matters.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Tina Cruder",
+        "title": "Paralegal",
+        "email": "tcruder@mdklegal.com",
+        "email_options": [
+          "tina.cruder@mdklegal.com",
+          "tcruder@mdklegal.com",
+          "tina@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Nikki Damirov",
+        "title": "Paralegal",
+        "email": "ndamirov@mdklegal.com",
+        "email_options": [
+          "nikki.damirov@mdklegal.com",
+          "ndamirov@mdklegal.com",
+          "nikki@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Lindsey Compton",
+        "title": "Senior Paralegal",
+        "email": "lcompton@mdklegal.com",
+        "email_options": [
+          "lindsey.compton@mdklegal.com",
+          "lcompton@mdklegal.com",
+          "lindsey@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "As an employee what best describes me is to lead by example to shine a path ahead.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Sal Giordano",
+        "title": "Senior Paralegal",
+        "email": "sgiordano@mdklegal.com",
+        "email_options": [
+          "sal.giordano@mdklegal.com",
+          "sgiordano@mdklegal.com",
+          "sal@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Marsha Fuquay",
+        "title": "Senior Paralegal",
+        "email": "mfuquay@mdklegal.com",
+        "email_options": [
+          "marsha.fuquay@mdklegal.com",
+          "mfuquay@mdklegal.com",
+          "marsha@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Senior Paralegal with experience in real estate.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Ben Webster",
+        "title": "Paralegal, Team Lead",
+        "email": "bwebster@mdklegal.com",
+        "email_options": [
+          "ben.webster@mdklegal.com",
+          "bwebster@mdklegal.com",
+          "ben@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Wingsee Chung",
+        "title": "Paralegal",
+        "email": "wchung@mdklegal.com",
+        "email_options": [
+          "wingsee.chung@mdklegal.com",
+          "wchung@mdklegal.com",
+          "wingsee@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Over 4 years of customer service experience in the hospitality and entertainment field.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Amy Rosenburg",
+        "title": "Certified Paralegal",
+        "email": "arosenburg@mdklegal.com",
+        "email_options": [
+          "amy.rosenburg@mdklegal.com",
+          "arosenburg@mdklegal.com",
+          "amy@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Certified Paralegal with bachelor's degree and nine years' paralegal experience.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Linda Hafer",
+        "title": "Paralegal",
+        "email": "lhafer@mdklegal.com",
+        "email_options": [
+          "linda.hafer@mdklegal.com",
+          "lhafer@mdklegal.com",
+          "linda@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Jaclyn Bastion",
+        "title": "Certified Paralegal",
+        "email": "jbastion@mdklegal.com",
+        "email_options": [
+          "jaclyn.bastion@mdklegal.com",
+          "jbastion@mdklegal.com",
+          "jaclyn@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Michael Love",
+        "title": "Paralegal",
+        "email": "mlove@mdklegal.com",
+        "email_options": [
+          "michael.love@mdklegal.com",
+          "mlove@mdklegal.com",
+          "michael@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Holly Walton",
+        "title": "Legal Assistant",
+        "email": "hwalton@mdklegal.com",
+        "email_options": [
+          "holly.walton@mdklegal.com",
+          "hwalton@mdklegal.com",
+          "holly@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Quincy Ledbetter",
+        "title": "Legal Assistant",
+        "email": "qledbetter@mdklegal.com",
+        "email_options": [
+          "quincy.ledbetter@mdklegal.com",
+          "qledbetter@mdklegal.com",
+          "quincy@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Recent graduate with a B.A. in English.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Kimberly Scollon",
+        "title": "Legal Assistant",
+        "email": "kscollon@mdklegal.com",
+        "email_options": [
+          "kimberly.scollon@mdklegal.com",
+          "kscollon@mdklegal.com",
+          "kimberly@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Zachary Bowling",
+        "title": "Legal Assistant",
+        "email": "zbowling@mdklegal.com",
+        "email_options": [
+          "zachary.bowling@mdklegal.com",
+          "zbowling@mdklegal.com",
+          "zachary@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jennifer Borkowski",
+        "title": "Legal Assistant",
+        "email": "jborkowski@mdklegal.com",
+        "email_options": [
+          "jennifer.borkowski@mdklegal.com",
+          "jborkowski@mdklegal.com",
+          "jennifer@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Justin Conley",
+        "title": "Legal Assistant",
+        "email": "jconley@mdklegal.com",
+        "email_options": [
+          "justin.conley@mdklegal.com",
+          "jconley@mdklegal.com",
+          "justin@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Claudia Ionescu",
+        "title": "Legal Assistant",
+        "email": "cionescu@mdklegal.com",
+        "email_options": [
+          "claudia.ionescu@mdklegal.com",
+          "cionescu@mdklegal.com",
+          "claudia@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Morgan Gray",
+        "title": "Legal Assistant",
+        "email": "mgray@mdklegal.com",
+        "email_options": [
+          "morgan.gray@mdklegal.com",
+          "mgray@mdklegal.com",
+          "morgan@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Turner Webb",
+        "title": "Bankruptcy Intern/Legal Assistant",
+        "email": "twebb@mdklegal.com",
+        "email_options": [
+          "turner.webb@mdklegal.com",
+          "twebb@mdklegal.com",
+          "turner@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Bankruptcy/Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Gretchen Burns",
+        "title": "Legal Assistant",
+        "email": "gburns@mdklegal.com",
+        "email_options": [
+          "gretchen.burns@mdklegal.com",
+          "gburns@mdklegal.com",
+          "gretchen@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Bobbi Humphrey",
+        "title": "Legal Assistant",
+        "email": "bhumphrey@mdklegal.com",
+        "email_options": [
+          "bobbi.humphrey@mdklegal.com",
+          "bhumphrey@mdklegal.com",
+          "bobbi@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Priscilla Buckingham",
+        "title": "Legal Administrative Assistant",
+        "email": "pbuckingham@mdklegal.com",
+        "email_options": [
+          "priscilla.buckingham@mdklegal.com",
+          "pbuckingham@mdklegal.com",
+          "priscilla@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Highly motivated, adaptable administrative assistant.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Sharon Schofield",
+        "title": "Attorney Assistant",
+        "email": "sschofield@mdklegal.com",
+        "email_options": [
+          "sharon.schofield@mdklegal.com",
+          "sschofield@mdklegal.com",
+          "sharon@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Lisa Berlin",
+        "title": "Senior Document Automation Specialist",
+        "email": "lberlin@mdklegal.com",
+        "email_options": [
+          "lisa.berlin@mdklegal.com",
+          "lberlin@mdklegal.com",
+          "lisa@mdklegal.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation Support/Foreclosure",
+        "quote": "Senior Document Automation Specialist - IT.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Jessica M. Johnson\n- Email: jmjohnson@mdklegal.com\n- Phone: 614-220-5611\n- Website: mdklegal.com\n- Firm: MDK Legal\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (mdklegal.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: jmjohnson@mdklegal.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: jmjohnson@mdklegal.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: mdklegal.com\nThought for 2m 31s\n{\n\"page_url\": \"https://www.mdklegal.com/\",\n\"search_sources\": [\"https://www.mdklegal.com/\", \"https://www.linkedin.com/company/mdk-legal\", \"LinkedIn profile searches for paralegals, legal assistants, and support staff\", \"Web searches for firm details and email formats\"],\n\"total_staff_found\": 26,\n\"attorney_email_domain\": \"mdklegal.com\",\n\"paralegals\": [\n{\n\"name\": \"Lenka Fuhrmann\",\n\"title\": \"Senior Paralegal\",\n\"email\": \"lfuhrmann@mdklegal.com\",\n\"email_options\": [\"lenka.fuhrmann@mdklegal.com\", \"lfuhrmann@mdklegal.com\", \"lenka@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Default Litigation/Foreclosure\",\n\"quote\": \"I am working as a Senior Paralegal in one of the leading default litigation law firms that provides services in foreclosure, bankruptcy, eviction, and related matters.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Tina Cruder\",\n\"title\": \"Paralegal\",\n\"email\": \"tcruder@mdklegal.com\",\n\"email_options\": [\"tina.cruder@mdklegal.com\", \"tcruder@mdklegal.com\", \"tina@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Nikki Damirov\",\n\"title\": \"Paralegal\",\n\"email\": \"ndamirov@mdklegal.com\",\n\"email_options\": [\"nikki.damirov@mdklegal.com\", \"ndamirov@mdklegal.com\", \"nikki@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Lindsey Compton\",\n\"title\": \"Senior Paralegal\",\n\"email\": \"lcompton@mdklegal.com\",\n\"email_options\": [\"lindsey.compton@mdklegal.com\", \"lcompton@mdklegal.com\", \"lindsey@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"As an employee what best describes me is to lead by example to shine a path ahead.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Sal Giordano\",\n\"title\": \"Senior Paralegal\",\n\"email\": \"sgiordano@mdklegal.com\",\n\"email_options\": [\"sal.giordano@mdklegal.com\", \"sgiordano@mdklegal.com\", \"sal@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Marsha Fuquay\",\n\"title\": \"Senior Paralegal\",\n\"email\": \"mfuquay@mdklegal.com\",\n\"email_options\": [\"marsha.fuquay@mdklegal.com\", \"mfuquay@mdklegal.com\", \"marsha@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Senior Paralegal with experience in real estate.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Ben Webster\",\n\"title\": \"Paralegal, Team Lead\",\n\"email\": \"bwebster@mdklegal.com\",\n\"email_options\": [\"ben.webster@mdklegal.com\", \"bwebster@mdklegal.com\", \"ben@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Wingsee Chung\",\n\"title\": \"Paralegal\",\n\"email\": \"wchung@mdklegal.com\",\n\"email_options\": [\"wingsee.chung@mdklegal.com\", \"wchung@mdklegal.com\", \"wingsee@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Over 4 years of customer service experience in the hospitality and entertainment field.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Amy Rosenburg\",\n\"title\": \"Certified Paralegal\",\n\"email\": \"arosenburg@mdklegal.com\",\n\"email_options\": [\"amy.rosenburg@mdklegal.com\", \"arosenburg@mdklegal.com\", \"amy@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Certified Paralegal with bachelor's degree and nine years' paralegal experience.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Linda Hafer\",\n\"title\": \"Paralegal\",\n\"email\": \"lhafer@mdklegal.com\",\n\"email_options\": [\"linda.hafer@mdklegal.com\", \"lhafer@mdklegal.com\", \"linda@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Jaclyn Bastion\",\n\"title\": \"Certified Paralegal\",\n\"email\": \"jbastion@mdklegal.com\",\n\"email_options\": [\"jaclyn.bastion@mdklegal.com\", \"jbastion@mdklegal.com\", \"jaclyn@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Michael Love\",\n\"title\": \"Paralegal\",\n\"email\": \"mlove@mdklegal.com\",\n\"email_options\": [\"michael.love@mdklegal.com\", \"mlove@mdklegal.com\", \"michael@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Holly Walton\",\n\"title\": \"Legal Assistant\",\n\"email\": \"hwalton@mdklegal.com\",\n\"email_options\": [\"holly.walton@mdklegal.com\", \"hwalton@mdklegal.com\", \"holly@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Quincy Ledbetter\",\n\"title\": \"Legal Assistant\",\n\"email\": \"qledbetter@mdklegal.com\",\n\"email_options\": [\"quincy.ledbetter@mdklegal.com\", \"qledbetter@mdklegal.com\", \"quincy@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Recent graduate with a B.A. in English.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Kimberly Scollon\",\n\"title\": \"Legal Assistant\",\n\"email\": \"kscollon@mdklegal.com\",\n\"email_options\": [\"kimberly.scollon@mdklegal.com\", \"kscollon@mdklegal.com\", \"kimberly@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Zachary Bowling\",\n\"title\": \"Legal Assistant\",\n\"email\": \"zbowling@mdklegal.com\",\n\"email_options\": [\"zachary.bowling@mdklegal.com\", \"zbowling@mdklegal.com\", \"zachary@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jennifer Borkowski\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jborkowski@mdklegal.com\",\n\"email_options\": [\"jennifer.borkowski@mdklegal.com\", \"jborkowski@mdklegal.com\", \"jennifer@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Justin Conley\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jconley@mdklegal.com\",\n\"email_options\": [\"justin.conley@mdklegal.com\", \"jconley@mdklegal.com\", \"justin@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Claudia Ionescu\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cionescu@mdklegal.com\",\n\"email_options\": [\"claudia.ionescu@mdklegal.com\", \"cionescu@mdklegal.com\", \"claudia@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Morgan Gray\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mgray@mdklegal.com\",\n\"email_options\": [\"morgan.gray@mdklegal.com\", \"mgray@mdklegal.com\", \"morgan@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Turner Webb\",\n\"title\": \"Bankruptcy Intern/Legal Assistant\",\n\"email\": \"twebb@mdklegal.com\",\n\"email_options\": [\"turner.webb@mdklegal.com\", \"twebb@mdklegal.com\", \"turner@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Bankruptcy/Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Gretchen Burns\",\n\"title\": \"Legal Assistant\",\n\"email\": \"gburns@mdklegal.com\",\n\"email_options\": [\"gretchen.burns@mdklegal.com\", \"gburns@mdklegal.com\", \"gretchen@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Bobbi Humphrey\",\n\"title\": \"Legal Assistant\",\n\"email\": \"bhumphrey@mdklegal.com\",\n\"email_options\": [\"bobbi.humphrey@mdklegal.com\", \"bhumphrey@mdklegal.com\", \"bobbi@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Priscilla Buckingham\",\n\"title\": \"Legal Administrative Assistant\",\n\"email\": \"pbuckingham@mdklegal.com\",\n\"email_options\": [\"priscilla.buckingham@mdklegal.com\", \"pbuckingham@mdklegal.com\", \"priscilla@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Highly motivated, adaptable administrative assistant.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Sharon Schofield\",\n\"title\": \"Attorney Assistant\",\n\"email\": \"sschofield@mdklegal.com\",\n\"email_options\": [\"sharon.schofield@mdklegal.com\", \"sschofield@mdklegal.com\", \"sharon@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Lisa Berlin\",\n\"title\": \"Senior Document Automation Specialist\",\n\"email\": \"lberlin@mdklegal.com\",\n\"email_options\": [\"lisa.berlin@mdklegal.com\", \"lberlin@mdklegal.com\", \"lisa@mdklegal.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation Support/Foreclosure\",\n\"quote\": \"Senior Document Automation Specialist - IT.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Lenka Fuhrmann was selected as the best match because she is a Senior Paralegal with direct experience in default litigation, which aligns closely with the foreclosure practice area. As a senior role, she is likely involved in client intake, case management, and decision-making for new cases, making her the most suitable for handling attorney services or legal matters in this area.\",\n\"search_notes\": \"Thorough search of the main website (mdklegal.com) including homepage, people, and contact pages yielded no specific staff listings. Deep search on LinkedIn via targeted queries for roles like paralegal, legal assistant, case manager, legal secretary, document specialist, and administrative assistant identified current support staff. Social media (Facebook, Instagram) and legal directories (Avvo) provided no additional staff details. Email options generated based on attorney's pattern and common formats; no direct emails or phones found.\"\n}\n101 web pages\n1.8s\nExpert\nPrioritize case managers\nBankruptcy specialists\nMore detailed bios\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:23:08.147598",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_022308.txt"
+  },
+  "search_completed_at": "2025-10-18T02:23:08.216665",
+  "associated_cases": 3,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_mdklegal_com_20251018_022308_w0.json"
+}

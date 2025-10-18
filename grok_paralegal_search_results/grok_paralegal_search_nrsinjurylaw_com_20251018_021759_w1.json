@@ -1,0 +1,266 @@
+{
+  "domain": "nrsinjurylaw.com",
+  "search_url": "nrsinjurylaw.com",
+  "attorney_info": {
+    "original_website": "nrsinjurylaw.com",
+    "attorney_name": "DOUGLAS S. HUNTER",
+    "attorney_email": "dhunter@nrsinjurylaw.com",
+    "phone": "(216) 289-4740",
+    "firm_name": "NAGER, ROMAINE & SCHNEIBERG Co. L.P.A.",
+    "practice_area": "PERSONAL_INJURY",
+    "case_id": "21-196009",
+    "row_data": {
+      "Case Number": "21-196009",
+      "Filing Date": "",
+      "Case Type": "PERSONAL_INJURY",
+      "Court": "COURT OF COMMON PLEAS, CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "PHYLLIS A. LYLE",
+      "Primary Defendant": "ATY PROPERTIES INC",
+      "Attorney Name": "DOUGLAS S. HUNTER",
+      "Attorney Office": "NAGER, ROMAINE & SCHNEIBERG Co. L.P.A.",
+      "Attorney Email": "dhunter@nrsinjurylaw.com",
+      "Attorney Phone": "(216) 289-4740",
+      "Attorney Website": "nrsinjurylaw.com",
+      "Relief Requested": "",
+      "Processed At": "2025-10-18T01:04:30.909672",
+      "Folder Name": "case_3646397",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: DOUGLAS S. HUNTER\n- Email: dhunter@nrsinjurylaw.com\n- Phone: (216) 289-4740\n- Website: nrsinjurylaw.com\n- Firm: NAGER, ROMAINE & SCHNEIBERG Co. L.P.A.\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (nrsinjurylaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: dhunter@nrsinjurylaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: dhunter@nrsinjurylaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: nrsinjurylaw.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 13,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Lacey Krizman",
+        "title": "Senior Workers Compensation Manager",
+        "email": "lkrizman@nrsinjurylaw.com",
+        "email_options": [
+          "lacey.krizman@nrsinjurylaw.com",
+          "lkrizman@nrsinjurylaw.com",
+          "lacey@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Naturally, when a worker is injured, the first step is for them to get medical care. They’ll go to an ER, primary care doctor, or urgent care to receive treatment for the injury, which creates a record of that interaction. Those records will have the name of the attending physician, details of when the injury happened, and information about the injury and what diagnosis/treatment(s) were done during the visit. Essentially, any time there is contact with someone within the medical sector, there should be a record created of it.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Ivana Cosic",
+        "title": "Case Manager",
+        "email": "icosic@nrsinjurylaw.com",
+        "email_options": [
+          "ivana.cosic@nrsinjurylaw.com",
+          "icosic@nrsinjurylaw.com",
+          "ivana@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Kelly Robinson",
+        "title": "Paralegal",
+        "email": "krobinson@nrsinjurylaw.com",
+        "email_options": [
+          "kelly.robinson@nrsinjurylaw.com",
+          "krobinson@nrsinjurylaw.com",
+          "kelly@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Kinsley Johnson",
+        "title": "Litigation Paralegal",
+        "email": "kjohnson@nrsinjurylaw.com",
+        "email_options": [
+          "kinsley.johnson@nrsinjurylaw.com",
+          "kjohnson@nrsinjurylaw.com",
+          "kinsley@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Anita Young",
+        "title": "Paralegal",
+        "email": "ayoung@nrsinjurylaw.com",
+        "email_options": [
+          "anita.young@nrsinjurylaw.com",
+          "ayoung@nrsinjurylaw.com",
+          "anita@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Brett Lance",
+        "title": "Litigation Paralegal",
+        "email": "blance@nrsinjurylaw.com",
+        "email_options": [
+          "brett.lance@nrsinjurylaw.com",
+          "blance@nrsinjurylaw.com",
+          "brett@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Belicia Cooper",
+        "title": "Litigation Paralegal",
+        "email": "bcooper@nrsinjurylaw.com",
+        "email_options": [
+          "belicia.cooper@nrsinjurylaw.com",
+          "bcooper@nrsinjurylaw.com",
+          "belicia@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Susan Miller",
+        "title": "Legal Assistant",
+        "email": "smiller@nrsinjurylaw.com",
+        "email_options": [
+          "susan.miller@nrsinjurylaw.com",
+          "smiller@nrsinjurylaw.com",
+          "susan@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Theresa Pauley",
+        "title": "Legal Assistant",
+        "email": "tpauley@nrsinjurylaw.com",
+        "email_options": [
+          "theresa.pauley@nrsinjurylaw.com",
+          "tpauley@nrsinjurylaw.com",
+          "theresa@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Sharon Maggard",
+        "title": "Legal Assistant",
+        "email": "smaggard@nrsinjurylaw.com",
+        "email_options": [
+          "sharon.maggard@nrsinjurylaw.com",
+          "smaggard@nrsinjurylaw.com",
+          "sharon@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Barb Sadofsky",
+        "title": "Legal Assistant",
+        "email": "bsadofsky@nrsinjurylaw.com",
+        "email_options": [
+          "barb.sadofsky@nrsinjurylaw.com",
+          "bsadofsky@nrsinjurylaw.com",
+          "barb@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Matt Kirchner",
+        "title": "Legal Assistant",
+        "email": "mkirchner@nrsinjurylaw.com",
+        "email_options": [
+          "matt.kirchner@nrsinjurylaw.com",
+          "mkirchner@nrsinjurylaw.com",
+          "matt@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Personal Injury / Workers Compensation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: DOUGLAS S. HUNTER\n- Email: dhunter@nrsinjurylaw.com\n- Phone: (216) 289-4740\n- Website: nrsinjurylaw.com\n- Firm: NAGER, ROMAINE & SCHNEIBERG Co. L.P.A.\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (nrsinjurylaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: dhunter@nrsinjurylaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: dhunter@nrsinjurylaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: nrsinjurylaw.com\nThought for 3m 15s\n{\n\"page_url\": \"https://www.nrsinjurylaw.com/\",\n\"search_sources\": [\"nrsinjurylaw.com\", \"linkedin.com\", \"instagram.com\", \"facebook.com\", \"avvo.com\", \"findlaw.com\"],\n\"total_staff_found\": 12,\n\"attorney_email_domain\": \"nrsinjurylaw.com\",\n\"paralegals\": [\n{\n\"name\": \"Lacey Krizman\",\n\"title\": \"Senior Workers Compensation Manager\",\n\"email\": \"lkrizman@nrsinjurylaw.com\",\n\"email_options\": [\"lacey.krizman@nrsinjurylaw.com\", \"lkrizman@nrsinjurylaw.com\", \"lacey@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Naturally, when a worker is injured, the first step is for them to get medical care. They’ll go to an ER, primary care doctor, or urgent care to receive treatment for the injury, which creates a record of that interaction. Those records will have the name of the attending physician, details of when the injury happened, and information about the injury and what diagnosis/treatment(s) were done during the visit. Essentially, any time there is contact with someone within the medical sector, there should be a record created of it.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Ivana Cosic\",\n\"title\": \"Case Manager\",\n\"email\": \"icosic@nrsinjurylaw.com\",\n\"email_options\": [\"ivana.cosic@nrsinjurylaw.com\", \"icosic@nrsinjurylaw.com\", \"ivana@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Kelly Robinson\",\n\"title\": \"Paralegal\",\n\"email\": \"krobinson@nrsinjurylaw.com\",\n\"email_options\": [\"kelly.robinson@nrsinjurylaw.com\", \"krobinson@nrsinjurylaw.com\", \"kelly@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Kinsley Johnson\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"kjohnson@nrsinjurylaw.com\",\n\"email_options\": [\"kinsley.johnson@nrsinjurylaw.com\", \"kjohnson@nrsinjurylaw.com\", \"kinsley@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Anita Young\",\n\"title\": \"Paralegal\",\n\"email\": \"ayoung@nrsinjurylaw.com\",\n\"email_options\": [\"anita.young@nrsinjurylaw.com\", \"ayoung@nrsinjurylaw.com\", \"anita@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Brett Lance\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"blance@nrsinjurylaw.com\",\n\"email_options\": [\"brett.lance@nrsinjurylaw.com\", \"blance@nrsinjurylaw.com\", \"brett@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Belicia Cooper\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"bcooper@nrsinjurylaw.com\",\n\"email_options\": [\"belicia.cooper@nrsinjurylaw.com\", \"bcooper@nrsinjurylaw.com\", \"belicia@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Susan Miller\",\n\"title\": \"Legal Assistant\",\n\"email\": \"smiller@nrsinjurylaw.com\",\n\"email_options\": [\"susan.miller@nrsinjurylaw.com\", \"smiller@nrsinjurylaw.com\", \"susan@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Theresa Pauley\",\n\"title\": \"Legal Assistant\",\n\"email\": \"tpauley@nrsinjurylaw.com\",\n\"email_options\": [\"theresa.pauley@nrsinjurylaw.com\", \"tpauley@nrsinjurylaw.com\", \"theresa@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Sharon Maggard\",\n\"title\": \"Legal Assistant\",\n\"email\": \"smaggard@nrsinjurylaw.com\",\n\"email_options\": [\"sharon.maggard@nrsinjurylaw.com\", \"smaggard@nrsinjurylaw.com\", \"sharon@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Barb Sadofsky\",\n\"title\": \"Legal Assistant\",\n\"email\": \"bsadofsky@nrsinjurylaw.com\",\n\"email_options\": [\"barb.sadofsky@nrsinjurylaw.com\", \"bsadofsky@nrsinjurylaw.com\", \"barb@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Matt Kirchner\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mkirchner@nrsinjurylaw.com\",\n\"email_options\": [\"matt.kirchner@nrsinjurylaw.com\", \"mkirchner@nrsinjurylaw.com\", \"matt@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Personal Injury / Workers Compensation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n}\n],\n\"best_contact_reasoning\": \"Lacey Krizman was selected as the best match due to her senior position overseeing workers' compensation cases, which aligns closely with the firm's personal injury practice. Her role involves managing medical records and supporting case building, indicating she is senior enough to handle new client intake and decisions in injury-related matters.\",\n\"search_notes\": \"Thorough search of the firm's website revealed mentions of support roles but no specific names. LinkedIn searches using targeted queries for roles like paralegal, legal assistant, and case manager yielded multiple current staff profiles. A blog post provided detailed information on Lacey Krizman. Social media and legal directories primarily listed attorneys, with limited additional staff details.\"\n}\n98 web pages\n1.8s\nExpert\nVerify staff email addresses\nContacting law firm attorneys\nAdd LinkedIn profile URLs\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:17:59.452763",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_021759.txt"
+  },
+  "search_completed_at": "2025-10-18T02:17:59.485893",
+  "associated_cases": 6,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_nrsinjurylaw_com_20251018_021759_w1.json"
+}

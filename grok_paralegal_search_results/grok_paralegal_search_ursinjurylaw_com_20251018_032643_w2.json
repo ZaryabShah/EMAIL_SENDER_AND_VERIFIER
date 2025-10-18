@@ -1,0 +1,186 @@
+{
+  "domain": "ursinjurylaw.com",
+  "search_url": "ursinjurylaw.com",
+  "attorney_info": {
+    "original_website": "ursinjurylaw.com",
+    "attorney_name": "Evangelos S. Sisalouis",
+    "attorney_email": "esisalouis@ursinjurylaw.com",
+    "phone": "(216) 289-4740",
+    "firm_name": "NAGER, ROMAINE & SCHNEIBERG CO., LPA",
+    "practice_area": "WORKERS COMPENSATION",
+    "case_id": "CV-2025-10-5027",
+    "row_data": {
+      "Case Number": "CV-2025-10-5027",
+      "Filing Date": "10/16/2025",
+      "Case Type": "WORKERS COMPENSATION",
+      "Court": "Court of Common Pleas, Summit County, Ohio",
+      "County": "SUMMIT",
+      "Plaintiff": "Deon Horn",
+      "Primary Defendant": "Akron City Schools",
+      "Attorney Name": "Evangelos S. Sisalouis",
+      "Attorney Office": "NAGER, ROMAINE & SCHNEIBERG CO., LPA",
+      "Attorney Email": "esisalouis@ursinjurylaw.com",
+      "Attorney Phone": "(216) 289-4740",
+      "Attorney Website": "ursinjurylaw.com",
+      "Relief Requested": "Right to continue to participate in the benefits provided by the Ohio Workers Compensation Act for the condition of annular tear, L5-S1, Jury trial, Statutory attorneys fees, Costs herein",
+      "Processed At": "2025-10-17T21:24:33.923580",
+      "Folder Name": "CV-2025-10-5027_10_16_2025",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Evangelos S. Sisalouis\n- Email: esisalouis@ursinjurylaw.com\n- Phone: (216) 289-4740\n- Website: ursinjurylaw.com\n- Firm: NAGER, ROMAINE & SCHNEIBERG CO., LPA\n- Practice Area: WORKERS COMPENSATION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (ursinjurylaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: esisalouis@ursinjurylaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: esisalouis@ursinjurylaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: WORKERS COMPENSATION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: ursinjurylaw.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 8,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Kinsley Johnson",
+        "title": "Litigation Paralegal",
+        "email": "kjohnson@nrsinjurylaw.com",
+        "email_options": [
+          "kjohnson@nrsinjurylaw.com",
+          "kinsley.johnson@nrsinjurylaw.com",
+          "kinsley@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Started as legal assistant at NRS Injury Law and over the past 3 years moved up through the company to a case manager and now litigation paralegal.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Belicia Cooper",
+        "title": "Litigation Paralegal",
+        "email": "bcooper@nrsinjurylaw.com",
+        "email_options": [
+          "bcooper@nrsinjurylaw.com",
+          "belicia.cooper@nrsinjurylaw.com",
+          "belicia@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Previously served as Case Manager at NRS Injury Law from May 2023 to Feb 2024.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Sheri Rydzinski",
+        "title": "Case Manager",
+        "email": "srydzinski@nrsinjurylaw.com",
+        "email_options": [
+          "srydzinski@nrsinjurylaw.com",
+          "sheri.rydzinski@nrsinjurylaw.com",
+          "sheri@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Case Manager at NRS Injury Law for 5 years 11 months; previously Legal Assistant from Apr 2019 to Apr 2020.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Thomas Krisak",
+        "title": "Legal Assistant",
+        "email": "tkrisak@nrsinjurylaw.com",
+        "email_options": [
+          "tkrisak@nrsinjurylaw.com",
+          "thomas.krisak@nrsinjurylaw.com",
+          "thomas@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Legal Assistant at NRS Injury Law with a communications degree, currently pursuing further education at The Ohio State University.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Matt Kirchner",
+        "title": "Legal Assistant",
+        "email": "mkirchner@nrsinjurylaw.com",
+        "email_options": [
+          "mkirchner@nrsinjurylaw.com",
+          "matt.kirchner@nrsinjurylaw.com",
+          "matt@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Focused and Self-Driven Legal Assistant at Nager, Romaine & Schneiberg Injury Law; OSU '25 Alum with B.A. in Political Science.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Brett Lance",
+        "title": "Litigation Paralegal",
+        "email": "blance@nrsinjurylaw.com",
+        "email_options": [
+          "blance@nrsinjurylaw.com",
+          "brett.lance@nrsinjurylaw.com",
+          "brett@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Litigation Paralegal at NRS Injury Law; University of Cincinnati alumnus.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Meghan Mormino",
+        "title": "Paralegal",
+        "email": "mmormino@nrsinjurylaw.com",
+        "email_options": [
+          "mmormino@nrsinjurylaw.com",
+          "meghan.mormino@nrsinjurylaw.com",
+          "meghan@nrsinjurylaw.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Workers Compensation",
+        "quote": "Paralegal at NRS Injury Law; Kent State University alumnus.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Evangelos S. Sisalouis\n- Email: esisalouis@ursinjurylaw.com\n- Phone: (216) 289-4740\n- Website: ursinjurylaw.com\n- Firm: NAGER, ROMAINE & SCHNEIBERG CO., LPA\n- Practice Area: WORKERS COMPENSATION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (ursinjurylaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: esisalouis@ursinjurylaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: esisalouis@ursinjurylaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: WORKERS COMPENSATION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: ursinjurylaw.com\nThought for 2m 24s\n{\n\"page_url\": \"https://nrsinjurylaw.com\",\n\"search_sources\": [\"https://nrsinjurylaw.com\", \"https://www.linkedin.com/company/nrsinjurylaw\", \"https://www.instagram.com/nrsinjurylaw\", \"https://lawyers.findlaw.com\", \"https://www.avvo.com\", \"https://www.lawyers.com\"],\n\"total_staff_found\": 7,\n\"attorney_email_domain\": \"nrsinjurylaw.com\",\n\"paralegals\": [\n{\n\"name\": \"Kinsley Johnson\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"kjohnson@nrsinjurylaw.com\",\n\"email_options\": [\"kjohnson@nrsinjurylaw.com\", \"kinsley.johnson@nrsinjurylaw.com\", \"kinsley@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Started as legal assistant at NRS Injury Law and over the past 3 years moved up through the company to a case manager and now litigation paralegal.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Belicia Cooper\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"bcooper@nrsinjurylaw.com\",\n\"email_options\": [\"bcooper@nrsinjurylaw.com\", \"belicia.cooper@nrsinjurylaw.com\", \"belicia@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Previously served as Case Manager at NRS Injury Law from May 2023 to Feb 2024.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Sheri Rydzinski\",\n\"title\": \"Case Manager\",\n\"email\": \"srydzinski@nrsinjurylaw.com\",\n\"email_options\": [\"srydzinski@nrsinjurylaw.com\", \"sheri.rydzinski@nrsinjurylaw.com\", \"sheri@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Case Manager at NRS Injury Law for 5 years 11 months; previously Legal Assistant from Apr 2019 to Apr 2020.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Thomas Krisak\",\n\"title\": \"Legal Assistant\",\n\"email\": \"tkrisak@nrsinjurylaw.com\",\n\"email_options\": [\"tkrisak@nrsinjurylaw.com\", \"thomas.krisak@nrsinjurylaw.com\", \"thomas@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Legal Assistant at NRS Injury Law with a communications degree, currently pursuing further education at The Ohio State University.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Matt Kirchner\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mkirchner@nrsinjurylaw.com\",\n\"email_options\": [\"mkirchner@nrsinjurylaw.com\", \"matt.kirchner@nrsinjurylaw.com\", \"matt@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Focused and Self-Driven Legal Assistant at Nager, Romaine & Schneiberg Injury Law; OSU '25 Alum with B.A. in Political Science.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Brett Lance\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"blance@nrsinjurylaw.com\",\n\"email_options\": [\"blance@nrsinjurylaw.com\", \"brett.lance@nrsinjurylaw.com\", \"brett@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Litigation Paralegal at NRS Injury Law; University of Cincinnati alumnus.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Meghan Mormino\",\n\"title\": \"Paralegal\",\n\"email\": \"mmormino@nrsinjurylaw.com\",\n\"email_options\": [\"mmormino@nrsinjurylaw.com\", \"meghan.mormino@nrsinjurylaw.com\", \"meghan@nrsinjurylaw.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Workers Compensation\",\n\"quote\": \"Paralegal at NRS Injury Law; Kent State University alumnus.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Sheri Rydzinski was selected as the best match because she holds the position of Case Manager with nearly 6 years of tenure at the firm, indicating seniority and likely involvement in client intake, case handling, and communications in the workers' compensation practice area. This aligns with the criteria for someone senior enough to manage new cases and handle client responsibilities.\",\n\"search_notes\": \"Primary search on the corrected firm website (nrsinjurylaw.com) revealed no direct listings of support staff, though it mentions over 100 support staff and assigns paralegals/case managers to attorneys. Deep search via LinkedIn employee profiles yielded current staff in target roles. Social media (Instagram, Facebook mentions) and legal directories (Avvo, FindLaw, Lawyers.com) primarily featured attorneys and firm overviews, with no additional support staff identified. Email domain corrected to nrsinjurylaw.com based on firm details; generations follow the attorney's pattern (first initial + last name).\"\n}\n77 web pages\n1.4s\nExpert\nFind more staff on LinkedIn\nContact similar Ohio firms\nExpand email options list\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:26:43.295752",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_032643.txt"
+  },
+  "search_completed_at": "2025-10-18T03:26:43.329457",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_ursinjurylaw_com_20251018_032643_w2.json"
+}

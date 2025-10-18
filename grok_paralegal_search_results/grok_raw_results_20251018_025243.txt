@@ -1,0 +1,284 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Judith Miles
+- Email: jmiles@prosecutor.cuyahogacounty.us
+- Phone: (216) 443-7797
+- Website: prosecutor.cuyahogacounty.us
+- Firm: Prosecuting Attorney of Cuyahoga County, Ohio
+- Practice Area: FORECLOSURE
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (prosecutor.cuyahogacounty.us) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: jmiles@prosecutor.cuyahogacounty.us and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: jmiles@prosecutor.cuyahogacounty.us
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: FORECLOSURE), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: prosecutor.cuyahogacounty.us
+Thought for 2m 59s
+{
+"page_url": "https://prosecutor.cuyahogacounty.us",
+"search_sources": ["https://prosecutor.cuyahogacounty.us", "https://www.linkedin.com", "https://www.facebook.com/CCProsecutor/", "https://www.instagram.com/prosecutoromalley/", "https://lawyers.findlaw.com"],
+"total_staff_found": 12,
+"attorney_email_domain": "prosecutor.cuyahogacounty.us",
+"paralegals": [
+{
+"name": "Laura Bellido",
+"title": "Paralegal",
+"email": "lbellido@prosecutor.cuyahogacounty.us",
+"email_options": ["lbellido@prosecutor.cuyahogacounty.us", "laura.bellido@prosecutor.cuyahogacounty.us", "laura@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Molly Washko",
+"title": "Major Trial Unit Paralegal",
+"email": "mwashko@prosecutor.cuyahogacounty.us",
+"email_options": ["mwashko@prosecutor.cuyahogacounty.us", "molly.washko@prosecutor.cuyahogacounty.us", "molly@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Major Trial Unit",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Stephanie Barry",
+"title": "Paralegal",
+"email": "sbarry@prosecutor.cuyahogacounty.us",
+"email_options": ["sbarry@prosecutor.cuyahogacounty.us", "stephanie.barry@prosecutor.cuyahogacounty.us", "stephanie@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Linda Quinn",
+"title": "Paralegal",
+"email": "lquinn@prosecutor.cuyahogacounty.us",
+"email_options": ["lquinn@prosecutor.cuyahogacounty.us", "linda.quinn@prosecutor.cuyahogacounty.us", "linda@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Emaleigh Arndt",
+"title": "Paralegal",
+"email": "earndt@prosecutor.cuyahogacounty.us",
+"email_options": ["earndt@prosecutor.cuyahogacounty.us", "emaleigh.arndt@prosecutor.cuyahogacounty.us", "emaleigh@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Heather Jakubowski",
+"title": "Paralegal",
+"email": "hjakubowski@prosecutor.cuyahogacounty.us",
+"email_options": ["hjakubowski@prosecutor.cuyahogacounty.us", "heather.jakubowski@prosecutor.cuyahogacounty.us", "heather@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Civil Division",
+"quote": "Provide paralegal support to Assistant Prosecuting Attorneys within the Civil Division of the Cuyahoga County Prosecutor's Office.",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Roberta Arnold",
+"title": "Legal Secretary",
+"email": "rarnold@prosecutor.cuyahogacounty.us",
+"email_options": ["rarnold@prosecutor.cuyahogacounty.us", "roberta.arnold@prosecutor.cuyahogacounty.us", "roberta@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Loretta Parks",
+"title": "Legal Secretary II",
+"email": "lparks@prosecutor.cuyahogacounty.us",
+"email_options": ["lparks@prosecutor.cuyahogacounty.us", "loretta.parks@prosecutor.cuyahogacounty.us", "loretta@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Karen Kendall",
+"title": "Legal Secretary",
+"email": "kkendall@prosecutor.cuyahogacounty.us",
+"email_options": ["kkendall@prosecutor.cuyahogacounty.us", "karen.kendall@prosecutor.cuyahogacounty.us", "karen@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Carmella Brown",
+"title": "Legal Secretary",
+"email": "cbrown@prosecutor.cuyahogacounty.us",
+"email_options": ["cbrown@prosecutor.cuyahogacounty.us", "carmella.brown@prosecutor.cuyahogacounty.us", "carmella@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Leonie McDonald",
+"title": "Administrative Assistant",
+"email": "lmcdonald@prosecutor.cuyahogacounty.us",
+"email_options": ["lmcdonald@prosecutor.cuyahogacounty.us", "leonie.mcdonald@prosecutor.cuyahogacounty.us", "leonie@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "4"
+},
+{
+"name": "Eliaris Rodriguez",
+"title": "Legal Secretary",
+"email": "erodriguez@prosecutor.cuyahogacounty.us",
+"email_options": ["erodriguez@prosecutor.cuyahogacounty.us", "eliaris.rodriguez@prosecutor.cuyahogacounty.us", "eliaris@prosecutor.cuyahogacounty.us"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "5"
+}
+],
+"best_contact_reasoning": "The practice area is FORECLOSURE, which is handled by the Tax Foreclosure Unit within the Civil Division. Heather Jakubowski is a paralegal specifically supporting the Civil Division, making her the most relevant and senior staff member likely to handle intake or communications for new cases in this area.",
+"search_notes": "Thoroughly searched the main website but found no detailed staff directory. Utilized web searches and browsed LinkedIn profiles to identify support staff through role-specific queries. Checked social media platforms like Facebook and Instagram for mentions, but none were found. Legal directories provided attorney lists but no support staff. Focused on LinkedIn yielded the majority of results."
+}
+104 web pages
+1.8s
+Expert
+Details on Heather Jakubowski's role
+Contacting Cuyahoga tax foreclosure attorneys
+How can Grok help?
+Auto

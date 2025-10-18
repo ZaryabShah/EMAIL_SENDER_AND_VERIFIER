@@ -1,0 +1,234 @@
+{
+  "domain": "fightingelderabuse.com",
+  "search_url": "fightingelderabuse.com",
+  "attorney_info": {
+    "original_website": "fightingelderabuse.com",
+    "attorney_name": "Robert E. Daniell",
+    "attorney_email": "rdaniell@fightingelderabuse.com",
+    "phone": "214-953-1900",
+    "firm_name": "Smith Clinesmith LLP",
+    "practice_area": "PERSONAL_INJURY",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "2025-10-17",
+      "Case Type": "PERSONAL_INJURY",
+      "Court": "Court of Common Pleas, Civil Division, Cuyahoga County",
+      "County": "CUYAHOGA",
+      "Plaintiff": "JAMES SHROYER",
+      "Primary Defendant": "CLEVELAND CLINIC REHABILITATION HOSPITALS, LLC",
+      "Attorney Name": "Robert E. Daniell",
+      "Attorney Office": "Smith Clinesmith LLP",
+      "Attorney Email": "rdaniell@fightingelderabuse.com",
+      "Attorney Phone": "214-953-1900",
+      "Attorney Website": "fightingelderabuse.com",
+      "Relief Requested": "$25,000.00",
+      "Processed At": "2025-10-18T01:04:32.805051",
+      "Folder Name": "case_3647960",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Robert E. Daniell\n- Email: rdaniell@fightingelderabuse.com\n- Phone: 214-953-1900\n- Website: fightingelderabuse.com\n- Firm: Smith Clinesmith LLP\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (fightingelderabuse.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: rdaniell@fightingelderabuse.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: rdaniell@fightingelderabuse.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: fightingelderabuse.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 11,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Maria Martinez",
+        "title": "Senior Litigation Paralegal",
+        "email": "mmartinez@fightingelderabuse.com",
+        "email_options": [
+          "maria.martinez@fightingelderabuse.com",
+          "mmartinez@fightingelderabuse.com",
+          "maria@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Maria Martinez is a Senior Litigation Paralegal with Smith Clinesmith, managing litigation cases that deal with nursing home abuse and neglect.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Abigail Meeker",
+        "title": "Litigation Paralegal",
+        "email": "ameeker@fightingelderabuse.com",
+        "email_options": [
+          "abigail.meeker@fightingelderabuse.com",
+          "ameeker@fightingelderabuse.com",
+          "abigail@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Abigail serves as a Litigation Paralegal for the firm. In her role, she is responsible for filing legal documents, drafting discovery, and maintaining client files.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Nicholas Tillar",
+        "title": "Litigation Paralegal",
+        "email": "ntillar@fightingelderabuse.com",
+        "email_options": [
+          "nicholas.tillar@fightingelderabuse.com",
+          "ntillar@fightingelderabuse.com",
+          "nicholas@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Nicholas Tillar is a Litigation Paralegal, supporting Associate Attorneys with managing daily tasks, document preparation and filing.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Laurie King",
+        "title": "Probate Paralegal",
+        "email": "lking@fightingelderabuse.com",
+        "email_options": [
+          "laurie.king@fightingelderabuse.com",
+          "lking@fightingelderabuse.com",
+          "laurie@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Probate",
+        "quote": "As a Probate Paralegal, Laurie King provides support to Smith Clinesmith's cases should Probate be required.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Kyla Stewart",
+        "title": "Case Manager/Pre-Lit",
+        "email": "kstewart@fightingelderabuse.com",
+        "email_options": [
+          "kyla.stewart@fightingelderabuse.com",
+          "kstewart@fightingelderabuse.com",
+          "kyla@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Pre-Litigation",
+        "quote": "Case Manager/Pre-Lit at Smith Clinesmith.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Christina Nolen",
+        "title": "Executive Assistant / Legal Assistant",
+        "email": "cnolen@fightingelderabuse.com",
+        "email_options": [
+          "christina.nolen@fightingelderabuse.com",
+          "cnolen@fightingelderabuse.com",
+          "christina@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administration",
+        "quote": "Executive Assistant, Legal Assistant, Auditor, Legal Administrator at Smith Clinesmith, LLP.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Daniel López",
+        "title": "Paralegal",
+        "email": "dlopez@fightingelderabuse.com",
+        "email_options": [
+          "daniel.lopez@fightingelderabuse.com",
+          "dlopez@fightingelderabuse.com",
+          "daniel@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Paralegal at Smith Clinesmith, LLP.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Christa Sibley",
+        "title": "Paralegal/Executive Assistant",
+        "email": "csibley@fightingelderabuse.com",
+        "email_options": [
+          "christa.sibley@fightingelderabuse.com",
+          "csibley@fightingelderabuse.com",
+          "christa@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administration",
+        "quote": "Paralegal/Executive Assistant at Smith Clinesmith LLP.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Teressa White",
+        "title": "Pre-Litigation Case Manager",
+        "email": "twhite@fightingelderabuse.com",
+        "email_options": [
+          "teressa.white@fightingelderabuse.com",
+          "twhite@fightingelderabuse.com",
+          "teressa@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Pre-Litigation",
+        "quote": "Teressa White, Pre-Litigation Case Manager, exemplifies dedication and professionalism in her role. She plays a crucial part in ensuring our clients receive the support and guidance they need during the initial stages of their cases.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Tiffany Henry",
+        "title": "Litigation Paralegal",
+        "email": "thenry@fightingelderabuse.com",
+        "email_options": [
+          "tiffany.henry@fightingelderabuse.com",
+          "thenry@fightingelderabuse.com",
+          "tiffany@fightingelderabuse.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Litigation Paralegal at Smith Clinesmith, LLP.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Robert E. Daniell\n- Email: rdaniell@fightingelderabuse.com\n- Phone: 214-953-1900\n- Website: fightingelderabuse.com\n- Firm: Smith Clinesmith LLP\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (fightingelderabuse.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: rdaniell@fightingelderabuse.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: rdaniell@fightingelderabuse.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: fightingelderabuse.com\nThought for 2m 9s\n{\n\"page_url\": \"https://fightingelderabuse.com\",\n\"search_sources\": [\"fightingelderabuse.com\", \"linkedin.com\", \"facebook.com\", \"instagram.com\", \"avvo.com\", \"findlaw.com\", \"lawyers.com\", \"texasbar.com\"],\n\"total_staff_found\": 10,\n\"attorney_email_domain\": \"fightingelderabuse.com\",\n\"paralegals\": [\n{\n\"name\": \"Maria Martinez\",\n\"title\": \"Senior Litigation Paralegal\",\n\"email\": \"mmartinez@fightingelderabuse.com\",\n\"email_options\": [\"maria.martinez@fightingelderabuse.com\", \"mmartinez@fightingelderabuse.com\", \"maria@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Maria Martinez is a Senior Litigation Paralegal with Smith Clinesmith, managing litigation cases that deal with nursing home abuse and neglect.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Abigail Meeker\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"ameeker@fightingelderabuse.com\",\n\"email_options\": [\"abigail.meeker@fightingelderabuse.com\", \"ameeker@fightingelderabuse.com\", \"abigail@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Abigail serves as a Litigation Paralegal for the firm. In her role, she is responsible for filing legal documents, drafting discovery, and maintaining client files.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Nicholas Tillar\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"ntillar@fightingelderabuse.com\",\n\"email_options\": [\"nicholas.tillar@fightingelderabuse.com\", \"ntillar@fightingelderabuse.com\", \"nicholas@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Nicholas Tillar is a Litigation Paralegal, supporting Associate Attorneys with managing daily tasks, document preparation and filing.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Laurie King\",\n\"title\": \"Probate Paralegal\",\n\"email\": \"lking@fightingelderabuse.com\",\n\"email_options\": [\"laurie.king@fightingelderabuse.com\", \"lking@fightingelderabuse.com\", \"laurie@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Probate\",\n\"quote\": \"As a Probate Paralegal, Laurie King provides support to Smith Clinesmith's cases should Probate be required.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Kyla Stewart\",\n\"title\": \"Case Manager/Pre-Lit\",\n\"email\": \"kstewart@fightingelderabuse.com\",\n\"email_options\": [\"kyla.stewart@fightingelderabuse.com\", \"kstewart@fightingelderabuse.com\", \"kyla@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Pre-Litigation\",\n\"quote\": \"Case Manager/Pre-Lit at Smith Clinesmith.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Christina Nolen\",\n\"title\": \"Executive Assistant / Legal Assistant\",\n\"email\": \"cnolen@fightingelderabuse.com\",\n\"email_options\": [\"christina.nolen@fightingelderabuse.com\", \"cnolen@fightingelderabuse.com\", \"christina@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administration\",\n\"quote\": \"Executive Assistant, Legal Assistant, Auditor, Legal Administrator at Smith Clinesmith, LLP.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Daniel López\",\n\"title\": \"Paralegal\",\n\"email\": \"dlopez@fightingelderabuse.com\",\n\"email_options\": [\"daniel.lopez@fightingelderabuse.com\", \"dlopez@fightingelderabuse.com\", \"daniel@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Paralegal at Smith Clinesmith, LLP.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Christa Sibley\",\n\"title\": \"Paralegal/Executive Assistant\",\n\"email\": \"csibley@fightingelderabuse.com\",\n\"email_options\": [\"christa.sibley@fightingelderabuse.com\", \"csibley@fightingelderabuse.com\", \"christa@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administration\",\n\"quote\": \"Paralegal/Executive Assistant at Smith Clinesmith LLP.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Teressa White\",\n\"title\": \"Pre-Litigation Case Manager\",\n\"email\": \"twhite@fightingelderabuse.com\",\n\"email_options\": [\"teressa.white@fightingelderabuse.com\", \"twhite@fightingelderabuse.com\", \"teressa@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Pre-Litigation\",\n\"quote\": \"Teressa White, Pre-Litigation Case Manager, exemplifies dedication and professionalism in her role. She plays a crucial part in ensuring our clients receive the support and guidance they need during the initial stages of their cases.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Tiffany Henry\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"thenry@fightingelderabuse.com\",\n\"email_options\": [\"tiffany.henry@fightingelderabuse.com\", \"thenry@fightingelderabuse.com\", \"tiffany@fightingelderabuse.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Litigation Paralegal at Smith Clinesmith, LLP.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n}\n],\n\"best_contact_reasoning\": \"As a Pre-Litigation Case Manager, Teressa White is likely involved in the initial handling of new cases, including client intake and providing guidance, making her the most suitable contact for new legal matters in the personal injury practice area. She has client contact responsibilities and is positioned to facilitate new client communications, with experience in the firm's core area of nursing home abuse cases.\",\n\"search_notes\": \"Searched the main website fightingelderabuse.com and subpages for staff bios; used LinkedIn searches for company and employee profiles matching target roles; checked Facebook and Instagram for staff mentions; reviewed legal directories like Avvo, FindLaw, Lawyers.com, and State Bar of Texas listings, but they primarily listed attorneys; no additional staff found in other sources like Google Business or court documents.\"\n}\n56 web pages\n1.6s\nExpert\nInclude LinkedIn profile URLs\nSearch for additional case managers\nAdd phone number guesses\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:05:38.871056",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_030538.txt"
+  },
+  "search_completed_at": "2025-10-18T03:05:38.896681",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_fightingelderabuse_com_20251018_030538_w1.json"
+}

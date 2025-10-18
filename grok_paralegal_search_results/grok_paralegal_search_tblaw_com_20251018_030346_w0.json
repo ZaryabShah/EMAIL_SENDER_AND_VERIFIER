@@ -1,0 +1,154 @@
+{
+  "domain": "tblaw.com",
+  "search_url": "tblaw.com",
+  "attorney_info": {
+    "original_website": "tblaw.com",
+    "attorney_name": "Douglas A. Haessig",
+    "attorney_email": "dhaessig@tblaw.com",
+    "phone": "(440) 600-5500 Ext. 5549",
+    "firm_name": "TIFFANY & BOSCO P.A.",
+    "practice_area": "FORECLOSURE",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "2025-10-16",
+      "Case Type": "FORECLOSURE",
+      "Court": "COURT OF COMMON PLEAS CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "Lakeview Loan Servicing, LLC",
+      "Primary Defendant": "Vanessa Chase Turnage",
+      "Attorney Name": "Douglas A. Haessig",
+      "Attorney Office": "TIFFANY & BOSCO P.A.",
+      "Attorney Email": "dhaessig@tblaw.com",
+      "Attorney Phone": "(440) 600-5500 Ext. 5549",
+      "Attorney Website": "tblaw.com",
+      "Relief Requested": "$69,251.64",
+      "Processed At": "2025-10-18T01:04:32.768556",
+      "Folder Name": "case_3647947",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Douglas A. Haessig\n- Email: dhaessig@tblaw.com\n- Phone: (440) 600-5500 Ext. 5549\n- Website: tblaw.com\n- Firm: TIFFANY & BOSCO P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (tblaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: dhaessig@tblaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: dhaessig@tblaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: tblaw.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 6,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Bianca Ochoa",
+        "title": "Legal Assistant",
+        "email": "bochoa@tblaw.com",
+        "email_options": [
+          "bianca.ochoa@tblaw.com",
+          "bochoa@tblaw.com",
+          "bianca@tblaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Commercial Bankruptcy and Litigation",
+        "quote": "I am a Legal assistant who specializes in Commercial Bankruptcy and Litigation. Scheduling meetings and court deadlines is an important part of my job.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Marsha L Brott",
+        "title": "Legal Assistant",
+        "email": "mbrott@tblaw.com",
+        "email_options": [
+          "marsha.brott@tblaw.com",
+          "mbrott@tblaw.com",
+          "marsha@tblaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Dawn Slomovitz",
+        "title": "Legal Assistant - Litigation Department",
+        "email": "dslomovitz@tblaw.com",
+        "email_options": [
+          "dawn.slomovitz@tblaw.com",
+          "dslomovitz@tblaw.com",
+          "dawn@tblaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Elizabeth Franklin",
+        "title": "Paralegal",
+        "email": "efranklin@tblaw.com",
+        "email_options": [
+          "elizabeth.franklin@tblaw.com",
+          "efranklin@tblaw.com",
+          "elizabeth@tblaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "I have started a subcontract business to perform Legal Assistant/Paralegal services remotely to the legal community on an as-needed basis.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Michele Quistad",
+        "title": "Legal Assistant",
+        "email": "mquistad@tblaw.com",
+        "email_options": [
+          "michele.quistad@tblaw.com",
+          "mquistad@tblaw.com",
+          "michele@tblaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Douglas A. Haessig\n- Email: dhaessig@tblaw.com\n- Phone: (440) 600-5500 Ext. 5549\n- Website: tblaw.com\n- Firm: TIFFANY & BOSCO P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (tblaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: dhaessig@tblaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: dhaessig@tblaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: tblaw.com\nThought for 1m 57s\n{\n\"page_url\": \"tblaw.com\",\n\"search_sources\": [\"tblaw.com\", \"linkedin.com\", \"facebook.com\", \"indeed.com\", \"web search results\"],\n\"total_staff_found\": 5,\n\"attorney_email_domain\": \"tblaw.com\",\n\"paralegals\": [\n{\n\"name\": \"Bianca Ochoa\",\n\"title\": \"Legal Assistant\",\n\"email\": \"bochoa@tblaw.com\",\n\"email_options\": [\"bianca.ochoa@tblaw.com\", \"bochoa@tblaw.com\", \"bianca@tblaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Commercial Bankruptcy and Litigation\",\n\"quote\": \"I am a Legal assistant who specializes in Commercial Bankruptcy and Litigation. Scheduling meetings and court deadlines is an important part of my job.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Marsha L Brott\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mbrott@tblaw.com\",\n\"email_options\": [\"marsha.brott@tblaw.com\", \"mbrott@tblaw.com\", \"marsha@tblaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Dawn Slomovitz\",\n\"title\": \"Legal Assistant - Litigation Department\",\n\"email\": \"dslomovitz@tblaw.com\",\n\"email_options\": [\"dawn.slomovitz@tblaw.com\", \"dslomovitz@tblaw.com\", \"dawn@tblaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Elizabeth Franklin\",\n\"title\": \"Paralegal\",\n\"email\": \"efranklin@tblaw.com\",\n\"email_options\": [\"elizabeth.franklin@tblaw.com\", \"efranklin@tblaw.com\", \"elizabeth@tblaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"I have started a subcontract business to perform Legal Assistant/Paralegal services remotely to the legal community on an as-needed basis.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Michele Quistad\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mquistad@tblaw.com\",\n\"email_options\": [\"michele.quistad@tblaw.com\", \"mquistad@tblaw.com\", \"michele@tblaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n}\n],\n\"best_contact_reasoning\": \"Dawn Slomovitz was selected as the best match because she is a Legal Assistant in the Litigation Department, located in the Ohio area (Kent, near Solon office where Douglas A. Haessig practices), and foreclosure matters often involve litigation support. She is likely senior enough to handle client intake or communications in this practice area, making her the most relevant for new foreclosure cases.\",\n\"search_notes\": \"Searched main website tblaw.com but found only attorneys, no support staff. Deep searched LinkedIn company pages and profiles, extracting relevant support staff from individual profiles. Checked Facebook but insufficient info. Used web searches for Solon OH specific staff, reviews on Indeed for context, but no additional names. Focused on roles matching targets; generated emails based on attorney pattern (first initial + lastname @tblaw.com).\"\n}\n1 𝕏 post\n82 web pages\n1.7s\nExpert\nForeclosure litigation process details\nReimer Law acquisition history\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:03:46.765136",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_030346.txt"
+  },
+  "search_completed_at": "2025-10-18T03:03:46.780735",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_tblaw_com_20251018_030346_w0.json"
+}

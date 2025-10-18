@@ -1,0 +1,346 @@
+{
+  "domain": "memeg.com",
+  "search_url": "memeg.com",
+  "attorney_info": {
+    "original_website": "memeg.com",
+    "attorney_name": "NEVENKA PAVLOVIC",
+    "attorney_email": "ILOH@memeg.com",
+    "phone": "(866)300-8750",
+    "firm_name": "Midland Credit Management, Inc. Legal Department",
+    "practice_area": "OTHER CIVIL",
+    "case_id": "CV-2025-10-5023",
+    "row_data": {
+      "Case Number": "CV-2025-10-5023",
+      "Filing Date": "10/16/2025",
+      "Case Type": "OTHER CIVIL",
+      "Court": "IN THE SUMMIT COUNTY COMMON PLEAS COURT, SUMMIT COUNTY, OHIO",
+      "County": "SUMMIT",
+      "Plaintiff": "MIDLAND CREDIT MANAGEMENT, INC.",
+      "Primary Defendant": "JOHN LEMMON",
+      "Attorney Name": "NEVENKA PAVLOVIC",
+      "Attorney Office": "Midland Credit Management, Inc. Legal Department",
+      "Attorney Email": "ILOH@memeg.com",
+      "Attorney Phone": "(866)300-8750",
+      "Attorney Website": "memeg.com",
+      "Relief Requested": "Judgment for $24,023.30, Costs of the action, Post-judgment interest at the statutory rate per annum",
+      "Processed At": "2025-10-17T21:21:32.706073",
+      "Folder Name": "CV-2025-10-5023_10_16_2025",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: NEVENKA PAVLOVIC\n- Email: ILOH@memeg.com\n- Phone: (866)300-8750\n- Website: memeg.com\n- Firm: Midland Credit Management, Inc. Legal Department\n- Practice Area: OTHER CIVIL\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (memeg.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: ILOH@memeg.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: ILOH@memeg.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER CIVIL), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: memeg.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 18,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Jennifer Phelps",
+        "title": "Paralegal II",
+        "email": "jennifer.phelps@mcmcg.com",
+        "email_options": [
+          "jennifer.phelps@mcmcg.com",
+          "jphelps@mcmcg.com",
+          "jennifer@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "I am a highly motivated person that has been employed in many capacities throughout my career, including: Legal Assistance and Paralegal positions, office management, administrative assistant positions, as well as marketing/media relations.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Bessie Sapp",
+        "title": "Paralegal",
+        "email": "bessie.sapp@mcmcg.com",
+        "email_options": [
+          "bessie.sapp@mcmcg.com",
+          "bsapp@mcmcg.com",
+          "bessie@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Paralegal | Process Improvements | Team Leadership. Observed the need for a formal process to ensure a smooth transition for new legal assistants. Cross-functional collaboration with executive team to develop and compile a training schedule and onboarding process.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Michelle Arnold",
+        "title": "Legal Assistant",
+        "email": "michelle.arnold@mcmcg.com",
+        "email_options": [
+          "michelle.arnold@mcmcg.com",
+          "marnold@mcmcg.com",
+          "michelle@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Processing legal documents, including scanning, printing, preparing documents for review by staff counsel, and submitting documents for filing with the courts. Supporting communications for staff counsel.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Claire Waller",
+        "title": "Legal Assistant",
+        "email": "claire.waller@mcmcg.com",
+        "email_options": [
+          "claire.waller@mcmcg.com",
+          "cwaller@mcmcg.com",
+          "claire@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Graduate From Baldwin Wallace University with a Bachelor of Arts degree in Criminal Justice and a Bachelor of Science degree in Psychology.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Keenan Ancalade Jr",
+        "title": "Legal Assistant I",
+        "email": "keenan.ancalade@mcmcg.com",
+        "email_options": [
+          "keenan.ancalade@mcmcg.com",
+          "kancalade@mcmcg.com",
+          "keenan@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Precious Jenkins",
+        "title": "Legal Assistant",
+        "email": "precious.jenkins@mcmcg.com",
+        "email_options": [
+          "precious.jenkins@mcmcg.com",
+          "pjenkins@mcmcg.com",
+          "precious@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Walter Hernandez",
+        "title": "Legal Specialist",
+        "email": "walter.hernandez@mcmcg.com",
+        "email_options": [
+          "walter.hernandez@mcmcg.com",
+          "whernandez@mcmcg.com",
+          "walter@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Provided paralegal assistance to single attorney in four areas of law consisting of Criminal Law, Family Law, Bankruptcy Law, and Civil Law.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Thatiara Konapelsky",
+        "title": "Legal Specialist I",
+        "email": "thatiara.konapelsky@mcmcg.com",
+        "email_options": [
+          "thatiara.konapelsky@mcmcg.com",
+          "tkonapelsky@mcmcg.com",
+          "thatiara@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Tara Grell",
+        "title": "Legal Specialist",
+        "email": "tara.grell@mcmcg.com",
+        "email_options": [
+          "tara.grell@mcmcg.com",
+          "tgrell@mcmcg.com",
+          "tara@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "I am currently at Midland Credit Management Inc. As a Legal Specialist. I’ve been there for 5 years and counting.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Emily Conklin",
+        "title": "Legal Specialist",
+        "email": "emily.conklin@mcmcg.com",
+        "email_options": [
+          "emily.conklin@mcmcg.com",
+          "econklin@mcmcg.com",
+          "emily@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Evelyn Koshenina",
+        "title": "Senior Legal Specialist",
+        "email": "evelyn.koshenina@mcmcg.com",
+        "email_options": [
+          "evelyn.koshenina@mcmcg.com",
+          "ekoshenina@mcmcg.com",
+          "evelyn@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Jalen Thomas",
+        "title": "Legal Specialist",
+        "email": "jalen.thomas@mcmcg.com",
+        "email_options": [
+          "jalen.thomas@mcmcg.com",
+          "jthomas@mcmcg.com",
+          "jalen@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Experienced Legal Specialist with a demonstrated history of working in the financial services industry. Skilled in Receptionist Duties, Computer Literacy, Capital, Legal Document Preparation, and Time Management.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Vang Her",
+        "title": "Legal Specialist",
+        "email": "vang.her@mcmcg.com",
+        "email_options": [
+          "vang.her@mcmcg.com",
+          "vher@mcmcg.com",
+          "vang@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Community driven professional who is composed and always ambitious.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Tracey Williams",
+        "title": "Legal Specialist",
+        "email": "tracey.williams@mcmcg.com",
+        "email_options": [
+          "tracey.williams@mcmcg.com",
+          "twilliams@mcmcg.com",
+          "tracey@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Experienced Legal Specialist with a demonstrated history of working in the financial services industry.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Ted Craig",
+        "title": "Legal Specialist",
+        "email": "ted.craig@mcmcg.com",
+        "email_options": [
+          "ted.craig@mcmcg.com",
+          "tcraig@mcmcg.com",
+          "ted@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Experienced business writer and editor with a demonstrated history of working in the publishing industry.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Blake Funkhouser",
+        "title": "Administrative Assistant",
+        "email": "blake.funkhouser@mcmcg.com",
+        "email_options": [
+          "blake.funkhouser@mcmcg.com",
+          "bfunkhouser@mcmcg.com",
+          "blake@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "Looking to learn and grow as a professional!",
+        "Best_match": "False",
+        "Priority_score": "2"
+      },
+      {
+        "name": "David Hollander",
+        "title": "Paralegal",
+        "email": "david.hollander@mcmcg.com",
+        "email_options": [
+          "david.hollander@mcmcg.com",
+          "dhollander@mcmcg.com",
+          "david@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Department",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: NEVENKA PAVLOVIC\n- Email: ILOH@memeg.com\n- Phone: (866)300-8750\n- Website: memeg.com\n- Firm: Midland Credit Management, Inc. Legal Department\n- Practice Area: OTHER CIVIL\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (memeg.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: ILOH@memeg.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: ILOH@memeg.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER CIVIL), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: memeg.com\nThought for 1m 30s\n{\n\"page_url\": \"midlandcredit.com\",\n\"search_sources\": [\"midlandcredit.com\", \"linkedin.com\", \"zoominfo.com\", \"signalhire.com\", \"avvo.com\", \"rocketreach.co\"],\n\"total_staff_found\": 17,\n\"attorney_email_domain\": \"mcmcg.com\",\n\"paralegals\": [\n{\n\"name\": \"Jennifer Phelps\",\n\"title\": \"Paralegal II\",\n\"email\": \"jennifer.phelps@mcmcg.com\",\n\"email_options\": [\"jennifer.phelps@mcmcg.com\", \"jphelps@mcmcg.com\", \"jennifer@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"I am a highly motivated person that has been employed in many capacities throughout my career, including: Legal Assistance and Paralegal positions, office management, administrative assistant positions, as well as marketing/media relations.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Bessie Sapp\",\n\"title\": \"Paralegal\",\n\"email\": \"bessie.sapp@mcmcg.com\",\n\"email_options\": [\"bessie.sapp@mcmcg.com\", \"bsapp@mcmcg.com\", \"bessie@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Paralegal | Process Improvements | Team Leadership. Observed the need for a formal process to ensure a smooth transition for new legal assistants. Cross-functional collaboration with executive team to develop and compile a training schedule and onboarding process.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Michelle Arnold\",\n\"title\": \"Legal Assistant\",\n\"email\": \"michelle.arnold@mcmcg.com\",\n\"email_options\": [\"michelle.arnold@mcmcg.com\", \"marnold@mcmcg.com\", \"michelle@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Processing legal documents, including scanning, printing, preparing documents for review by staff counsel, and submitting documents for filing with the courts. Supporting communications for staff counsel.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Claire Waller\",\n\"title\": \"Legal Assistant\",\n\"email\": \"claire.waller@mcmcg.com\",\n\"email_options\": [\"claire.waller@mcmcg.com\", \"cwaller@mcmcg.com\", \"claire@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Graduate From Baldwin Wallace University with a Bachelor of Arts degree in Criminal Justice and a Bachelor of Science degree in Psychology.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Keenan Ancalade Jr\",\n\"title\": \"Legal Assistant I\",\n\"email\": \"keenan.ancalade@mcmcg.com\",\n\"email_options\": [\"keenan.ancalade@mcmcg.com\", \"kancalade@mcmcg.com\", \"keenan@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Precious Jenkins\",\n\"title\": \"Legal Assistant\",\n\"email\": \"precious.jenkins@mcmcg.com\",\n\"email_options\": [\"precious.jenkins@mcmcg.com\", \"pjenkins@mcmcg.com\", \"precious@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Walter Hernandez\",\n\"title\": \"Legal Specialist\",\n\"email\": \"walter.hernandez@mcmcg.com\",\n\"email_options\": [\"walter.hernandez@mcmcg.com\", \"whernandez@mcmcg.com\", \"walter@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Provided paralegal assistance to single attorney in four areas of law consisting of Criminal Law, Family Law, Bankruptcy Law, and Civil Law.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Thatiara Konapelsky\",\n\"title\": \"Legal Specialist I\",\n\"email\": \"thatiara.konapelsky@mcmcg.com\",\n\"email_options\": [\"thatiara.konapelsky@mcmcg.com\", \"tkonapelsky@mcmcg.com\", \"thatiara@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Tara Grell\",\n\"title\": \"Legal Specialist\",\n\"email\": \"tara.grell@mcmcg.com\",\n\"email_options\": [\"tara.grell@mcmcg.com\", \"tgrell@mcmcg.com\", \"tara@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"I am currently at Midland Credit Management Inc. As a Legal Specialist. I’ve been there for 5 years and counting.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Emily Conklin\",\n\"title\": \"Legal Specialist\",\n\"email\": \"emily.conklin@mcmcg.com\",\n\"email_options\": [\"emily.conklin@mcmcg.com\", \"econklin@mcmcg.com\", \"emily@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Evelyn Koshenina\",\n\"title\": \"Senior Legal Specialist\",\n\"email\": \"evelyn.koshenina@mcmcg.com\",\n\"email_options\": [\"evelyn.koshenina@mcmcg.com\", \"ekoshenina@mcmcg.com\", \"evelyn@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Jalen Thomas\",\n\"title\": \"Legal Specialist\",\n\"email\": \"jalen.thomas@mcmcg.com\",\n\"email_options\": [\"jalen.thomas@mcmcg.com\", \"jthomas@mcmcg.com\", \"jalen@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Experienced Legal Specialist with a demonstrated history of working in the financial services industry. Skilled in Receptionist Duties, Computer Literacy, Capital, Legal Document Preparation, and Time Management.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Vang Her\",\n\"title\": \"Legal Specialist\",\n\"email\": \"vang.her@mcmcg.com\",\n\"email_options\": [\"vang.her@mcmcg.com\", \"vher@mcmcg.com\", \"vang@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Community driven professional who is composed and always ambitious.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Tracey Williams\",\n\"title\": \"Legal Specialist\",\n\"email\": \"tracey.williams@mcmcg.com\",\n\"email_options\": [\"tracey.williams@mcmcg.com\", \"twilliams@mcmcg.com\", \"tracey@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Experienced Legal Specialist with a demonstrated history of working in the financial services industry.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Ted Craig\",\n\"title\": \"Legal Specialist\",\n\"email\": \"ted.craig@mcmcg.com\",\n\"email_options\": [\"ted.craig@mcmcg.com\", \"tcraig@mcmcg.com\", \"ted@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Experienced business writer and editor with a demonstrated history of working in the publishing industry.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Blake Funkhouser\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"blake.funkhouser@mcmcg.com\",\n\"email_options\": [\"blake.funkhouser@mcmcg.com\", \"bfunkhouser@mcmcg.com\", \"blake@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"Looking to learn and grow as a professional!\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"2\"\n},\n{\n\"name\": \"David Hollander\",\n\"title\": \"Paralegal\",\n\"email\": \"david.hollander@mcmcg.com\",\n\"email_options\": [\"david.hollander@mcmcg.com\", \"dhollander@mcmcg.com\", \"david@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Department\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Evelyn Koshenina was selected as the best match because she holds the title of Senior Legal Specialist, indicating seniority and likely responsibility for handling new client intake, decision-making on cases, and client communications in the context of other civil matters such as debt collection. This aligns with the criteria for someone senior enough to manage legal matters in the relevant practice area.\",\n\"search_notes\": \"The main website (midlandcredit.com) was browsed but only executive leadership was listed, with no support staff details. Extensive use of web searches and snippets from LinkedIn profiles identified multiple legal support staff. Domain confirmed as mcmcg.com from sources related to the attorney. No direct emails or phones found, so generated based on common patterns. Social media and directories yielded no additional staff beyond LinkedIn results.\"\n}\n75 web pages\n1.4s\nExpert\nMore staff from SignalHire\nEncore Capital Group contacts\nmore concise JSON\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:21:42.186625",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_032142.txt"
+  },
+  "search_completed_at": "2025-10-18T03:21:42.286470",
+  "associated_cases": 2,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_memeg_com_20251018_032142_w0.json"
+}

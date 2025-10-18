@@ -1,0 +1,202 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Steven M. Auvil
+- Email: steven.auvil@squirepb.com
+- Phone: +1 216 479 8500
+- Website: squirepb.com
+- Firm: SQUIRE PATTON BOGGS (US) LLP
+- Practice Area: OTHER
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (squirepb.com) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: steven.auvil@squirepb.com and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: steven.auvil@squirepb.com
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: OTHER), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: squirepb.com
+Thought for 1m 49s
+{
+"page_url": "https://www.squirepattonboggs.com/",
+"search_sources": ["https://www.squirepattonboggs.com/", "https://www.linkedin.com/", "https://x.com/"],
+"total_staff_found": 5,
+"attorney_email_domain": "squirepb.com",
+"paralegals": [
+{
+"name": "Aisha Aumran",
+"title": "Paralegal",
+"email": "aisha.aumran@squirepb.com",
+"email_options": ["aisha.aumran@squirepb.com", "aaumran@squirepb.com", "aisha@squirepb.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "General Legal",
+"quote": "I have had the opportunity to improve on my professional, legal and analytical skills through client interaction, document drafting, negotiating and litigating.",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Théodora Elie",
+"title": "Paralegal",
+"email": "theodora.elie@squirepb.com",
+"email_options": ["theodora.elie@squirepb.com", "telie@squirepb.com", "theodora@squirepb.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Arbitrage International",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Rachel Murray",
+"title": "Trademark Paralegal",
+"email": "rachel.murray@squirepb.com",
+"email_options": ["rachel.murray@squirepb.com", "rmurray@squirepb.com", "rachel@squirepb.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Intellectual Property",
+"quote": "Performs paralegal duties under the direction of the IP attorney. Dockets USPTO correspondence.",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Jennifer Conner",
+"title": "Legal Secretary",
+"email": "jennifer.conner@squirepb.com",
+"email_options": ["jennifer.conner@squirepb.com", "jconner@squirepb.com", "jennifer@squirepb.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "General Legal",
+"quote": "Experienced Legal Secretary with a demonstrated history of working in the legal services industry.",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Julie Matthews",
+"title": "Patent Assistant",
+"email": "julie.matthews@squirepb.com",
+"email_options": ["julie.matthews@squirepb.com", "jmatthews@squirepb.com", "julie@squirepb.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Intellectual Property",
+"quote": "22 years experience in U.S., foreign and trademark prosecution.",
+"Best_match": "True",
+"Priority_score": "10"
+}
+],
+"best_contact_reasoning": "Julie Matthews was selected as the best match due to her extensive 22 years of experience in patent prosecution, indicating a senior role likely involving case management, client communications, and decision-making support in legal matters. Given the vague 'OTHER' practice area, her seniority makes her suitable for handling new client intake and relevant cases.",
+"search_notes": "Searched the firm's website for staff listings but found only general mentions of paralegals and support roles without specific names. Utilized LinkedIn searches to identify current employees in target roles via profiles and job postings. X searches yielded no specific staff information, focusing instead on firm news and events."
+}
+30 𝕏 posts
+26 web pages
+1.6s
+Expert
+Find Cleveland paralegals
+Compare to Latham & Watkins staff
+Add phone numbers to list
+How can Grok help?
+Auto

@@ -1,0 +1,202 @@
+{
+  "domain": "clunkhoose.com",
+  "search_url": "clunkhoose.com",
+  "attorney_info": {
+    "original_website": "clunkhoose.com",
+    "attorney_name": "Ted A. Humbert",
+    "attorney_email": "notice@clunkhoose.com",
+    "phone": "(330) 436-0300",
+    "firm_name": "CLUNK, HOOSE CO., LPA",
+    "practice_area": "FORECLOSURE",
+    "case_id": "25-02295",
+    "row_data": {
+      "Case Number": "25-02295",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "Court of Common Pleas, Cuyahoga County, Ohio",
+      "County": "CUYAHOGA",
+      "Plaintiff": "U.S. Bank National Association, as Trustee for GSAA Home Equity Trust 2006-6, Asset-Backed Certificates Series 2006-6",
+      "Primary Defendant": "Larry D. Jablonowski",
+      "Attorney Name": "Ted A. Humbert",
+      "Attorney Office": "CLUNK, HOOSE CO., LPA",
+      "Attorney Email": "notice@clunkhoose.com",
+      "Attorney Phone": "(330) 436-0300",
+      "Attorney Website": "clunkhoose.com",
+      "Relief Requested": "$58,029.53",
+      "Processed At": "2025-10-18T01:04:31.348012",
+      "Folder Name": "case_3646771",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Ted A. Humbert\n- Email: notice@clunkhoose.com\n- Phone: (330) 436-0300\n- Website: clunkhoose.com\n- Firm: CLUNK, HOOSE CO., LPA\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (clunkhoose.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: notice@clunkhoose.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: notice@clunkhoose.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: clunkhoose.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 9,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Caroline Nehoda",
+        "title": "Paralegal",
+        "email": "cnehoda@clunkhoose.com",
+        "email_options": [
+          "caroline.nehoda@clunkhoose.com",
+          "cnehoda@clunkhoose.com",
+          "caroline@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Brittney Johnson",
+        "title": "Legal Assistant",
+        "email": "bjohnson@clunkhoose.com",
+        "email_options": [
+          "brittney.johnson@clunkhoose.com",
+          "bjohnson@clunkhoose.com",
+          "brittney@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Experienced legal support specialist with Paralegal Certificate.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Pamela Collins-Horning",
+        "title": "Legal Secretary / Administrative Assistant",
+        "email": "pcollins-horning@clunkhoose.com",
+        "email_options": [
+          "pamela.collins-horning@clunkhoose.com",
+          "pcollins-horning@clunkhoose.com",
+          "pamela@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Certificate in Paralegal Studies; Effectively communicated with clients by phone or email.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Maria Nicol",
+        "title": "Legal Assistant",
+        "email": "mnicol@clunkhoose.com",
+        "email_options": [
+          "maria.nicol@clunkhoose.com",
+          "mnicol@clunkhoose.com",
+          "maria@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "Legal Assistant since April 2003.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Rachel Hartman",
+        "title": "Foreclosure Specialist",
+        "email": "rhartman@clunkhoose.com",
+        "email_options": [
+          "rachel.hartman@clunkhoose.com",
+          "rhartman@clunkhoose.com",
+          "rachel@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Laura Filicky",
+        "title": "Post-Sale Specialist",
+        "email": "lfilicky@clunkhoose.com",
+        "email_options": [
+          "laura.filicky@clunkhoose.com",
+          "lfilicky@clunkhoose.com",
+          "laura@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Mandy Zeiger",
+        "title": "Litigation Department Coordinator",
+        "email": "mzeiger@clunkhoose.com",
+        "email_options": [
+          "mandy.zeiger@clunkhoose.com",
+          "mzeiger@clunkhoose.com",
+          "mandy@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation / Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Allie Workman",
+        "title": "Client Relations Specialist",
+        "email": "aworkman@clunkhoose.com",
+        "email_options": [
+          "allie.workman@clunkhoose.com",
+          "aworkman@clunkhoose.com",
+          "allie@clunkhoose.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Client Services / Foreclosure",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Ted A. Humbert\n- Email: notice@clunkhoose.com\n- Phone: (330) 436-0300\n- Website: clunkhoose.com\n- Firm: CLUNK, HOOSE CO., LPA\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (clunkhoose.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: notice@clunkhoose.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: notice@clunkhoose.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: clunkhoose.com\nThought for 2m 38s\n{\n\"page_url\": \"https://clunkhoose.com/\",\n\"search_sources\": [\"https://clunkhoose.com/\", \"LinkedIn\", \"Datanyze\", \"ZoomInfo\", \"ALFN Directory\", \"Avvo\", \"SignalHire\"],\n\"total_staff_found\": 8,\n\"attorney_email_domain\": \"clunkhoose.com\",\n\"paralegals\": [\n{\n\"name\": \"Caroline Nehoda\",\n\"title\": \"Paralegal\",\n\"email\": \"cnehoda@clunkhoose.com\",\n\"email_options\": [\"caroline.nehoda@clunkhoose.com\", \"cnehoda@clunkhoose.com\", \"caroline@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Brittney Johnson\",\n\"title\": \"Legal Assistant\",\n\"email\": \"bjohnson@clunkhoose.com\",\n\"email_options\": [\"brittney.johnson@clunkhoose.com\", \"bjohnson@clunkhoose.com\", \"brittney@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Experienced legal support specialist with Paralegal Certificate.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Pamela Collins-Horning\",\n\"title\": \"Legal Secretary / Administrative Assistant\",\n\"email\": \"pcollins-horning@clunkhoose.com\",\n\"email_options\": [\"pamela.collins-horning@clunkhoose.com\", \"pcollins-horning@clunkhoose.com\", \"pamela@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Certificate in Paralegal Studies; Effectively communicated with clients by phone or email.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Maria Nicol\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mnicol@clunkhoose.com\",\n\"email_options\": [\"maria.nicol@clunkhoose.com\", \"mnicol@clunkhoose.com\", \"maria@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"Legal Assistant since April 2003.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Rachel Hartman\",\n\"title\": \"Foreclosure Specialist\",\n\"email\": \"rhartman@clunkhoose.com\",\n\"email_options\": [\"rachel.hartman@clunkhoose.com\", \"rhartman@clunkhoose.com\", \"rachel@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Laura Filicky\",\n\"title\": \"Post-Sale Specialist\",\n\"email\": \"lfilicky@clunkhoose.com\",\n\"email_options\": [\"laura.filicky@clunkhoose.com\", \"lfilicky@clunkhoose.com\", \"laura@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Mandy Zeiger\",\n\"title\": \"Litigation Department Coordinator\",\n\"email\": \"mzeiger@clunkhoose.com\",\n\"email_options\": [\"mandy.zeiger@clunkhoose.com\", \"mzeiger@clunkhoose.com\", \"mandy@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation / Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Allie Workman\",\n\"title\": \"Client Relations Specialist\",\n\"email\": \"aworkman@clunkhoose.com\",\n\"email_options\": [\"allie.workman@clunkhoose.com\", \"aworkman@clunkhoose.com\", \"allie@clunkhoose.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Client Services / Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Maria Nicol was selected as the best match due to her long tenure (over 20 years) as a Legal Assistant at the firm, making her highly experienced in handling foreclosure matters, likely including new client intake, case management, and client communications in this practice area. She is senior enough to potentially make decisions or coordinate on new cases.\",\n\"search_notes\": \"The main website lists only attorneys, no support staff. Deep search on LinkedIn revealed several current and former staff profiles. Additional sources like Datanyze, ZoomInfo, and ALFN directory provided more names and titles. No direct emails or phones found for staff; emails generated based on observed patterns from attorney emails (e.g., firstinitiallastname@clunkhoose.com). Social media and legal directories yielded limited additional info. Focused on current roles in target categories.\"\n}\n104 web pages\n1.5s\nExpert\nMore details on Maria Nicol\nForeclosure process overview\nAdd phone numbers where possible\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:34:36.453374",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_023436.txt"
+  },
+  "search_completed_at": "2025-10-18T02:34:36.483964",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_clunkhoose_com_20251018_023436_w3.json"
+}

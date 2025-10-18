@@ -1,0 +1,306 @@
+{
+  "domain": "messerlikramer.com",
+  "search_url": "messerlikramer.com",
+  "attorney_info": {
+    "original_website": "messerlikramer.com",
+    "attorney_name": "",
+    "attorney_email": "cc-litigation@messerlikramer.com",
+    "phone": "(763) 548-7900",
+    "firm_name": "MESSERLI & KRAMER PA",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "25-185747",
+    "row_data": {
+      "Case Number": "25-185747",
+      "Filing Date": "2025-10-13",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "CUYAHOGA COUNTY COURT OF COMMON PLEAS",
+      "County": "CUYAHOGA",
+      "Plaintiff": "Midland Credit Management, Inc",
+      "Primary Defendant": "Malcolm Dixon",
+      "Attorney Name": "",
+      "Attorney Office": "MESSERLI & KRAMER PA",
+      "Attorney Email": "cc-litigation@messerlikramer.com",
+      "Attorney Phone": "(763) 548-7900",
+      "Attorney Website": "messerlikramer.com",
+      "Relief Requested": "$16,559.50",
+      "Processed At": "2025-10-18T01:04:32.916277",
+      "Folder Name": "case_3648177",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: \n- Email: cc-litigation@messerlikramer.com\n- Phone: (763) 548-7900\n- Website: messerlikramer.com\n- Firm: MESSERLI & KRAMER PA\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (messerlikramer.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: cc-litigation@messerlikramer.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: cc-litigation@messerlikramer.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: messerlikramer.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 17,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Mary A. Anderson",
+        "title": "Paralegal",
+        "email": "manderson@messerlikramer.com",
+        "email_options": [],
+        "email_confidence": "found",
+        "phone": "612-672-3630",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Carrie L. Bazella",
+        "title": "Paralegal",
+        "email": "cbazella@messerlikramer.com",
+        "email_options": [],
+        "email_confidence": "found",
+        "phone": "612-672-3623",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Jaimi L. Dittmer",
+        "title": "Paralegal",
+        "email": "jdittmer@messerlikramer.com",
+        "email_options": [],
+        "email_confidence": "found",
+        "phone": "612-672-3618",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Nicole Lunemann",
+        "title": "Paralegal",
+        "email": "nlunemann@messerlikramer.com",
+        "email_options": [],
+        "email_confidence": "found",
+        "phone": "612-672-3620",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Roxanne A. Russell",
+        "title": "Paralegal",
+        "email": "rrussell@messerlikramer.com",
+        "email_options": [],
+        "email_confidence": "found",
+        "phone": "612-672-3650",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Ashley J. Valley",
+        "title": "Paralegal",
+        "email": "avalley@messerlikramer.com",
+        "email_options": [],
+        "email_confidence": "found",
+        "phone": "612-672-3685",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Laura Carlson",
+        "title": "Legal Assistant",
+        "email": "lcarlson@messerlikramer.com",
+        "email_options": [
+          "laura.carlson@messerlikramer.com",
+          "lcarlson@messerlikramer.com",
+          "laura@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Choua Yang",
+        "title": "Legal Assistant",
+        "email": "cyang@messerlikramer.com",
+        "email_options": [
+          "choua.yang@messerlikramer.com",
+          "cyang@messerlikramer.com",
+          "choua@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Megan Olson",
+        "title": "Legal Assistant",
+        "email": "molson@messerlikramer.com",
+        "email_options": [
+          "megan.olson@messerlikramer.com",
+          "molson@messerlikramer.com",
+          "megan@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Consumer Collections & Creditors’ Remedies",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Amy Stewart",
+        "title": "Legal Assistant",
+        "email": "astewart@messerlikramer.com",
+        "email_options": [
+          "amy.stewart@messerlikramer.com",
+          "astewart@messerlikramer.com",
+          "amy@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Rachel Dzubak",
+        "title": "Legal Assistant",
+        "email": "rdzubak@messerlikramer.com",
+        "email_options": [
+          "rachel.dzubak@messerlikramer.com",
+          "rdzubak@messerlikramer.com",
+          "rachel@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Amanda Tibbs",
+        "title": "Legal Assistant Supervisor",
+        "email": "atibbs@messerlikramer.com",
+        "email_options": [
+          "amanda.tibbs@messerlikramer.com",
+          "atibbs@messerlikramer.com",
+          "amanda@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Tara Leupke",
+        "title": "Legal Administrative Assistant",
+        "email": "tleupke@messerlikramer.com",
+        "email_options": [
+          "tara.leupke@messerlikramer.com",
+          "tleupke@messerlikramer.com",
+          "tara@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Marie Anderson",
+        "title": "Legal Administrative Assistant",
+        "email": "manderson@messerlikramer.com",
+        "email_options": [
+          "marie.anderson@messerlikramer.com",
+          "manderson@messerlikramer.com",
+          "marie@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Shawna Spindler",
+        "title": "Legal Administrative Assistant",
+        "email": "sspindler@messerlikramer.com",
+        "email_options": [
+          "shawna.spindler@messerlikramer.com",
+          "sspindler@messerlikramer.com",
+          "shawna@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Arlene Wilson",
+        "title": "Administrative Assistant",
+        "email": "awilson@messerlikramer.com",
+        "email_options": [
+          "arlene.wilson@messerlikramer.com",
+          "awilson@messerlikramer.com",
+          "arlene@messerlikramer.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: \n- Email: cc-litigation@messerlikramer.com\n- Phone: (763) 548-7900\n- Website: messerlikramer.com\n- Firm: MESSERLI & KRAMER PA\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (messerlikramer.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: cc-litigation@messerlikramer.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: cc-litigation@messerlikramer.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: messerlikramer.com\nThought for 3m 58s\n{\n\"page_url\": \"https://www.messerlikramer.com/professionals/\",\n\"search_sources\": [\"https://www.messerlikramer.com/\", \"https://www.linkedin.com/company/messerli-kramer\", \"LinkedIn profile searches\", \"General web searches\"],\n\"total_staff_found\": 16,\n\"attorney_email_domain\": \"messerlikramer.com\",\n\"paralegals\": [\n{\n\"name\": \"Mary A. Anderson\",\n\"title\": \"Paralegal\",\n\"email\": \"manderson@messerlikramer.com\",\n\"email_options\": [],\n\"email_confidence\": \"found\",\n\"phone\": \"612-672-3630\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Carrie L. Bazella\",\n\"title\": \"Paralegal\",\n\"email\": \"cbazella@messerlikramer.com\",\n\"email_options\": [],\n\"email_confidence\": \"found\",\n\"phone\": \"612-672-3623\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Jaimi L. Dittmer\",\n\"title\": \"Paralegal\",\n\"email\": \"jdittmer@messerlikramer.com\",\n\"email_options\": [],\n\"email_confidence\": \"found\",\n\"phone\": \"612-672-3618\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Nicole Lunemann\",\n\"title\": \"Paralegal\",\n\"email\": \"nlunemann@messerlikramer.com\",\n\"email_options\": [],\n\"email_confidence\": \"found\",\n\"phone\": \"612-672-3620\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Roxanne A. Russell\",\n\"title\": \"Paralegal\",\n\"email\": \"rrussell@messerlikramer.com\",\n\"email_options\": [],\n\"email_confidence\": \"found\",\n\"phone\": \"612-672-3650\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Ashley J. Valley\",\n\"title\": \"Paralegal\",\n\"email\": \"avalley@messerlikramer.com\",\n\"email_options\": [],\n\"email_confidence\": \"found\",\n\"phone\": \"612-672-3685\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Laura Carlson\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lcarlson@messerlikramer.com\",\n\"email_options\": [\"laura.carlson@messerlikramer.com\", \"lcarlson@messerlikramer.com\", \"laura@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Choua Yang\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cyang@messerlikramer.com\",\n\"email_options\": [\"choua.yang@messerlikramer.com\", \"cyang@messerlikramer.com\", \"choua@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Megan Olson\",\n\"title\": \"Legal Assistant\",\n\"email\": \"molson@messerlikramer.com\",\n\"email_options\": [\"megan.olson@messerlikramer.com\", \"molson@messerlikramer.com\", \"megan@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Consumer Collections & Creditors’ Remedies\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Amy Stewart\",\n\"title\": \"Legal Assistant\",\n\"email\": \"astewart@messerlikramer.com\",\n\"email_options\": [\"amy.stewart@messerlikramer.com\", \"astewart@messerlikramer.com\", \"amy@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Rachel Dzubak\",\n\"title\": \"Legal Assistant\",\n\"email\": \"rdzubak@messerlikramer.com\",\n\"email_options\": [\"rachel.dzubak@messerlikramer.com\", \"rdzubak@messerlikramer.com\", \"rachel@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Amanda Tibbs\",\n\"title\": \"Legal Assistant Supervisor\",\n\"email\": \"atibbs@messerlikramer.com\",\n\"email_options\": [\"amanda.tibbs@messerlikramer.com\", \"atibbs@messerlikramer.com\", \"amanda@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Tara Leupke\",\n\"title\": \"Legal Administrative Assistant\",\n\"email\": \"tleupke@messerlikramer.com\",\n\"email_options\": [\"tara.leupke@messerlikramer.com\", \"tleupke@messerlikramer.com\", \"tara@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Marie Anderson\",\n\"title\": \"Legal Administrative Assistant\",\n\"email\": \"manderson@messerlikramer.com\",\n\"email_options\": [\"marie.anderson@messerlikramer.com\", \"manderson@messerlikramer.com\", \"marie@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Shawna Spindler\",\n\"title\": \"Legal Administrative Assistant\",\n\"email\": \"sspindler@messerlikramer.com\",\n\"email_options\": [\"shawna.spindler@messerlikramer.com\", \"sspindler@messerlikramer.com\", \"shawna@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Arlene Wilson\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"awilson@messerlikramer.com\",\n\"email_options\": [\"arlene.wilson@messerlikramer.com\", \"awilson@messerlikramer.com\", \"arlene@messerlikramer.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n}\n],\n\"best_contact_reasoning\": \"Amanda Tibbs was selected as the best match because, as a Legal Assistant Supervisor, she holds a senior position among the support staff, making her likely to oversee client intake, communications, and decision-making processes for new cases in the debt collection practice area. This aligns with the criteria for seniority and responsibility in handling legal matters.\",\n\"search_notes\": \"Primary search on the firm's website yielded 6 paralegals with direct contact info. Deep search on LinkedIn via keyword searches revealed additional legal assistants and administrative staff. Excluded non-current employees based on profile details and additional verification searches. Social media and other directories did not yield additional staff information.\"\n}\n65 web pages\n2 / 2\n1.4s\nExpert\nVerify more legal assistants' departments\nExplore Messerli & Kramer attorneys\nAre you satisfied with Grok's answer?\nLike\nDislike\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:10:01.120877",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_031001.txt"
+  },
+  "search_completed_at": "2025-10-18T03:10:01.168555",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_messerlikramer_com_20251018_031001_w3.json"
+}

@@ -1,0 +1,490 @@
+{
+  "domain": "zwickerpc.com",
+  "search_url": "zwickerpc.com",
+  "attorney_info": {
+    "original_website": "zwickerpc.com",
+    "attorney_name": "MICHELLE L. HATFIELD",
+    "attorney_email": "NORTHERNOHIOLIT@ZWICKERPC.COM",
+    "phone": "(866)518-1850",
+    "firm_name": "ZWICKER & ASSOCIATES, P.C.",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "CUYAHOGA COUNTY COMMON PLEAS COURT",
+      "County": "CUYAHOGA",
+      "Plaintiff": "FIFTH THIRD BANK, N.A.",
+      "Primary Defendant": "MILDRED R NELSON",
+      "Attorney Name": "MICHELLE L. HATFIELD",
+      "Attorney Office": "ZWICKER & ASSOCIATES, P.C.",
+      "Attorney Email": "NORTHERNOHIOLIT@ZWICKERPC.COM",
+      "Attorney Phone": "(866)518-1850",
+      "Attorney Website": "zwickerpc.com",
+      "Relief Requested": "$6,646.82",
+      "Processed At": "2025-10-18T01:04:30.561636",
+      "Folder Name": "case_3645945",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: MICHELLE L. HATFIELD\n- Email: NORTHERNOHIOLIT@ZWICKERPC.COM\n- Phone: (866)518-1850\n- Website: zwickerpc.com\n- Firm: ZWICKER & ASSOCIATES, P.C.\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (zwickerpc.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: NORTHERNOHIOLIT@ZWICKERPC.COM and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: NORTHERNOHIOLIT@ZWICKERPC.COM\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: zwickerpc.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 27,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Nicholas Ramprashad",
+        "title": "Paralegal",
+        "email": "nicholas.ramprashad@zwickerpc.com",
+        "email_options": [
+          "nicholas.ramprashad@zwickerpc.com",
+          "nramprashad@zwickerpc.com",
+          "nicholas@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Sherry L. Luse",
+        "title": "Contested Litigation Paralegal",
+        "email": "sherry.luse@zwickerpc.com",
+        "email_options": [
+          "sherry.luse@zwickerpc.com",
+          "sluse@zwickerpc.com",
+          "sherry@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal with recent 17 years experience in a civil legal setting and over 20 years combined experience in customer service, legal, and banking industries.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Pamela Clarke",
+        "title": "Litigation Manager / Paralegal",
+        "email": "pamela.clarke@zwickerpc.com",
+        "email_options": [
+          "pamela.clarke@zwickerpc.com",
+          "pclarke@zwickerpc.com",
+          "pamela@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Supervise a team of Paralegals and Litigation Support Assistants in supporting Network Attorneys in a fast-paced, high-volume Creditor Rights Law Firm.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Christine Lehane",
+        "title": "Paralegal with Contest Litigation Group",
+        "email": "christine.lehane@zwickerpc.com",
+        "email_options": [
+          "christine.lehane@zwickerpc.com",
+          "clehane@zwickerpc.com",
+          "christine@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "As a Paralegal and Notary Republic, I have extensive experience in legal research, document preparation, and client interaction.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Angelica Polanco",
+        "title": "Paralegal",
+        "email": "angelica.polanco@zwickerpc.com",
+        "email_options": [
+          "angelica.polanco@zwickerpc.com",
+          "apolanco@zwickerpc.com",
+          "angelica@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Jonathan Arias",
+        "title": "Bankruptcy-Litigation Paralegal",
+        "email": "jonathan.arias@zwickerpc.com",
+        "email_options": [
+          "jonathan.arias@zwickerpc.com",
+          "jarias@zwickerpc.com",
+          "jonathan@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Claudia Garcia",
+        "title": "Legal Assistant Paralegal",
+        "email": "claudia.garcia@zwickerpc.com",
+        "email_options": [
+          "claudia.garcia@zwickerpc.com",
+          "cgarcia@zwickerpc.com",
+          "claudia@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Jonathan Welin",
+        "title": "Paralegal",
+        "email": "jonathan.welin@zwickerpc.com",
+        "email_options": [
+          "jonathan.welin@zwickerpc.com",
+          "jwelin@zwickerpc.com",
+          "jonathan@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Charles White",
+        "title": "Paralegal / Legal Secretary",
+        "email": "charles.white@zwickerpc.com",
+        "email_options": [
+          "charles.white@zwickerpc.com",
+          "cwhite@zwickerpc.com",
+          "charles@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Mandy Thompson",
+        "title": "Litigation Assistant",
+        "email": "mandy.thompson@zwickerpc.com",
+        "email_options": [
+          "mandy.thompson@zwickerpc.com",
+          "mthompson@zwickerpc.com",
+          "mandy@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Maria Reyes",
+        "title": "Litigation Assistant",
+        "email": "maria.reyes@zwickerpc.com",
+        "email_options": [
+          "maria.reyes@zwickerpc.com",
+          "mreyes@zwickerpc.com",
+          "maria@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Natasha Stanley",
+        "title": "Case Manager",
+        "email": "natasha.stanley@zwickerpc.com",
+        "email_options": [
+          "natasha.stanley@zwickerpc.com",
+          "nstanley@zwickerpc.com",
+          "natasha@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Denis Barber",
+        "title": "Case Manager",
+        "email": "denis.barber@zwickerpc.com",
+        "email_options": [
+          "denis.barber@zwickerpc.com",
+          "dbarber@zwickerpc.com",
+          "denis@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Connie Santoro",
+        "title": "Document Specialist",
+        "email": "connie.santoro@zwickerpc.com",
+        "email_options": [
+          "connie.santoro@zwickerpc.com",
+          "csantoro@zwickerpc.com",
+          "connie@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Jan Boardman",
+        "title": "Document Specialist Assistant",
+        "email": "jan.boardman@zwickerpc.com",
+        "email_options": [
+          "jan.boardman@zwickerpc.com",
+          "jboardman@zwickerpc.com",
+          "jan@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Irisel Taveras",
+        "title": "Document Specialist",
+        "email": "irisel.taveras@zwickerpc.com",
+        "email_options": [
+          "irisel.taveras@zwickerpc.com",
+          "itaveras@zwickerpc.com",
+          "irisel@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Ashr Greer",
+        "title": "Litigation Assistant",
+        "email": "ashr.greer@zwickerpc.com",
+        "email_options": [
+          "ashr.greer@zwickerpc.com",
+          "agreer@zwickerpc.com",
+          "ashr@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Danielle Belliveau",
+        "title": "Litigation Support Assistant",
+        "email": "danielle.belliveau@zwickerpc.com",
+        "email_options": [
+          "danielle.belliveau@zwickerpc.com",
+          "dbelliveau@zwickerpc.com",
+          "danielle@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Emphia Acosta",
+        "title": "Lead Litigation Assistant",
+        "email": "emphia.acosta@zwickerpc.com",
+        "email_options": [
+          "emphia.acosta@zwickerpc.com",
+          "eacosta@zwickerpc.com",
+          "emphia@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Resourceful and highly educated professional with a Juris Doctorate in Law and a Bachelor of Science in Criminal Justice.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Kaylina Xiong",
+        "title": "Litigation Team Lead",
+        "email": "kaylina.xiong@zwickerpc.com",
+        "email_options": [
+          "kaylina.xiong@zwickerpc.com",
+          "kxiong@zwickerpc.com",
+          "kaylina@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Ambitious and tech-savvy professional with a solid background in organization, legal procedures, and administrative support.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Jessica Bowles",
+        "title": "Legal Assistant / Litigation Support Specialist",
+        "email": "jessica.bowles@zwickerpc.com",
+        "email_options": [
+          "jessica.bowles@zwickerpc.com",
+          "jbowles@zwickerpc.com",
+          "jessica@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "JaLeesa Farmer",
+        "title": "Litigation Assistant",
+        "email": "jaleesa.farmer@zwickerpc.com",
+        "email_options": [
+          "jaleesa.farmer@zwickerpc.com",
+          "jfarmer@zwickerpc.com",
+          "jaleesa@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Kesha Gates",
+        "title": "Paralegal / Legal Assistant / Administrative Assistant",
+        "email": "kesha.gates@zwickerpc.com",
+        "email_options": [
+          "kesha.gates@zwickerpc.com",
+          "kgates@zwickerpc.com",
+          "kesha@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Bridget McIntyre",
+        "title": "Legal Assistant",
+        "email": "bridget.mcintyre@zwickerpc.com",
+        "email_options": [
+          "bridget.mcintyre@zwickerpc.com",
+          "bmcintyre@zwickerpc.com",
+          "bridget@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Emily Carter",
+        "title": "Litigation Assistant",
+        "email": "emily.carter@zwickerpc.com",
+        "email_options": [
+          "emily.carter@zwickerpc.com",
+          "ecarter@zwickerpc.com",
+          "emily@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Recent graduate of UNC Charlotte's Paralegal Certificate Program, December 2013.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Teda Douangdala",
+        "title": "Litigation Assistant",
+        "email": "teda.douangdala@zwickerpc.com",
+        "email_options": [
+          "teda.douangdala@zwickerpc.com",
+          "tdouangdala@zwickerpc.com",
+          "teda@zwickerpc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: MICHELLE L. HATFIELD\n- Email: NORTHERNOHIOLIT@ZWICKERPC.COM\n- Phone: (866)518-1850\n- Website: zwickerpc.com\n- Firm: ZWICKER & ASSOCIATES, P.C.\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (zwickerpc.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: NORTHERNOHIOLIT@ZWICKERPC.COM and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: NORTHERNOHIOLIT@ZWICKERPC.COM\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: zwickerpc.com\nThought for 2m 6s\n{\n\"page_url\": \"https://www.zwickerpc.com/\",\n\"search_sources\": [\"https://www.zwickerpc.com/\", \"https://www.linkedin.com/company/zwicker-&-associates-p-c-/\", \"site:linkedin.com searches for roles\", \"https://www.avvo.com/\", \"https://lawyers.findlaw.com/\", \"https://www.lawyers.com/\", \"https://www.indeed.com/\", \"https://www.facebook.com/\"],\n\"total_staff_found\": 26,\n\"attorney_email_domain\": \"zwickerpc.com\",\n\"paralegals\": [\n{\n\"name\": \"Nicholas Ramprashad\",\n\"title\": \"Paralegal\",\n\"email\": \"nicholas.ramprashad@zwickerpc.com\",\n\"email_options\": [\"nicholas.ramprashad@zwickerpc.com\", \"nramprashad@zwickerpc.com\", \"nicholas@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Sherry L. Luse\",\n\"title\": \"Contested Litigation Paralegal\",\n\"email\": \"sherry.luse@zwickerpc.com\",\n\"email_options\": [\"sherry.luse@zwickerpc.com\", \"sluse@zwickerpc.com\", \"sherry@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal with recent 17 years experience in a civil legal setting and over 20 years combined experience in customer service, legal, and banking industries.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Pamela Clarke\",\n\"title\": \"Litigation Manager / Paralegal\",\n\"email\": \"pamela.clarke@zwickerpc.com\",\n\"email_options\": [\"pamela.clarke@zwickerpc.com\", \"pclarke@zwickerpc.com\", \"pamela@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Supervise a team of Paralegals and Litigation Support Assistants in supporting Network Attorneys in a fast-paced, high-volume Creditor Rights Law Firm.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Christine Lehane\",\n\"title\": \"Paralegal with Contest Litigation Group\",\n\"email\": \"christine.lehane@zwickerpc.com\",\n\"email_options\": [\"christine.lehane@zwickerpc.com\", \"clehane@zwickerpc.com\", \"christine@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"As a Paralegal and Notary Republic, I have extensive experience in legal research, document preparation, and client interaction.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Angelica Polanco\",\n\"title\": \"Paralegal\",\n\"email\": \"angelica.polanco@zwickerpc.com\",\n\"email_options\": [\"angelica.polanco@zwickerpc.com\", \"apolanco@zwickerpc.com\", \"angelica@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Jonathan Arias\",\n\"title\": \"Bankruptcy-Litigation Paralegal\",\n\"email\": \"jonathan.arias@zwickerpc.com\",\n\"email_options\": [\"jonathan.arias@zwickerpc.com\", \"jarias@zwickerpc.com\", \"jonathan@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Claudia Garcia\",\n\"title\": \"Legal Assistant Paralegal\",\n\"email\": \"claudia.garcia@zwickerpc.com\",\n\"email_options\": [\"claudia.garcia@zwickerpc.com\", \"cgarcia@zwickerpc.com\", \"claudia@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Jonathan Welin\",\n\"title\": \"Paralegal\",\n\"email\": \"jonathan.welin@zwickerpc.com\",\n\"email_options\": [\"jonathan.welin@zwickerpc.com\", \"jwelin@zwickerpc.com\", \"jonathan@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Charles White\",\n\"title\": \"Paralegal / Legal Secretary\",\n\"email\": \"charles.white@zwickerpc.com\",\n\"email_options\": [\"charles.white@zwickerpc.com\", \"cwhite@zwickerpc.com\", \"charles@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Mandy Thompson\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"mandy.thompson@zwickerpc.com\",\n\"email_options\": [\"mandy.thompson@zwickerpc.com\", \"mthompson@zwickerpc.com\", \"mandy@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Maria Reyes\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"maria.reyes@zwickerpc.com\",\n\"email_options\": [\"maria.reyes@zwickerpc.com\", \"mreyes@zwickerpc.com\", \"maria@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Natasha Stanley\",\n\"title\": \"Case Manager\",\n\"email\": \"natasha.stanley@zwickerpc.com\",\n\"email_options\": [\"natasha.stanley@zwickerpc.com\", \"nstanley@zwickerpc.com\", \"natasha@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Denis Barber\",\n\"title\": \"Case Manager\",\n\"email\": \"denis.barber@zwickerpc.com\",\n\"email_options\": [\"denis.barber@zwickerpc.com\", \"dbarber@zwickerpc.com\", \"denis@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Connie Santoro\",\n\"title\": \"Document Specialist\",\n\"email\": \"connie.santoro@zwickerpc.com\",\n\"email_options\": [\"connie.santoro@zwickerpc.com\", \"csantoro@zwickerpc.com\", \"connie@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Jan Boardman\",\n\"title\": \"Document Specialist Assistant\",\n\"email\": \"jan.boardman@zwickerpc.com\",\n\"email_options\": [\"jan.boardman@zwickerpc.com\", \"jboardman@zwickerpc.com\", \"jan@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Irisel Taveras\",\n\"title\": \"Document Specialist\",\n\"email\": \"irisel.taveras@zwickerpc.com\",\n\"email_options\": [\"irisel.taveras@zwickerpc.com\", \"itaveras@zwickerpc.com\", \"irisel@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Ashr Greer\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"ashr.greer@zwickerpc.com\",\n\"email_options\": [\"ashr.greer@zwickerpc.com\", \"agreer@zwickerpc.com\", \"ashr@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Danielle Belliveau\",\n\"title\": \"Litigation Support Assistant\",\n\"email\": \"danielle.belliveau@zwickerpc.com\",\n\"email_options\": [\"danielle.belliveau@zwickerpc.com\", \"dbelliveau@zwickerpc.com\", \"danielle@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Emphia Acosta\",\n\"title\": \"Lead Litigation Assistant\",\n\"email\": \"emphia.acosta@zwickerpc.com\",\n\"email_options\": [\"emphia.acosta@zwickerpc.com\", \"eacosta@zwickerpc.com\", \"emphia@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Resourceful and highly educated professional with a Juris Doctorate in Law and a Bachelor of Science in Criminal Justice.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Kaylina Xiong\",\n\"title\": \"Litigation Team Lead\",\n\"email\": \"kaylina.xiong@zwickerpc.com\",\n\"email_options\": [\"kaylina.xiong@zwickerpc.com\", \"kxiong@zwickerpc.com\", \"kaylina@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Ambitious and tech-savvy professional with a solid background in organization, legal procedures, and administrative support.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Jessica Bowles\",\n\"title\": \"Legal Assistant / Litigation Support Specialist\",\n\"email\": \"jessica.bowles@zwickerpc.com\",\n\"email_options\": [\"jessica.bowles@zwickerpc.com\", \"jbowles@zwickerpc.com\", \"jessica@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"JaLeesa Farmer\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"jaleesa.farmer@zwickerpc.com\",\n\"email_options\": [\"jaleesa.farmer@zwickerpc.com\", \"jfarmer@zwickerpc.com\", \"jaleesa@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Kesha Gates\",\n\"title\": \"Paralegal / Legal Assistant / Administrative Assistant\",\n\"email\": \"kesha.gates@zwickerpc.com\",\n\"email_options\": [\"kesha.gates@zwickerpc.com\", \"kgates@zwickerpc.com\", \"kesha@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Bridget McIntyre\",\n\"title\": \"Legal Assistant\",\n\"email\": \"bridget.mcintyre@zwickerpc.com\",\n\"email_options\": [\"bridget.mcintyre@zwickerpc.com\", \"bmcintyre@zwickerpc.com\", \"bridget@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Emily Carter\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"emily.carter@zwickerpc.com\",\n\"email_options\": [\"emily.carter@zwickerpc.com\", \"ecarter@zwickerpc.com\", \"emily@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Recent graduate of UNC Charlotte's Paralegal Certificate Program, December 2013.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Teda Douangdala\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"teda.douangdala@zwickerpc.com\",\n\"email_options\": [\"teda.douangdala@zwickerpc.com\", \"tdouangdala@zwickerpc.com\", \"teda@zwickerpc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n}\n],\n\"best_contact_reasoning\": \"Pamela Clarke was selected as the best match because as a Litigation Manager and Paralegal, she supervises a team of paralegals and litigation support staff, indicating seniority and likely involvement in client communications, new case intake, and decision-making in the debt collection practice area. This aligns with the criteria for someone senior enough to handle new client matters and with experience in the relevant field.\",\n\"search_notes\": \"The main website zwickerpc.com had insufficient staff information. Conducted deep searches on LinkedIn using targeted queries for specific roles like paralegal, legal assistant, case manager, etc., which yielded multiple current employee profiles. Checked legal directories like Avvo, FindLaw, and Lawyers.com, but they primarily listed attorneys. Social media like Facebook and Instagram had no staff details. Focused on LinkedIn as the primary source for support staff identification.\"\n}\n121 web pages\n1.5s\nExpert\nDetails on Pamela Clarke's role\nOther debt collection firms\nPrioritize by location\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:08:40.677266",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_020840.txt"
+  },
+  "search_completed_at": "2025-10-18T02:08:40.716665",
+  "associated_cases": 21,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_zwickerpc_com_20251018_020840_w1.json"
+}

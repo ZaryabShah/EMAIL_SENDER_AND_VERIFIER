@@ -1,0 +1,390 @@
+{
+  "domain": "dreyfuss.com",
+  "search_url": "dreyfuss.com",
+  "attorney_info": {
+    "original_website": "dreyfuss.com",
+    "attorney_name": "John F. Garswood",
+    "attorney_email": "jfgarswood@dreyfuss.com",
+    "phone": "(216) 241-5300",
+    "firm_name": "DREYFUSS WILLIAMS & ASSOCIATES CO., L.P.A.",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "Cuyahoga County Court of Common Pleas",
+      "County": "CUYAHOGA",
+      "Plaintiff": "UNIVERSITY HOSPITALS CLEVELAND MEDICAL CENTER",
+      "Primary Defendant": "ELIJAH SMITH",
+      "Attorney Name": "John F. Garswood",
+      "Attorney Office": "DREYFUSS WILLIAMS & ASSOCIATES CO., L.P.A.",
+      "Attorney Email": "jfgarswood@dreyfuss.com",
+      "Attorney Phone": "(216) 241-5300",
+      "Attorney Website": "dreyfuss.com",
+      "Relief Requested": "$26,492.78",
+      "Processed At": "2025-10-18T01:04:32.935056",
+      "Folder Name": "case_3648193",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: John F. Garswood\n- Email: jfgarswood@dreyfuss.com\n- Phone: (216) 241-5300\n- Website: dreyfuss.com\n- Firm: DREYFUSS WILLIAMS & ASSOCIATES CO., L.P.A.\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (dreyfuss.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: jfgarswood@dreyfuss.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: jfgarswood@dreyfuss.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: dreyfuss.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 23,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Juliana Radovanovic",
+        "title": "Paralegal",
+        "email": "jxradovanovic@dreyfuss.com",
+        "email_options": [
+          "jxradovanovic@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216-916-1849",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Michele Reid",
+        "title": "Legal Specialist Litigation / Paralegal",
+        "email": "mreid@dreyfuss.com",
+        "email_options": [
+          "mreid@dreyfuss.com",
+          "michele.reid@dreyfuss.com",
+          "michele@dreyfuss.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "DEBT_COLLECTION",
+        "quote": "Certified Registered Paralegal with Associate's degree in Legal Assistant",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Paula Dreyfuss",
+        "title": "Legal Assistant, Manager, MVA Department",
+        "email": "pdreyfuss@dreyfuss.com",
+        "email_options": [
+          "pdreyfuss@dreyfuss.com",
+          "paula.dreyfuss@dreyfuss.com",
+          "paula@dreyfuss.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Pamela Privitera",
+        "title": "Legal Assistant",
+        "email": "pmprivitera@dreyfuss.com",
+        "email_options": [
+          "pmprivitera@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.923.3727",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Suzi Reishman",
+        "title": "Legal Assistant",
+        "email": "sareishman@dreyfuss.com",
+        "email_options": [
+          "sareishman@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1810",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Janet Preventowski",
+        "title": "Legal Assistant",
+        "email": "jpreventowski@dreyfuss.com",
+        "email_options": [
+          "jpreventowski@dreyfuss.com",
+          "janet.preventowski@dreyfuss.com",
+          "janet@dreyfuss.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Terri Jackson",
+        "title": "Legal Specialist",
+        "email": "tjackson@dreyfuss.com",
+        "email_options": [
+          "tjackson@dreyfuss.com",
+          "terri.jackson@dreyfuss.com",
+          "terri@dreyfuss.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Missy Ciavarelli",
+        "title": "NSA Manager",
+        "email": "mciavarelli@dreyfuss.com",
+        "email_options": [
+          "mciavarelli@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1845",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Karis Benner",
+        "title": "Director of Technical Operations and Reporting",
+        "email": "kebenner@dreyfuss.com",
+        "email_options": [
+          "kebenner@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1852",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Beth Davis",
+        "title": "Office Manager",
+        "email": "badavis@dreyfuss.com",
+        "email_options": [
+          "badavis@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "614.763.0185",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Alan Waldinger",
+        "title": "Firm Administrator/HR Director",
+        "email": "awaldinger@dreyfuss.com",
+        "email_options": [
+          "awaldinger@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1828",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Tara Sinur",
+        "title": "Account Specialist",
+        "email": "tmsinur@dreyfuss.com",
+        "email_options": [
+          "tmsinur@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1864",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Mary Synek",
+        "title": "Account Specialist",
+        "email": "msynek@dreyfuss.com",
+        "email_options": [
+          "msynek@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1842",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Julie Breckel",
+        "title": "Account Specialist",
+        "email": "jabreckel@dreyfuss.com",
+        "email_options": [
+          "jabreckel@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1846",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Teresa Kreachbaum",
+        "title": "Account Specialist",
+        "email": "takreachbaum@dreyfuss.com",
+        "email_options": [
+          "takreachbaum@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "614.763.0184",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jonathan Reid",
+        "title": "Account Specialist",
+        "email": "jmreid@dreyfuss.com",
+        "email_options": [
+          "jmreid@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1824",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Cindy Thompson",
+        "title": "Account Specialist",
+        "email": "cthompson@dreyfuss.com",
+        "email_options": [
+          "cthompson@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "614.763.0180",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Susan Washburn",
+        "title": "Account Specialist",
+        "email": "skwashburn@dreyfuss.com",
+        "email_options": [
+          "skwashburn@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "614.763.0183",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Ryley Pease",
+        "title": "Administrative Assistant Specialist",
+        "email": "rlpease@dreyfuss.com",
+        "email_options": [
+          "rlpease@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "614.763.0188",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Emma Velesig",
+        "title": "Administrative Assistant",
+        "email": "elvelesig@dreyfuss.com",
+        "email_options": [
+          "elvelesig@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.916.1823",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Amanda Avant",
+        "title": "Administrative Assistant",
+        "email": "adavant@dreyfuss.com",
+        "email_options": [
+          "adavant@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "216.923.3723",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Kelsey Pease",
+        "title": "Special Projects Coordinator",
+        "email": "klpease@dreyfuss.com",
+        "email_options": [
+          "klpease@dreyfuss.com"
+        ],
+        "email_confidence": "found",
+        "phone": "614.763.0190",
+        "department": "DEBT_COLLECTION",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: John F. Garswood\n- Email: jfgarswood@dreyfuss.com\n- Phone: (216) 241-5300\n- Website: dreyfuss.com\n- Firm: DREYFUSS WILLIAMS & ASSOCIATES CO., L.P.A.\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (dreyfuss.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: jfgarswood@dreyfuss.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: jfgarswood@dreyfuss.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: dreyfuss.com\nThought for 3m 18s\n{\n\"page_url\": \"https://dreyfuss.com\",\n\"search_sources\": [\"https://dreyfuss.com/staff/\", \"https://www.linkedin.com/company/drefuss-williamslaw\", \"LinkedIn employee profiles\", \"Web searches on Google and directories\"],\n\"total_staff_found\": 22,\n\"attorney_email_domain\": \"dreyfuss.com\",\n\"paralegals\": [\n{\n\"name\": \"Juliana Radovanovic\",\n\"title\": \"Paralegal\",\n\"email\": \"jxradovanovic@dreyfuss.com\",\n\"email_options\": [\"jxradovanovic@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216-916-1849\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Michele Reid\",\n\"title\": \"Legal Specialist Litigation / Paralegal\",\n\"email\": \"mreid@dreyfuss.com\",\n\"email_options\": [\"mreid@dreyfuss.com\", \"michele.reid@dreyfuss.com\", \"michele@dreyfuss.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"Certified Registered Paralegal with Associate's degree in Legal Assistant\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Paula Dreyfuss\",\n\"title\": \"Legal Assistant, Manager, MVA Department\",\n\"email\": \"pdreyfuss@dreyfuss.com\",\n\"email_options\": [\"pdreyfuss@dreyfuss.com\", \"paula.dreyfuss@dreyfuss.com\", \"paula@dreyfuss.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Pamela Privitera\",\n\"title\": \"Legal Assistant\",\n\"email\": \"pmprivitera@dreyfuss.com\",\n\"email_options\": [\"pmprivitera@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.923.3727\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Suzi Reishman\",\n\"title\": \"Legal Assistant\",\n\"email\": \"sareishman@dreyfuss.com\",\n\"email_options\": [\"sareishman@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1810\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Janet Preventowski\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jpreventowski@dreyfuss.com\",\n\"email_options\": [\"jpreventowski@dreyfuss.com\", \"janet.preventowski@dreyfuss.com\", \"janet@dreyfuss.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Terri Jackson\",\n\"title\": \"Legal Specialist\",\n\"email\": \"tjackson@dreyfuss.com\",\n\"email_options\": [\"tjackson@dreyfuss.com\", \"terri.jackson@dreyfuss.com\", \"terri@dreyfuss.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Missy Ciavarelli\",\n\"title\": \"NSA Manager\",\n\"email\": \"mciavarelli@dreyfuss.com\",\n\"email_options\": [\"mciavarelli@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1845\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Karis Benner\",\n\"title\": \"Director of Technical Operations and Reporting\",\n\"email\": \"kebenner@dreyfuss.com\",\n\"email_options\": [\"kebenner@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1852\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Beth Davis\",\n\"title\": \"Office Manager\",\n\"email\": \"badavis@dreyfuss.com\",\n\"email_options\": [\"badavis@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"614.763.0185\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Alan Waldinger\",\n\"title\": \"Firm Administrator/HR Director\",\n\"email\": \"awaldinger@dreyfuss.com\",\n\"email_options\": [\"awaldinger@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1828\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Tara Sinur\",\n\"title\": \"Account Specialist\",\n\"email\": \"tmsinur@dreyfuss.com\",\n\"email_options\": [\"tmsinur@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1864\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Mary Synek\",\n\"title\": \"Account Specialist\",\n\"email\": \"msynek@dreyfuss.com\",\n\"email_options\": [\"msynek@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1842\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Julie Breckel\",\n\"title\": \"Account Specialist\",\n\"email\": \"jabreckel@dreyfuss.com\",\n\"email_options\": [\"jabreckel@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1846\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Teresa Kreachbaum\",\n\"title\": \"Account Specialist\",\n\"email\": \"takreachbaum@dreyfuss.com\",\n\"email_options\": [\"takreachbaum@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"614.763.0184\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jonathan Reid\",\n\"title\": \"Account Specialist\",\n\"email\": \"jmreid@dreyfuss.com\",\n\"email_options\": [\"jmreid@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1824\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Cindy Thompson\",\n\"title\": \"Account Specialist\",\n\"email\": \"cthompson@dreyfuss.com\",\n\"email_options\": [\"cthompson@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"614.763.0180\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Susan Washburn\",\n\"title\": \"Account Specialist\",\n\"email\": \"skwashburn@dreyfuss.com\",\n\"email_options\": [\"skwashburn@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"614.763.0183\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Ryley Pease\",\n\"title\": \"Administrative Assistant Specialist\",\n\"email\": \"rlpease@dreyfuss.com\",\n\"email_options\": [\"rlpease@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"614.763.0188\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Emma Velesig\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"elvelesig@dreyfuss.com\",\n\"email_options\": [\"elvelesig@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.916.1823\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Amanda Avant\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"adavant@dreyfuss.com\",\n\"email_options\": [\"adavant@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"216.923.3723\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Kelsey Pease\",\n\"title\": \"Special Projects Coordinator\",\n\"email\": \"klpease@dreyfuss.com\",\n\"email_options\": [\"klpease@dreyfuss.com\"],\n\"email_confidence\": \"found\",\n\"phone\": \"614.763.0190\",\n\"department\": \"DEBT_COLLECTION\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Paula Dreyfuss was selected as the best match because she holds a managerial position as Legal Assistant Manager in the MVA Department, making her senior enough to handle new client intake, decisions on cases, and client communications, especially in third-party liability matters relevant to debt collection in healthcare.\",\n\"search_notes\": \"Primary search on dreyfuss.com revealed a dedicated staff page listing numerous support staff with direct contact details. Deep search on LinkedIn uncovered additional current staff not listed on the website, such as paralegals and legal assistants. Social media and legal directories yielded no additional staff information. Web searches confirmed roles and helped cross-verify.\"\n}\n75 web pages\n1.7s\nExpert\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:11:00.897194",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_031100.txt"
+  },
+  "search_completed_at": "2025-10-18T03:11:00.952933",
+  "associated_cases": 4,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_dreyfuss_com_20251018_031100_w1.json"
+}

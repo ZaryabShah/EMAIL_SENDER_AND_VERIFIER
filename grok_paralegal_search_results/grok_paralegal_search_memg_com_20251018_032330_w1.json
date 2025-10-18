@@ -1,0 +1,234 @@
+{
+  "domain": "memg.com",
+  "search_url": "memg.com",
+  "attorney_info": {
+    "original_website": "memg.com",
+    "attorney_name": "NEVENKA PAVLOVIC",
+    "attorney_email": "ILOH@memg.com",
+    "phone": "(866)300-8750",
+    "firm_name": "Attorneys for Plaintiff",
+    "practice_area": "OTHER CIVIL",
+    "case_id": "CV-2025-10-5024",
+    "row_data": {
+      "Case Number": "CV-2025-10-5024",
+      "Filing Date": "10/16/2025",
+      "Case Type": "OTHER CIVIL",
+      "Court": "SUMMIT COUNTY COMMON PLEAS COURT",
+      "County": "SUMMIT",
+      "Plaintiff": "MIDLAND CREDIT MANAGEMENT, INC.",
+      "Primary Defendant": "CHRISTOPHER L. ADAMS",
+      "Attorney Name": "NEVENKA PAVLOVIC",
+      "Attorney Office": "Attorneys for Plaintiff",
+      "Attorney Email": "ILOH@memg.com",
+      "Attorney Phone": "(866)300-8750",
+      "Attorney Website": "memg.com",
+      "Relief Requested": "Judgment against the Defendant for $45,192.92, Costs of the action, Post-judgment interest at the statutory rate per annum",
+      "Processed At": "2025-10-17T21:22:14.288346",
+      "Folder Name": "CV-2025-10-5024_10_16_2025",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: NEVENKA PAVLOVIC\n- Email: ILOH@memg.com\n- Phone: (866)300-8750\n- Website: memg.com\n- Firm: Attorneys for Plaintiff\n- Practice Area: OTHER CIVIL\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (memg.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: ILOH@memg.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: ILOH@memg.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER CIVIL), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: memg.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 11,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Shanell Campbell",
+        "title": "Legal Assistant",
+        "email": "scampbell@mcmcg.com",
+        "email_options": [
+          "shanell.campbell@mcmcg.com",
+          "scampbell@mcmcg.com",
+          "shanell@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Legal Assistant at Midland Credit Management, an Encore Capital Group Company. Previously Case Manager at Progressions.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Breanna T.",
+        "title": "Litigation Paralegal/Legal Administrative Assistant",
+        "email": "bt@mcmcg.com",
+        "email_options": [
+          "breanna.t@mcmcg.com",
+          "bt@mcmcg.com",
+          "breanna@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation/Legal",
+        "quote": "Litigation Paralegal/Legal Administrative Assistant at Midland Credit Management, an Encore Capital Group Company.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Matthew Eckerberg",
+        "title": "Legal Assistant",
+        "email": "meckerberg@mcmcg.com",
+        "email_options": [
+          "matthew.eckerberg@mcmcg.com",
+          "meckerberg@mcmcg.com",
+          "matthew@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Legal Assistant at Midland Credit Management. Background in physics education.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Amy Kujawa",
+        "title": "Legal Assistant - Paralegal",
+        "email": "akujawa@mcmcg.com",
+        "email_options": [
+          "amy.kujawa@mcmcg.com",
+          "akujawa@mcmcg.com",
+          "amy@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Legal Assistant - Paralegal at Midland Credit Management, an Encore Capital Group Company. Education from Kaplan University.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Lexi Thomas",
+        "title": "Paralegal",
+        "email": "lthomas@mcmcg.com",
+        "email_options": [
+          "lexi.thomas@mcmcg.com",
+          "lthomas@mcmcg.com",
+          "lexi@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Paralegal at Midland Credit Management, an Encore Capital Group Company. Education: University of Maryland.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Linda Fazio",
+        "title": "Legal Assistant",
+        "email": "lfazio@mcmcg.com",
+        "email_options": [
+          "linda.fazio@mcmcg.com",
+          "lfazio@mcmcg.com",
+          "linda@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Legal Assistant at Midland Credit Management, an Encore Capital Group Company. Previously Legal Administrative Assistant at Foley Jones Dispute Resolution.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jennifer Phelps",
+        "title": "Paralegal II",
+        "email": "jphelps@mcmcg.com",
+        "email_options": [
+          "jennifer.phelps@mcmcg.com",
+          "jphelps@mcmcg.com",
+          "jennifer@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Paralegal II at Midland Credit Management, an Encore Capital Group Company since Aug 2012. Previously Legal Secretary at Asset Acceptance.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Sandra Deutsch",
+        "title": "Paralegal",
+        "email": "sdeutsch@mcmcg.com",
+        "email_options": [
+          "sandra.deutsch@mcmcg.com",
+          "sdeutsch@mcmcg.com",
+          "sandra@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Paralegal at Midland Credit Management, an Encore Capital Group Company.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Tara Grell",
+        "title": "Legal Specialist",
+        "email": "tgrell@mcmcg.com",
+        "email_options": [
+          "tara.grell@mcmcg.com",
+          "tgrell@mcmcg.com",
+          "tara@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal",
+        "quote": "Legal Specialist at Midland Credit Management. Paralegal Certificate in Legal Assistant/Paralegal.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Alissa Johnston",
+        "title": "Paralegal",
+        "email": "ajohnston@mcmcg.com",
+        "email_options": [
+          "alissa.johnston@mcmcg.com",
+          "ajohnston@mcmcg.com",
+          "alissa@mcmcg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation/Legal",
+        "quote": "Paralegal at Midland Credit Management. Experienced paralegal & Notary Public proficient in high-volume litigation, collections, bankruptcy.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: NEVENKA PAVLOVIC\n- Email: ILOH@memg.com\n- Phone: (866)300-8750\n- Website: memg.com\n- Firm: Attorneys for Plaintiff\n- Practice Area: OTHER CIVIL\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (memg.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: ILOH@memg.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: ILOH@memg.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER CIVIL), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: memg.com\nThought for 3m 28s\n{\n\"page_url\": \"https://www.midlandcredit.com\",\n\"search_sources\": [\"Web search results\", \"LinkedIn profiles via web search\", \"ZoomInfo and legal directories\"],\n\"total_staff_found\": 10,\n\"attorney_email_domain\": \"mcmcg.com\",\n\"paralegals\": [\n{\n\"name\": \"Shanell Campbell\",\n\"title\": \"Legal Assistant\",\n\"email\": \"scampbell@mcmcg.com\",\n\"email_options\": [\"shanell.campbell@mcmcg.com\", \"scampbell@mcmcg.com\", \"shanell@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Legal Assistant at Midland Credit Management, an Encore Capital Group Company. Previously Case Manager at Progressions.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Breanna T.\",\n\"title\": \"Litigation Paralegal/Legal Administrative Assistant\",\n\"email\": \"bt@mcmcg.com\",\n\"email_options\": [\"breanna.t@mcmcg.com\", \"bt@mcmcg.com\", \"breanna@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation/Legal\",\n\"quote\": \"Litigation Paralegal/Legal Administrative Assistant at Midland Credit Management, an Encore Capital Group Company.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Matthew Eckerberg\",\n\"title\": \"Legal Assistant\",\n\"email\": \"meckerberg@mcmcg.com\",\n\"email_options\": [\"matthew.eckerberg@mcmcg.com\", \"meckerberg@mcmcg.com\", \"matthew@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Legal Assistant at Midland Credit Management. Background in physics education.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Amy Kujawa\",\n\"title\": \"Legal Assistant - Paralegal\",\n\"email\": \"akujawa@mcmcg.com\",\n\"email_options\": [\"amy.kujawa@mcmcg.com\", \"akujawa@mcmcg.com\", \"amy@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Legal Assistant - Paralegal at Midland Credit Management, an Encore Capital Group Company. Education from Kaplan University.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Lexi Thomas\",\n\"title\": \"Paralegal\",\n\"email\": \"lthomas@mcmcg.com\",\n\"email_options\": [\"lexi.thomas@mcmcg.com\", \"lthomas@mcmcg.com\", \"lexi@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Paralegal at Midland Credit Management, an Encore Capital Group Company. Education: University of Maryland.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Linda Fazio\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lfazio@mcmcg.com\",\n\"email_options\": [\"linda.fazio@mcmcg.com\", \"lfazio@mcmcg.com\", \"linda@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Legal Assistant at Midland Credit Management, an Encore Capital Group Company. Previously Legal Administrative Assistant at Foley Jones Dispute Resolution.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jennifer Phelps\",\n\"title\": \"Paralegal II\",\n\"email\": \"jphelps@mcmcg.com\",\n\"email_options\": [\"jennifer.phelps@mcmcg.com\", \"jphelps@mcmcg.com\", \"jennifer@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Paralegal II at Midland Credit Management, an Encore Capital Group Company since Aug 2012. Previously Legal Secretary at Asset Acceptance.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Sandra Deutsch\",\n\"title\": \"Paralegal\",\n\"email\": \"sdeutsch@mcmcg.com\",\n\"email_options\": [\"sandra.deutsch@mcmcg.com\", \"sdeutsch@mcmcg.com\", \"sandra@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Paralegal at Midland Credit Management, an Encore Capital Group Company.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Tara Grell\",\n\"title\": \"Legal Specialist\",\n\"email\": \"tgrell@mcmcg.com\",\n\"email_options\": [\"tara.grell@mcmcg.com\", \"tgrell@mcmcg.com\", \"tara@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal\",\n\"quote\": \"Legal Specialist at Midland Credit Management. Paralegal Certificate in Legal Assistant/Paralegal.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Alissa Johnston\",\n\"title\": \"Paralegal\",\n\"email\": \"ajohnston@mcmcg.com\",\n\"email_options\": [\"alissa.johnston@mcmcg.com\", \"ajohnston@mcmcg.com\", \"alissa@mcmcg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation/Legal\",\n\"quote\": \"Paralegal at Midland Credit Management. Experienced paralegal & Notary Public proficient in high-volume litigation, collections, bankruptcy.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n}\n],\n\"best_contact_reasoning\": \"Jennifer Phelps was selected as the best match because she holds the title of Paralegal II, indicating a senior level position, and has over 13 years of experience at the company. This makes her likely to handle new client intake, make decisions about new cases, and manage client communications in the civil debt collection practice area.\",\n\"search_notes\": \"The provided website memg.com yielded no content, likely due to an OCR error in the query. Research linked Nevenka Pavlovic to Midland Credit Management (MCM), with official website midlandcredit.com and email domain mcmcg.com from sources like ZoomInfo. No staff on main website; paralegals and support staff found via LinkedIn profile searches on web. No direct emails or phones available, so generated using observed pattern (firstinitiallastname@mcmcg.com as primary). Checked legal directories and court filings for additional context. Focused on legal support roles in debt collection (civil matters).\"\n}\n70 web pages\n1.5s\nExpert\nExplain email generation patterns\nExplore Encore Capital Group\nAdd phone number estimates\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:23:30.644508",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_032330.txt"
+  },
+  "search_completed_at": "2025-10-18T03:23:30.666284",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_memg_com_20251018_032330_w1.json"
+}

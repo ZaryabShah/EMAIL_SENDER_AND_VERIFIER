@@ -1,0 +1,296 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Ryan S. Bundy
+- Email: coll@cpmlaw.com
+- Phone: (614) 628-0823
+- Website: cpmlaw.com
+- Firm: CARLILE PATCHEN & MURPHY LLP
+- Practice Area: DEBT_COLLECTION
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (cpmlaw.com) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: coll@cpmlaw.com and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: coll@cpmlaw.com
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: cpmlaw.com
+Thought for 2m 47s
+{
+"page_url": "cpmlaw.com",
+"search_sources": ["cpmlaw.com", "linkedin.com", "facebook.com", "instagram.com", "glassdoor.com", "indeed.com"],
+"total_staff_found": 13,
+"attorney_email_domain": "cpmlaw.com",
+"paralegals": [
+{
+"name": "Maxwell Harrington",
+"title": "Paralegal",
+"email": "mharrington@cpmlaw.com",
+"email_options": ["maxwell.harrington@cpmlaw.com", "mharrington@cpmlaw.com", "maxwell@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Business Law and Litigation",
+"quote": "Maxwell Harrington is a paralegal in CPM's Business Law and Litigation Practice Groups. He joined CPM in 2024, bringing experience in family law, employment law, and general litigation.",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Tammy L. Boley",
+"title": "Paralegal",
+"email": "tboley@cpmlaw.com",
+"email_options": ["tammy.boley@cpmlaw.com", "tboley@cpmlaw.com", "tammy@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Linda L. Moore",
+"title": "Paralegal",
+"email": "lmoore@cpmlaw.com",
+"email_options": ["linda.moore@cpmlaw.com", "lmoore@cpmlaw.com", "linda@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Real Estate / Title",
+"quote": "Linda L. Moore is a Paralegal, Title Agent & Closing Officer in the Cornerstone Title Agency team.",
+"Best_match": "False",
+"Priority_score": "7"
+},
+{
+"name": "Dawn Dice",
+"title": "Paralegal",
+"email": "ddice@cpmlaw.com",
+"email_options": ["dawn.dice@cpmlaw.com", "ddice@cpmlaw.com", "dawn@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Amy S. Maxwell",
+"title": "Paralegal",
+"email": "amaxwell@cpmlaw.com",
+"email_options": ["amy.maxwell@cpmlaw.com", "amaxwell@cpmlaw.com", "amy@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Real Estate",
+"quote": "Accomplished paralegal with 20+ years experience in law firm, public sector and corporate environments.",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Candace Vala",
+"title": "Probate Paralegal",
+"email": "cvala@cpmlaw.com",
+"email_options": ["candace.vala@cpmlaw.com", "cvala@cpmlaw.com", "candace@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Family Wealth / Estate Planning",
+"quote": "Estate Planning and Probate Paralegal at CPM.",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Ashley Landolfo",
+"title": "Legal Assistant",
+"email": "alandolfo@cpmlaw.com",
+"email_options": ["ashley.landolfo@cpmlaw.com", "alandolfo@cpmlaw.com", "ashley@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Family Wealth & Estate Planning",
+"quote": "Ashley Landolfo is a legal assistant at Carlile Patchen & Murphy LLP, supporting the Family Wealth & Estate Planning team in Columbus, Ohio.",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Sherrill Aiello",
+"title": "Legal Assistant",
+"email": "saiello@cpmlaw.com",
+"email_options": ["sherrill.aiello@cpmlaw.com", "saiello@cpmlaw.com", "sherrill@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Beth Crompton",
+"title": "Legal Assistant",
+"email": "bcrompton@cpmlaw.com",
+"email_options": ["beth.crompton@cpmlaw.com", "bcrompton@cpmlaw.com", "beth@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Donna Peart",
+"title": "Legal Assistant",
+"email": "dpeart@cpmlaw.com",
+"email_options": ["donna.peart@cpmlaw.com", "dpeart@cpmlaw.com", "donna@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "Lia Williams",
+"title": "Legal Assistant",
+"email": "lwilliams@cpmlaw.com",
+"email_options": ["lia.williams@cpmlaw.com", "lwilliams@cpmlaw.com", "lia@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Family Wealth & Estate Planning",
+"quote": "Family Wealth & Estate Planning Legal Assistant at Carlile Patchen & Murphy LLP.",
+"Best_match": "False",
+"Priority_score": "5"
+},
+{
+"name": "Kyle Combs",
+"title": "Legal Assistant",
+"email": "kcombs@cpmlaw.com",
+"email_options": ["kyle.combs@cpmlaw.com", "kcombs@cpmlaw.com", "kyle@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "",
+"quote": "",
+"Best_match": "False",
+"Priority_score": "6"
+},
+{
+"name": "John Stalter",
+"title": "Litigation Legal Assistant",
+"email": "jstalter@cpmlaw.com",
+"email_options": ["john.stalter@cpmlaw.com", "jstalter@cpmlaw.com", "john@cpmlaw.com"],
+"email_confidence": "generated_high",
+"phone": "",
+"department": "Litigation",
+"quote": "Litigation Legal Assistant at Carlile Patchen & Murphy LLP, with attention to detail and commitment to supporting clients.",
+"Best_match": "False",
+"Priority_score": "9"
+}
+],
+"best_contact_reasoning": "Selected Maxwell Harrington as the best match because he is a paralegal supporting the Business Law and Litigation groups, which directly align with debt collection activities involving creditors' rights and disputes. As a paralegal, he has higher priority over assistants, and his role suggests involvement in case management and client matters in the relevant practice area.",
+"search_notes": "Searched firm website thoroughly via browse and site-specific searches, found several staff profiles. Supplemented with LinkedIn searches for additional employees in target roles. Checked social media for mentions. No direct emails found, generated based on observed pattern (e.g., vbotts@cpmlaw.com)."
+}
+69 web pages
+1.6s
+Expert
+More staff details
+Creditors' Rights attorneys
+How can Grok help?
+Auto

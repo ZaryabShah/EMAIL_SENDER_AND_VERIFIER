@@ -1,0 +1,490 @@
+{
+  "domain": "raslg.com",
+  "search_url": "raslg.com",
+  "attorney_info": {
+    "original_website": "raslg.com",
+    "attorney_name": "Brian S. Jackson",
+    "attorney_email": "kyohfilings@raslg.com",
+    "phone": "470-321-7112",
+    "firm_name": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "practice_area": "FORECLOSURE",
+    "case_id": "25-324426",
+    "row_data": {
+      "Case Number": "25-324426",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "COURT OF COMMON PLEAS, CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "WELLS FARGO BANK, N.A., AS TRUSTEE FOR THE WAMU MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005-PR4 TRUST",
+      "Primary Defendant": "LETITIA SCHLAKER",
+      "Attorney Name": "Brian S. Jackson",
+      "Attorney Office": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+      "Attorney Email": "kyohfilings@raslg.com",
+      "Attorney Phone": "470-321-7112",
+      "Attorney Website": "raslg.com",
+      "Relief Requested": "$180,328.97",
+      "Processed At": "2025-10-18T01:04:32.638342",
+      "Folder Name": "case_3647703",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Brian S. Jackson\n- Email: kyohfilings@raslg.com\n- Phone: 470-321-7112\n- Website: raslg.com\n- Firm: Robertson, Anschutz, Schneid, Crane & Partners, PLLC\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (raslg.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: kyohfilings@raslg.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: kyohfilings@raslg.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: raslg.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 27,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Dora Robertson",
+        "title": "Paralegal",
+        "email": "dora.robertson@raslg.com",
+        "email_options": [
+          "dora.robertson@raslg.com",
+          "drobertson@raslg.com",
+          "dora@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Paralegal in Chattanooga, Tennessee, United States.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Brandon Hayes",
+        "title": "Paralegal Manager",
+        "email": "brandon.hayes@raslg.com",
+        "email_options": [
+          "brandon.hayes@raslg.com",
+          "bhayes@raslg.com",
+          "brandon@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Paralegal Manager at Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Colin Gold",
+        "title": "Litigation Paralegal",
+        "email": "colin.gold@raslg.com",
+        "email_options": [
+          "colin.gold@raslg.com",
+          "cgold@raslg.com",
+          "colin@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Litigation Paralegal at Robertson, Anschutz & Schneid, P.L.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Samantha Sweatmon",
+        "title": "Paralegal",
+        "email": "samantha.sweatmon@raslg.com",
+        "email_options": [
+          "samantha.sweatmon@raslg.com",
+          "ssweatmon@raslg.com",
+          "samantha@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Christopher O'Connor",
+        "title": "Paralegal",
+        "email": "christopher.o'connor@raslg.com",
+        "email_options": [
+          "christopher.o'connor@raslg.com",
+          "co'connor@raslg.com",
+          "christopher@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Carla Cortez",
+        "title": "Senior Litigation Paralegal",
+        "email": "carla.cortez@raslg.com",
+        "email_options": [
+          "carla.cortez@raslg.com",
+          "ccortez@raslg.com",
+          "carla@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Chris Betts",
+        "title": "Paralegal",
+        "email": "chris.betts@raslg.com",
+        "email_options": [
+          "chris.betts@raslg.com",
+          "cbetts@raslg.com",
+          "chris@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Angela Diiorio",
+        "title": "Bankruptcy Paralegal",
+        "email": "angela.diiorio@raslg.com",
+        "email_options": [
+          "angela.diiorio@raslg.com",
+          "adiiorio@raslg.com",
+          "angela@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Bankruptcy",
+        "quote": "At Robertson, Anschutz, Schneid, Crane & Partners, PLLC, our team leverages my adeptness in office administration and litigation support.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Paul Edwards",
+        "title": "Paralegal Supervisor - BK Intake & Projects",
+        "email": "paul.edwards@raslg.com",
+        "email_options": [
+          "paul.edwards@raslg.com",
+          "pedwards@raslg.com",
+          "paul@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Bankruptcy",
+        "quote": "I started at Robertson, Anschutz, Schneid, Crane & Partners, PLLC as a legal assistant and am now a supervising paralegal there.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Areej Ahmed",
+        "title": "Paralegal",
+        "email": "areej.ahmed@raslg.com",
+        "email_options": [
+          "areej.ahmed@raslg.com",
+          "aahmed@raslg.com",
+          "areej@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Carol Ardiles",
+        "title": "Foreclosure Paralegal",
+        "email": "carol.ardiles@raslg.com",
+        "email_options": [
+          "carol.ardiles@raslg.com",
+          "cardiles@raslg.com",
+          "carol@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Foreclosure",
+        "quote": "",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Mandy Thomas",
+        "title": "Supervising Paralegal",
+        "email": "mandy.thomas@raslg.com",
+        "email_options": [
+          "mandy.thomas@raslg.com",
+          "mthomas@raslg.com",
+          "mandy@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Paralegal with over 25 years of experience. Excellent creativity skills and ability to think outside the box.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Athina Nikolaros",
+        "title": "Mediation Paralegal",
+        "email": "athina.nikolaros@raslg.com",
+        "email_options": [
+          "athina.nikolaros@raslg.com",
+          "anikolaros@raslg.com",
+          "athina@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Simran Jot Kaur",
+        "title": "Paralegal",
+        "email": "simran.kaur@raslg.com",
+        "email_options": [
+          "simran.kaur@raslg.com",
+          "skaur@raslg.com",
+          "simran@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Nayleen Rivera",
+        "title": "Paralegal",
+        "email": "nayleen.rivera@raslg.com",
+        "email_options": [
+          "nayleen.rivera@raslg.com",
+          "nrivera@raslg.com",
+          "nayleen@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Ciara Williams",
+        "title": "Legal Assistant",
+        "email": "ciara.williams@raslg.com",
+        "email_options": [
+          "ciara.williams@raslg.com",
+          "cwilliams@raslg.com",
+          "ciara@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Lauren G.",
+        "title": "Legal Assistant",
+        "email": "lauren.g@raslg.com",
+        "email_options": [
+          "lauren.g@raslg.com",
+          "lg@raslg.com",
+          "lauren@raslg.com"
+        ],
+        "email_confidence": "generated_low",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Cody Saunders",
+        "title": "Legal Assistant",
+        "email": "cody.saunders@raslg.com",
+        "email_options": [
+          "cody.saunders@raslg.com",
+          "csaunders@raslg.com",
+          "cody@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Aspiring Paralegal. Legal Assistant at RAS Law firm.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Zane Field",
+        "title": "Legal Assistant",
+        "email": "zane.field@raslg.com",
+        "email_options": [
+          "zane.field@raslg.com",
+          "zfield@raslg.com",
+          "zane@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Olivia Payne",
+        "title": "Legal Assistant",
+        "email": "olivia.payne@raslg.com",
+        "email_options": [
+          "olivia.payne@raslg.com",
+          "opayne@raslg.com",
+          "olivia@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Cambria Beatty-Linder",
+        "title": "Legal Assistant",
+        "email": "cambria.beatty-linder@raslg.com",
+        "email_options": [
+          "cambria.beatty-linder@raslg.com",
+          "cbeatty-linder@raslg.com",
+          "cambria@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Miranda L. Donnelly",
+        "title": "Legal Assistant",
+        "email": "miranda.donnelly@raslg.com",
+        "email_options": [
+          "miranda.donnelly@raslg.com",
+          "mdonnelly@raslg.com",
+          "miranda@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Brady McGee",
+        "title": "Legal Assistant",
+        "email": "brady.mcgee@raslg.com",
+        "email_options": [
+          "brady.mcgee@raslg.com",
+          "bmcgee@raslg.com",
+          "brady@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Legal Assistant with Robertson, Anschutz, Schneid, Crane & Partners, PLLC.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Franklin Garcia",
+        "title": "Legal Assistant",
+        "email": "franklin.garcia@raslg.com",
+        "email_options": [
+          "franklin.garcia@raslg.com",
+          "fgarcia@raslg.com",
+          "franklin@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Amanda Manning",
+        "title": "Legal Assistant",
+        "email": "amanda.manning@raslg.com",
+        "email_options": [
+          "amanda.manning@raslg.com",
+          "amanning@raslg.com",
+          "amanda@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Victoria A. Manswell",
+        "title": "Legal Assistant",
+        "email": "victoria.manswell@raslg.com",
+        "email_options": [
+          "victoria.manswell@raslg.com",
+          "vmanswell@raslg.com",
+          "victoria@raslg.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Brian S. Jackson\n- Email: kyohfilings@raslg.com\n- Phone: 470-321-7112\n- Website: raslg.com\n- Firm: Robertson, Anschutz, Schneid, Crane & Partners, PLLC\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (raslg.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: kyohfilings@raslg.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: kyohfilings@raslg.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: raslg.com\nThought for 2m 1s\n{\n\"page_url\": \"raslg.com\",\n\"search_sources\": [\"raslg.com\", \"raslegalgroup.com\", \"LinkedIn company page and profiles\", \"Facebook\", \"Instagram\", \"Google search results\", \"Legal directories (Avvo, Lawyers.com, FindLaw)\", \"X (Twitter) searches\", \"Job postings sites (Indeed, ZipRecruiter, Glassdoor)\"],\n\"total_staff_found\": 26,\n\"attorney_email_domain\": \"raslg.com\",\n\"paralegals\": [\n{\n\"name\": \"Dora Robertson\",\n\"title\": \"Paralegal\",\n\"email\": \"dora.robertson@raslg.com\",\n\"email_options\": [\"dora.robertson@raslg.com\", \"drobertson@raslg.com\", \"dora@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Paralegal in Chattanooga, Tennessee, United States.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Brandon Hayes\",\n\"title\": \"Paralegal Manager\",\n\"email\": \"brandon.hayes@raslg.com\",\n\"email_options\": [\"brandon.hayes@raslg.com\", \"bhayes@raslg.com\", \"brandon@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Paralegal Manager at Robertson, Anschutz, Schneid, Crane & Partners, PLLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Colin Gold\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"colin.gold@raslg.com\",\n\"email_options\": [\"colin.gold@raslg.com\", \"cgold@raslg.com\", \"colin@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Litigation Paralegal at Robertson, Anschutz & Schneid, P.L.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Samantha Sweatmon\",\n\"title\": \"Paralegal\",\n\"email\": \"samantha.sweatmon@raslg.com\",\n\"email_options\": [\"samantha.sweatmon@raslg.com\", \"ssweatmon@raslg.com\", \"samantha@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Christopher O'Connor\",\n\"title\": \"Paralegal\",\n\"email\": \"christopher.o'connor@raslg.com\",\n\"email_options\": [\"christopher.o'connor@raslg.com\", \"co'connor@raslg.com\", \"christopher@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Carla Cortez\",\n\"title\": \"Senior Litigation Paralegal\",\n\"email\": \"carla.cortez@raslg.com\",\n\"email_options\": [\"carla.cortez@raslg.com\", \"ccortez@raslg.com\", \"carla@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Chris Betts\",\n\"title\": \"Paralegal\",\n\"email\": \"chris.betts@raslg.com\",\n\"email_options\": [\"chris.betts@raslg.com\", \"cbetts@raslg.com\", \"chris@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Angela Diiorio\",\n\"title\": \"Bankruptcy Paralegal\",\n\"email\": \"angela.diiorio@raslg.com\",\n\"email_options\": [\"angela.diiorio@raslg.com\", \"adiiorio@raslg.com\", \"angela@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Bankruptcy\",\n\"quote\": \"At Robertson, Anschutz, Schneid, Crane & Partners, PLLC, our team leverages my adeptness in office administration and litigation support.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Paul Edwards\",\n\"title\": \"Paralegal Supervisor - BK Intake & Projects\",\n\"email\": \"paul.edwards@raslg.com\",\n\"email_options\": [\"paul.edwards@raslg.com\", \"pedwards@raslg.com\", \"paul@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Bankruptcy\",\n\"quote\": \"I started at Robertson, Anschutz, Schneid, Crane & Partners, PLLC as a legal assistant and am now a supervising paralegal there.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Areej Ahmed\",\n\"title\": \"Paralegal\",\n\"email\": \"areej.ahmed@raslg.com\",\n\"email_options\": [\"areej.ahmed@raslg.com\", \"aahmed@raslg.com\", \"areej@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Carol Ardiles\",\n\"title\": \"Foreclosure Paralegal\",\n\"email\": \"carol.ardiles@raslg.com\",\n\"email_options\": [\"carol.ardiles@raslg.com\", \"cardiles@raslg.com\", \"carol@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Foreclosure\",\n\"quote\": \"\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Mandy Thomas\",\n\"title\": \"Supervising Paralegal\",\n\"email\": \"mandy.thomas@raslg.com\",\n\"email_options\": [\"mandy.thomas@raslg.com\", \"mthomas@raslg.com\", \"mandy@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Paralegal with over 25 years of experience. Excellent creativity skills and ability to think outside the box.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Athina Nikolaros\",\n\"title\": \"Mediation Paralegal\",\n\"email\": \"athina.nikolaros@raslg.com\",\n\"email_options\": [\"athina.nikolaros@raslg.com\", \"anikolaros@raslg.com\", \"athina@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Simran Jot Kaur\",\n\"title\": \"Paralegal\",\n\"email\": \"simran.kaur@raslg.com\",\n\"email_options\": [\"simran.kaur@raslg.com\", \"skaur@raslg.com\", \"simran@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Nayleen Rivera\",\n\"title\": \"Paralegal\",\n\"email\": \"nayleen.rivera@raslg.com\",\n\"email_options\": [\"nayleen.rivera@raslg.com\", \"nrivera@raslg.com\", \"nayleen@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Ciara Williams\",\n\"title\": \"Legal Assistant\",\n\"email\": \"ciara.williams@raslg.com\",\n\"email_options\": [\"ciara.williams@raslg.com\", \"cwilliams@raslg.com\", \"ciara@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Lauren G.\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lauren.g@raslg.com\",\n\"email_options\": [\"lauren.g@raslg.com\", \"lg@raslg.com\", \"lauren@raslg.com\"],\n\"email_confidence\": \"generated_low\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Cody Saunders\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cody.saunders@raslg.com\",\n\"email_options\": [\"cody.saunders@raslg.com\", \"csaunders@raslg.com\", \"cody@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Aspiring Paralegal. Legal Assistant at RAS Law firm.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Zane Field\",\n\"title\": \"Legal Assistant\",\n\"email\": \"zane.field@raslg.com\",\n\"email_options\": [\"zane.field@raslg.com\", \"zfield@raslg.com\", \"zane@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Olivia Payne\",\n\"title\": \"Legal Assistant\",\n\"email\": \"olivia.payne@raslg.com\",\n\"email_options\": [\"olivia.payne@raslg.com\", \"opayne@raslg.com\", \"olivia@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Cambria Beatty-Linder\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cambria.beatty-linder@raslg.com\",\n\"email_options\": [\"cambria.beatty-linder@raslg.com\", \"cbeatty-linder@raslg.com\", \"cambria@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Miranda L. Donnelly\",\n\"title\": \"Legal Assistant\",\n\"email\": \"miranda.donnelly@raslg.com\",\n\"email_options\": [\"miranda.donnelly@raslg.com\", \"mdonnelly@raslg.com\", \"miranda@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Brady McGee\",\n\"title\": \"Legal Assistant\",\n\"email\": \"brady.mcgee@raslg.com\",\n\"email_options\": [\"brady.mcgee@raslg.com\", \"bmcgee@raslg.com\", \"brady@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Legal Assistant with Robertson, Anschutz, Schneid, Crane & Partners, PLLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Franklin Garcia\",\n\"title\": \"Legal Assistant\",\n\"email\": \"franklin.garcia@raslg.com\",\n\"email_options\": [\"franklin.garcia@raslg.com\", \"fgarcia@raslg.com\", \"franklin@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Amanda Manning\",\n\"title\": \"Legal Assistant\",\n\"email\": \"amanda.manning@raslg.com\",\n\"email_options\": [\"amanda.manning@raslg.com\", \"amanning@raslg.com\", \"amanda@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Victoria A. Manswell\",\n\"title\": \"Legal Assistant\",\n\"email\": \"victoria.manswell@raslg.com\",\n\"email_options\": [\"victoria.manswell@raslg.com\", \"vmanswell@raslg.com\", \"victoria@raslg.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n}\n],\n\"best_contact_reasoning\": \"Carol Ardiles was selected as the best match because her role as Foreclosure Paralegal directly aligns with the firm's practice area of foreclosure. She is likely to handle related client matters, case intake, and communications in this specific area, making her senior enough and relevant for new legal matters in foreclosure.\",\n\"search_notes\": \"The main website and related pages had no staff listings. Deep searches on LinkedIn via profile searches yielded multiple paralegals and legal assistants. No direct emails or phones found, so generated based on domain. Social media and directories provided limited additional info, mostly job postings. Focused on current employees from LinkedIn profiles.\"\n}\n38 𝕏 posts\n79 web pages\n1.7s\nExpert\nPrioritize top 5 contacts\nSearch for case managers\nFormat JSON more concisely\nQuick Answer\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:58:54.266817",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_025854.txt"
+  },
+  "search_completed_at": "2025-10-18T02:58:54.334651",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_raslg_com_20251018_025854_w3.json"
+}

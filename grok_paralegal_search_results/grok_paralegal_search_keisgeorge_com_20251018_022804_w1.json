@@ -1,0 +1,218 @@
+{
+  "domain": "keisgeorge.com",
+  "search_url": "keisgeorge.com",
+  "attorney_info": {
+    "original_website": "keisgeorge.com",
+    "attorney_name": "Herbert L. Nussle",
+    "attorney_email": "hnussle@keisgeorge.com",
+    "phone": "(216) 241-4100",
+    "firm_name": "Keis George LLP",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "COURT OF COMMON PLEAS, CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "State Farm Mutual Automobile Insurance Company",
+      "Primary Defendant": "Anthony J. Young",
+      "Attorney Name": "Herbert L. Nussle",
+      "Attorney Office": "Keis George LLP",
+      "Attorney Email": "hnussle@keisgeorge.com",
+      "Attorney Phone": "(216) 241-4100",
+      "Attorney Website": "keisgeorge.com",
+      "Relief Requested": "$46,243.97",
+      "Processed At": "2025-10-18T01:04:31.292006",
+      "Folder Name": "case_3646745",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Herbert L. Nussle\n- Email: hnussle@keisgeorge.com\n- Phone: (216) 241-4100\n- Website: keisgeorge.com\n- Firm: Keis George LLP\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (keisgeorge.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: hnussle@keisgeorge.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: hnussle@keisgeorge.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: keisgeorge.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 10,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Nancy Berardinelli",
+        "title": "Paralegal Supervisor",
+        "email": "nberardinelli@keisgeorge.com",
+        "email_options": [
+          "nberardinelli@keisgeorge.com",
+          "nancy.berardinelli@keisgeorge.com",
+          "nancy@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "Paralegal Supervisor at Keis George LLP",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Sarah Gallagher",
+        "title": "Paralegal",
+        "email": "sgallagher@keisgeorge.com",
+        "email_options": [
+          "sgallagher@keisgeorge.com",
+          "sarah.gallagher@keisgeorge.com",
+          "sarah@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "Paralegal for civil litigation law firm Keis George LLP that specializes in insurance subrogation in Cleveland Ohio, Chicago Illinois, Columbus Ohio",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Katherine Andrysek",
+        "title": "Paralegal",
+        "email": "kandrysek@keisgeorge.com",
+        "email_options": [
+          "kandrysek@keisgeorge.com",
+          "katherine.andrysek@keisgeorge.com",
+          "katherine@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Molly Martin",
+        "title": "Paralegal",
+        "email": "mmartin@keisgeorge.com",
+        "email_options": [
+          "mmartin@keisgeorge.com",
+          "molly.martin@keisgeorge.com",
+          "molly@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Christine Sefcik",
+        "title": "Legal Assistant",
+        "email": "csefcik@keisgeorge.com",
+        "email_options": [
+          "csefcik@keisgeorge.com",
+          "christine.sefcik@keisgeorge.com",
+          "christine@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "Legal Assistant and Paralegal Legal ... My versatile work history includes Paralegal and Legal Assistant duties. Paralegal As",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Lisa Maslanka",
+        "title": "Legal Assistant",
+        "email": "lmaslanka@keisgeorge.com",
+        "email_options": [
+          "lmaslanka@keisgeorge.com",
+          "lisa.maslanka@keisgeorge.com",
+          "lisa@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Nina Carroll",
+        "title": "Legal Assistant",
+        "email": "ncarroll@keisgeorge.com",
+        "email_options": [
+          "ncarroll@keisgeorge.com",
+          "nina.carroll@keisgeorge.com",
+          "nina@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Yarimilka Rodriguez",
+        "title": "Legal Assistant",
+        "email": "yrodriguez@keisgeorge.com",
+        "email_options": [
+          "yrodriguez@keisgeorge.com",
+          "yarimilka.rodriguez@keisgeorge.com",
+          "yarimilka@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Christine Hoyt",
+        "title": "Legal Secretary",
+        "email": "choyt@keisgeorge.com",
+        "email_options": [
+          "choyt@keisgeorge.com",
+          "christine.hoyt@keisgeorge.com",
+          "christine@keisgeorge.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Subrogation / Debt Collection",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Herbert L. Nussle\n- Email: hnussle@keisgeorge.com\n- Phone: (216) 241-4100\n- Website: keisgeorge.com\n- Firm: Keis George LLP\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (keisgeorge.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: hnussle@keisgeorge.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: hnussle@keisgeorge.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: keisgeorge.com\nThought for 2m 13s\n{\n\"page_url\": \"keisgeorge.com\",\n\"search_sources\": [\"keisgeorge.com\", \"linkedin.com\", \"avvo.com\", \"findlaw.com\", \"lawyers.com\", \"X (formerly Twitter)\"],\n\"total_staff_found\": 9,\n\"attorney_email_domain\": \"keisgeorge.com\",\n\"paralegals\": [\n{\n\"name\": \"Nancy Berardinelli\",\n\"title\": \"Paralegal Supervisor\",\n\"email\": \"nberardinelli@keisgeorge.com\",\n\"email_options\": [\"nberardinelli@keisgeorge.com\", \"nancy.berardinelli@keisgeorge.com\", \"nancy@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"Paralegal Supervisor at Keis George LLP\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Sarah Gallagher\",\n\"title\": \"Paralegal\",\n\"email\": \"sgallagher@keisgeorge.com\",\n\"email_options\": [\"sgallagher@keisgeorge.com\", \"sarah.gallagher@keisgeorge.com\", \"sarah@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"Paralegal for civil litigation law firm Keis George LLP that specializes in insurance subrogation in Cleveland Ohio, Chicago Illinois, Columbus Ohio\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Katherine Andrysek\",\n\"title\": \"Paralegal\",\n\"email\": \"kandrysek@keisgeorge.com\",\n\"email_options\": [\"kandrysek@keisgeorge.com\", \"katherine.andrysek@keisgeorge.com\", \"katherine@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Molly Martin\",\n\"title\": \"Paralegal\",\n\"email\": \"mmartin@keisgeorge.com\",\n\"email_options\": [\"mmartin@keisgeorge.com\", \"molly.martin@keisgeorge.com\", \"molly@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Christine Sefcik\",\n\"title\": \"Legal Assistant\",\n\"email\": \"csefcik@keisgeorge.com\",\n\"email_options\": [\"csefcik@keisgeorge.com\", \"christine.sefcik@keisgeorge.com\", \"christine@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"Legal Assistant and Paralegal Legal ... My versatile work history includes Paralegal and Legal Assistant duties. Paralegal As\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Lisa Maslanka\",\n\"title\": \"Legal Assistant\",\n\"email\": \"lmaslanka@keisgeorge.com\",\n\"email_options\": [\"lmaslanka@keisgeorge.com\", \"lisa.maslanka@keisgeorge.com\", \"lisa@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Nina Carroll\",\n\"title\": \"Legal Assistant\",\n\"email\": \"ncarroll@keisgeorge.com\",\n\"email_options\": [\"ncarroll@keisgeorge.com\", \"nina.carroll@keisgeorge.com\", \"nina@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Yarimilka Rodriguez\",\n\"title\": \"Legal Assistant\",\n\"email\": \"yrodriguez@keisgeorge.com\",\n\"email_options\": [\"yrodriguez@keisgeorge.com\", \"yarimilka.rodriguez@keisgeorge.com\", \"yarimilka@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Christine Hoyt\",\n\"title\": \"Legal Secretary\",\n\"email\": \"choyt@keisgeorge.com\",\n\"email_options\": [\"choyt@keisgeorge.com\", \"christine.hoyt@keisgeorge.com\", \"christine@keisgeorge.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Subrogation / Debt Collection\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n}\n],\n\"best_contact_reasoning\": \"Nancy Berardinelli was selected as the best match because, as Paralegal Supervisor, she holds the most senior position among the identified support staff. This role likely involves oversight of paralegal activities, coordination with attorneys, and potentially handling client intake or decision-making related to new cases in the debt collection practice area, making her the most suitable contact for legal matters.\",\n\"search_notes\": \"The firm website was searched thoroughly, including 'Our Staff' and 'Our Attorneys' pages, but no specific support staff names or details were found—only general descriptions of staff roles. Key information was derived from LinkedIn company page mentions and individual employee profiles. Legal directories (Avvo, FindLaw, Lawyers.com) primarily listed attorneys, with no support staff. Social media searches on Facebook, Instagram, and X yielded no additional staff mentions. Further attempts to browse LinkedIn profiles directly did not provide more details due to content retrieval issues.\"\n}\n8 𝕏 posts\n88 web pages\n1.9s\nExpert\nDetails on insurance subrogation process\nContacting other Cleveland law firms\nAdd phone numbers where possible\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:28:04.031131",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_022804.txt"
+  },
+  "search_completed_at": "2025-10-18T02:28:04.063375",
+  "associated_cases": 2,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_keisgeorge_com_20251018_022804_w1.json"
+}

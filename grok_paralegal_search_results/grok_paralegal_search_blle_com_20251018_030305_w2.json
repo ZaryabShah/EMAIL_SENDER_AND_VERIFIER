@@ -1,0 +1,202 @@
+{
+  "domain": "blle.com",
+  "search_url": "blle.com",
+  "attorney_info": {
+    "original_website": "blle.com",
+    "attorney_name": "Annemarie C. Lapham",
+    "attorney_email": "CLE@blle.com",
+    "phone": "(800) 837-0109",
+    "firm_name": "Javitch Block LLC",
+    "practice_area": "DEBT_COLLECTION",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "DEBT_COLLECTION",
+      "Court": "Cuyahoga County Court of Common Pleas",
+      "County": "CUYAHOGA",
+      "Plaintiff": "LVNV Funding LLC",
+      "Primary Defendant": "Michael Knapp",
+      "Attorney Name": "Annemarie C. Lapham",
+      "Attorney Office": "Javitch Block LLC",
+      "Attorney Email": "CLE@blle.com",
+      "Attorney Phone": "(800) 837-0109",
+      "Attorney Website": "blle.com",
+      "Relief Requested": "$28,494.95",
+      "Processed At": "2025-10-18T01:04:32.731456",
+      "Folder Name": "case_3647840",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Annemarie C. Lapham\n- Email: CLE@blle.com\n- Phone: (800) 837-0109\n- Website: blle.com\n- Firm: Javitch Block LLC\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (blle.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: CLE@blle.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: CLE@blle.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: blle.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 9,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Jodi Calaway",
+        "title": "Paralegal",
+        "email": "jcalaway@jbllc.com",
+        "email_options": [
+          "jodi.calaway@jbllc.com",
+          "jcalaway@jbllc.com",
+          "jodi@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Experienced paralegal with education from Kaplan University.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Sharon Bellassai",
+        "title": "Paralegal",
+        "email": "sbellassai@jbllc.com",
+        "email_options": [
+          "sharon.bellassai@jbllc.com",
+          "sbellassai@jbllc.com",
+          "sharon@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Paralegal at Javitch Block LLC.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Jakeya Perrin",
+        "title": "Legal Assistant",
+        "email": "jperrin@jbllc.com",
+        "email_options": [
+          "jakeya.perrin@jbllc.com",
+          "jperrin@jbllc.com",
+          "jakeya@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Motivated and detail-oriented Legal Assistant at Javitch Block LLC with a strong foundation in legal support and a passion for justice.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Christina Dorrance",
+        "title": "Legal Assistant",
+        "email": "cdorrance@jbllc.com",
+        "email_options": [
+          "christina.dorrance@jbllc.com",
+          "cdorrance@jbllc.com",
+          "christina@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Javitch Block LLC.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Sherry Earls",
+        "title": "Legal Assistant",
+        "email": "searls@jbllc.com",
+        "email_options": [
+          "sherry.earls@jbllc.com",
+          "searls@jbllc.com",
+          "sherry@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Legal Assistant at Javitch Block LLC.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Ifeoluwa Oshunniyi",
+        "title": "Legal Assistant",
+        "email": "ioshunniyi@jbllc.com",
+        "email_options": [
+          "ifeoluwa.oshunniyi@jbllc.com",
+          "ioshunniyi@jbllc.com",
+          "ifeoluwa@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Criminal Justice-PreLaw Student | University Of Cincinnati Legal Assistant | Javitch Block LLC.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Zachary Yako",
+        "title": "Forms Specialist",
+        "email": "zyako@jbllc.com",
+        "email_options": [
+          "zachary.yako@jbllc.com",
+          "zyako@jbllc.com",
+          "zachary@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Debt Collection",
+        "quote": "Forms Specialist at Javitch Block LLC, with previous paralegal experience.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Nicole Emmert",
+        "title": "Project Manager",
+        "email": "nemmert@jbllc.com",
+        "email_options": [
+          "nicole.emmert@jbllc.com",
+          "nemmert@jbllc.com",
+          "nicole@jbllc.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Administration",
+        "quote": "Project Manager at Javitch Block LLC.",
+        "Best_match": "False",
+        "Priority_score": "3"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Annemarie C. Lapham\n- Email: CLE@blle.com\n- Phone: (800) 837-0109\n- Website: blle.com\n- Firm: Javitch Block LLC\n- Practice Area: DEBT_COLLECTION\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (blle.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: CLE@blle.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: CLE@blle.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: DEBT_COLLECTION), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: blle.com\nThought for 2m 35s\n{\n\"page_url\": \"https://www.jbllc.com/\",\n\"search_sources\": [\"https://www.jbllc.com/\", \"https://www.linkedin.com/company/javitch-block-llc\", \"LinkedIn employee profiles via web search\", \"General web searches\"],\n\"total_staff_found\": 8,\n\"attorney_email_domain\": \"jbllc.com\",\n\"paralegals\": [\n{\n\"name\": \"Jodi Calaway\",\n\"title\": \"Paralegal\",\n\"email\": \"jcalaway@jbllc.com\",\n\"email_options\": [\"jodi.calaway@jbllc.com\", \"jcalaway@jbllc.com\", \"jodi@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Experienced paralegal with education from Kaplan University.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Sharon Bellassai\",\n\"title\": \"Paralegal\",\n\"email\": \"sbellassai@jbllc.com\",\n\"email_options\": [\"sharon.bellassai@jbllc.com\", \"sbellassai@jbllc.com\", \"sharon@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Paralegal at Javitch Block LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Jakeya Perrin\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jperrin@jbllc.com\",\n\"email_options\": [\"jakeya.perrin@jbllc.com\", \"jperrin@jbllc.com\", \"jakeya@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Motivated and detail-oriented Legal Assistant at Javitch Block LLC with a strong foundation in legal support and a passion for justice.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Christina Dorrance\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cdorrance@jbllc.com\",\n\"email_options\": [\"christina.dorrance@jbllc.com\", \"cdorrance@jbllc.com\", \"christina@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Javitch Block LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Sherry Earls\",\n\"title\": \"Legal Assistant\",\n\"email\": \"searls@jbllc.com\",\n\"email_options\": [\"sherry.earls@jbllc.com\", \"searls@jbllc.com\", \"sherry@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Legal Assistant at Javitch Block LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Ifeoluwa Oshunniyi\",\n\"title\": \"Legal Assistant\",\n\"email\": \"ioshunniyi@jbllc.com\",\n\"email_options\": [\"ifeoluwa.oshunniyi@jbllc.com\", \"ioshunniyi@jbllc.com\", \"ifeoluwa@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Criminal Justice-PreLaw Student | University Of Cincinnati Legal Assistant | Javitch Block LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Zachary Yako\",\n\"title\": \"Forms Specialist\",\n\"email\": \"zyako@jbllc.com\",\n\"email_options\": [\"zachary.yako@jbllc.com\", \"zyako@jbllc.com\", \"zachary@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Debt Collection\",\n\"quote\": \"Forms Specialist at Javitch Block LLC, with previous paralegal experience.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Nicole Emmert\",\n\"title\": \"Project Manager\",\n\"email\": \"nemmert@jbllc.com\",\n\"email_options\": [\"nicole.emmert@jbllc.com\", \"nemmert@jbllc.com\", \"nicole@jbllc.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Administration\",\n\"quote\": \"Project Manager at Javitch Block LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n}\n],\n\"best_contact_reasoning\": \"Jodi Calaway was selected as the best match because she is a paralegal, which aligns with the highest priority for senior paralegals or case managers. In a debt collection firm, paralegals are likely involved in case management and client communications, making her suitable for handling new client intake and legal matters.\",\n\"search_notes\": \"The main website (jbllc.com) provided no staff information. Deep search on LinkedIn via web searches yielded several current support staff profiles. Attempts to browse individual profiles and directories returned insufficient content. No useful staff mentions on Facebook, Instagram, or other directories. No direct emails or phones found; all emails generated based on common patterns. The provided domain blle.com appears to be a possible typo, as the firm's actual domain is jbllc.com, which was used for email generation.\"\n}\n80 web pages\n1.4s\nExpert\nExtract more staff from LinkedIn\nSearch for attorney contacts\nAdd more email variations\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:03:05.670855",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_030305.txt"
+  },
+  "search_completed_at": "2025-10-18T03:03:05.694612",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_blle_com_20251018_030305_w2.json"
+}

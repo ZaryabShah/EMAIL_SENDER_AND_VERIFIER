@@ -1,0 +1,298 @@
+{
+  "domain": "mccarthylebit.com",
+  "search_url": "mccarthylebit.com",
+  "attorney_info": {
+    "original_website": "mccarthylebit.com",
+    "attorney_name": "Charles A. Nemer",
+    "attorney_email": "can@mccarthylebit.com",
+    "phone": "(216) 696-1422",
+    "firm_name": "McCarthy, Lebit, Crystal & Liffman Co., L.P.A.",
+    "practice_area": "FORECLOSURE",
+    "case_id": "JL-25-268301",
+    "row_data": {
+      "Case Number": "JL-25-268301",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "IN THE COURT OF COMMON PLEAS CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "13860 Clifton Blvd LLC",
+      "Primary Defendant": "Muneer Hanini",
+      "Attorney Name": "Charles A. Nemer",
+      "Attorney Office": "McCarthy, Lebit, Crystal & Liffman Co., L.P.A.",
+      "Attorney Email": "can@mccarthylebit.com",
+      "Attorney Phone": "(216) 696-1422",
+      "Attorney Website": "mccarthylebit.com",
+      "Relief Requested": "$20,961.00",
+      "Processed At": "2025-10-18T01:04:32.584073",
+      "Folder Name": "case_3647614",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Charles A. Nemer\n- Email: can@mccarthylebit.com\n- Phone: (216) 696-1422\n- Website: mccarthylebit.com\n- Firm: McCarthy, Lebit, Crystal & Liffman Co., L.P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (mccarthylebit.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: can@mccarthylebit.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: can@mccarthylebit.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: mccarthylebit.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 15,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Anita R. Poole",
+        "title": "Paralegal",
+        "email": "arp@mccarthylebit.com",
+        "email_options": [
+          "arp@mccarthylebit.com",
+          "anita.poole@mccarthylebit.com",
+          "apoole@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Anita R. Poole is a dedicated Paralegal within McCarthy Lebit's Litigation practice group. Prior to joining McCarthy Lebit, Anita specialized as a creditor’s rights paralegal with a focus on motion drafting, executions, hearing preparation, and various support throughout cases.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Charlene M. Miller",
+        "title": "Litigation Paralegal",
+        "email": "cmm@mccarthylebit.com",
+        "email_options": [
+          "cmm@mccarthylebit.com",
+          "charlene.miller@mccarthylebit.com",
+          "cmiller@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Charlene Miller is a Litigation Paralegal at McCarthy Lebit where she specializes in the area of employment discrimination. She has assisted in cases involving education and student defense, wrongful death, medical malpractice, corporate and business matters, general litigation, contract disputes, bankruptcy, and white-collar criminal matters.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Natalie Weiss",
+        "title": "Paralegal",
+        "email": "nw@mccarthylebit.com",
+        "email_options": [
+          "nw@mccarthylebit.com",
+          "natalie.weiss@mccarthylebit.com",
+          "nweiss@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Transaction",
+        "quote": "Prior to her promotion to paralegal, Natalie spent three years at McCarthy Lebit as a legal assistant supporting attorneys in the firm's Transaction group.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Pamela A. Hafer",
+        "title": "Paralegal",
+        "email": "pah@mccarthylebit.com",
+        "email_options": [
+          "pah@mccarthylebit.com",
+          "pamela.hafer@mccarthylebit.com",
+          "phafer@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Trusts & Estates",
+        "quote": "Pamela A. Hafer is a Paralegal in the firm's Trusts & Estates practice group. With over 30 years of experience in the legal industry, she possesses a thorough understanding of the specialized areas of estate planning, trust and estate administration, and taxation.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Erin N. Gregg",
+        "title": "Paralegal",
+        "email": "eng@mccarthylebit.com",
+        "email_options": [
+          "eng@mccarthylebit.com",
+          "erin.gregg@mccarthylebit.com",
+          "egregg@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Family Law",
+        "quote": "Erin N. Gregg is a Paralegal in the firm's Family Law practice group. In this role, she is responsible for managing various domestic relations matters which includes helping clients navigate divorce, dissolution, child custody, spousal support, and other domestic relations related legal matters.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Sue Cannavino",
+        "title": "Litigation Assistant",
+        "email": "sc@mccarthylebit.com",
+        "email_options": [
+          "sc@mccarthylebit.com",
+          "sue.cannavino@mccarthylebit.com",
+          "scannavino@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Litigation",
+        "quote": "Dedicated, high energy, highly organized Executive Legal Secretary/Administrative Assistant with over 40 years of experience.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Carey Penney",
+        "title": "Legal Assistant",
+        "email": "cp@mccarthylebit.com",
+        "email_options": [
+          "cp@mccarthylebit.com",
+          "carey.penney@mccarthylebit.com",
+          "cpenney@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Paralegal/Legal Assistant with exceptional interpersonal and communication skills and many years of experience.",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Natalie Markovic",
+        "title": "Legal Administrative Assistant",
+        "email": "nm@mccarthylebit.com",
+        "email_options": [
+          "nm@mccarthylebit.com",
+          "natalie.markovic@mccarthylebit.com",
+          "nmarkovic@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Jane Rodis",
+        "title": "Legal Assistant",
+        "email": "jr@mccarthylebit.com",
+        "email_options": [
+          "jr@mccarthylebit.com",
+          "jane.rodis@mccarthylebit.com",
+          "jrodis@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Legal Assistant with experience at Garson & Associates Co., L.P.A.",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Jan Butler",
+        "title": "Paralegal",
+        "email": "jb@mccarthylebit.com",
+        "email_options": [
+          "jb@mccarthylebit.com",
+          "jan.butler@mccarthylebit.com",
+          "jbutler@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Patricia Frietchen",
+        "title": "Legal Assistant/Paralegal",
+        "email": "pf@mccarthylebit.com",
+        "email_options": [
+          "pf@mccarthylebit.com",
+          "patricia.frietchen@mccarthylebit.com",
+          "pfrietchen@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Donna Ostrom",
+        "title": "Legal Assistant",
+        "email": "do@mccarthylebit.com",
+        "email_options": [
+          "do@mccarthylebit.com",
+          "donna.ostrom@mccarthylebit.com",
+          "dostrom@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Legal Assistant with previous experience as Program Administrator at Biola University.",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Anita Adams",
+        "title": "Legal Assistant",
+        "email": "aa@mccarthylebit.com",
+        "email_options": [
+          "aa@mccarthylebit.com",
+          "anita.adams@mccarthylebit.com",
+          "aadams@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Legal Assistant with experience as Executive Assistant.",
+        "Best_match": "False",
+        "Priority_score": "3"
+      },
+      {
+        "name": "Charlene Mazzone",
+        "title": "Paralegal",
+        "email": "cm@mccarthylebit.com",
+        "email_options": [
+          "cm@mccarthylebit.com",
+          "charlene.mazzone@mccarthylebit.com",
+          "cmazzone@mccarthylebit.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "",
+        "quote": "Paralegal with previous experience at The Simon Law Firm and Wilkerson & Associates Co., LPA.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Charles A. Nemer\n- Email: can@mccarthylebit.com\n- Phone: (216) 696-1422\n- Website: mccarthylebit.com\n- Firm: McCarthy, Lebit, Crystal & Liffman Co., L.P.A.\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (mccarthylebit.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: can@mccarthylebit.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: can@mccarthylebit.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: mccarthylebit.com\nThought for 4m 28s\n{\n\"page_url\": \"mccarthylebit.com\",\n\"search_sources\": [\"mccarthylebit.com\", \"linkedin.com\", \"facebook.com\", \"instagram.com\", \"avvo.com\", \"findlaw.com\", \"lawyers.com\"],\n\"total_staff_found\": 14,\n\"attorney_email_domain\": \"mccarthylebit.com\",\n\"paralegals\": [\n{\n\"name\": \"Anita R. Poole\",\n\"title\": \"Paralegal\",\n\"email\": \"arp@mccarthylebit.com\",\n\"email_options\": [\"arp@mccarthylebit.com\", \"anita.poole@mccarthylebit.com\", \"apoole@mccarthylebit.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Anita R. Poole is a dedicated Paralegal within McCarthy Lebit's Litigation practice group. Prior to joining McCarthy Lebit, Anita specialized as a creditor’s rights paralegal with a focus on motion drafting, executions, hearing preparation, and various support throughout cases.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Charlene M. Miller\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"cmm@mccarthylebit.com\",\n\"email_options\": [\"cmm@mccarthylebit.com\", \"charlene.miller@mccarthylebit.com\", \"cmiller@mccarthylebit.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Charlene Miller is a Litigation Paralegal at McCarthy Lebit where she specializes in the area of employment discrimination. She has assisted in cases involving education and student defense, wrongful death, medical malpractice, corporate and business matters, general litigation, contract disputes, bankruptcy, and white-collar criminal matters.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Natalie Weiss\",\n\"title\": \"Paralegal\",\n\"email\": \"nw@mccarthylebit.com\",\n\"email_options\": [\"nw@mccarthylebit.com\", \"natalie.weiss@mccarthylebit.com\", \"nweiss@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Transaction\",\n\"quote\": \"Prior to her promotion to paralegal, Natalie spent three years at McCarthy Lebit as a legal assistant supporting attorneys in the firm's Transaction group.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Pamela A. Hafer\",\n\"title\": \"Paralegal\",\n\"email\": \"pah@mccarthylebit.com\",\n\"email_options\": [\"pah@mccarthylebit.com\", \"pamela.hafer@mccarthylebit.com\", \"phafer@mccarthylebit.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Trusts & Estates\",\n\"quote\": \"Pamela A. Hafer is a Paralegal in the firm's Trusts & Estates practice group. With over 30 years of experience in the legal industry, she possesses a thorough understanding of the specialized areas of estate planning, trust and estate administration, and taxation.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Erin N. Gregg\",\n\"title\": \"Paralegal\",\n\"email\": \"eng@mccarthylebit.com\",\n\"email_options\": [\"eng@mccarthylebit.com\", \"erin.gregg@mccarthylebit.com\", \"egregg@mccarthylebit.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Family Law\",\n\"quote\": \"Erin N. Gregg is a Paralegal in the firm's Family Law practice group. In this role, she is responsible for managing various domestic relations matters which includes helping clients navigate divorce, dissolution, child custody, spousal support, and other domestic relations related legal matters.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Sue Cannavino\",\n\"title\": \"Litigation Assistant\",\n\"email\": \"sc@mccarthylebit.com\",\n\"email_options\": [\"sc@mccarthylebit.com\", \"sue.cannavino@mccarthylebit.com\", \"scannavino@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Litigation\",\n\"quote\": \"Dedicated, high energy, highly organized Executive Legal Secretary/Administrative Assistant with over 40 years of experience.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Carey Penney\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cp@mccarthylebit.com\",\n\"email_options\": [\"cp@mccarthylebit.com\", \"carey.penney@mccarthylebit.com\", \"cpenney@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Paralegal/Legal Assistant with exceptional interpersonal and communication skills and many years of experience.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Natalie Markovic\",\n\"title\": \"Legal Administrative Assistant\",\n\"email\": \"nm@mccarthylebit.com\",\n\"email_options\": [\"nm@mccarthylebit.com\", \"natalie.markovic@mccarthylebit.com\", \"nmarkovic@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Jane Rodis\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jr@mccarthylebit.com\",\n\"email_options\": [\"jr@mccarthylebit.com\", \"jane.rodis@mccarthylebit.com\", \"jrodis@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Legal Assistant with experience at Garson & Associates Co., L.P.A.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Jan Butler\",\n\"title\": \"Paralegal\",\n\"email\": \"jb@mccarthylebit.com\",\n\"email_options\": [\"jb@mccarthylebit.com\", \"jan.butler@mccarthylebit.com\", \"jbutler@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Patricia Frietchen\",\n\"title\": \"Legal Assistant/Paralegal\",\n\"email\": \"pf@mccarthylebit.com\",\n\"email_options\": [\"pf@mccarthylebit.com\", \"patricia.frietchen@mccarthylebit.com\", \"pfrietchen@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Donna Ostrom\",\n\"title\": \"Legal Assistant\",\n\"email\": \"do@mccarthylebit.com\",\n\"email_options\": [\"do@mccarthylebit.com\", \"donna.ostrom@mccarthylebit.com\", \"dostrom@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Legal Assistant with previous experience as Program Administrator at Biola University.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Anita Adams\",\n\"title\": \"Legal Assistant\",\n\"email\": \"aa@mccarthylebit.com\",\n\"email_options\": [\"aa@mccarthylebit.com\", \"anita.adams@mccarthylebit.com\", \"aadams@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Legal Assistant with experience as Executive Assistant.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"3\"\n},\n{\n\"name\": \"Charlene Mazzone\",\n\"title\": \"Paralegal\",\n\"email\": \"cm@mccarthylebit.com\",\n\"email_options\": [\"cm@mccarthylebit.com\", \"charlene.mazzone@mccarthylebit.com\", \"cmazzone@mccarthylebit.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"\",\n\"quote\": \"Paralegal with previous experience at The Simon Law Firm and Wilkerson & Associates Co., LPA.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n}\n],\n\"best_contact_reasoning\": \"Anita R. Poole was selected as the best match because she has direct prior experience as a creditor’s rights paralegal, which aligns closely with foreclosure matters (a subset of creditor and debtor rights). She currently supports the Litigation practice group, where commercial foreclosures are handled, making her the most senior and relevant contact for new client intake in this area.\",\n\"search_notes\": \"Thoroughly searched the firm's website (mccarthylebit.com) via browsing and site-specific searches, identifying 5 paralegals with profiles. Extended search to LinkedIn via company page and individual profile searches, uncovering 9 additional support staff in target roles. Checked social media (Facebook, Instagram) and legal directories (Avvo, FindLaw, Lawyers.com) but found no additional staff details. No direct emails or phones found for any staff; all emails generated based on the attorney's initial-based pattern. Firm has Creditor & Debtor Rights practice, including foreclosures, relevant to the query.\"\n}\n91 web pages\n1.4s\nExpert\nExpand on creditor's rights details\nSimilar firms in Cleveland\nPrioritize by relevance score\nQuick Answer\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T02:59:11.115912",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_025911.txt"
+  },
+  "search_completed_at": "2025-10-18T02:59:11.347435",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_mccarthylebit_com_20251018_025911_w2.json"
+}

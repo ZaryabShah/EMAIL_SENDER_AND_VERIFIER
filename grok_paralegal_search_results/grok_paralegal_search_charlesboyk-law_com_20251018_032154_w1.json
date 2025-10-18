@@ -1,0 +1,410 @@
+{
+  "domain": "charlesboyk-law.com",
+  "search_url": "charlesboyk-law.com",
+  "attorney_info": {
+    "original_website": "charlesboyk-law.com",
+    "attorney_name": "Charles E. Boyk",
+    "attorney_email": "cboyk@charlesboyk-law.com",
+    "phone": "(419) 241-1395",
+    "firm_name": "Charles E. Boyk Law Offices, LLC",
+    "practice_area": "PERSONAL_INJURY",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "PERSONAL_INJURY",
+      "Court": "COMMON PLEAS COURT OF CUYAHOGA COUNTY, OHIO, CIVIL DIVISION",
+      "County": "CUYAHOGA",
+      "Plaintiff": "Kevin J. Bedford and Breyana D. Bedford",
+      "Primary Defendant": "Stephanie M. Poole",
+      "Attorney Name": "Charles E. Boyk",
+      "Attorney Office": "Charles E. Boyk Law Offices, LLC",
+      "Attorney Email": "cboyk@charlesboyk-law.com",
+      "Attorney Phone": "(419) 241-1395",
+      "Attorney Website": "charlesboyk-law.com",
+      "Relief Requested": "$25,000.00",
+      "Processed At": "2025-10-18T01:04:33.084534",
+      "Folder Name": "case_3648276",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Charles E. Boyk\n- Email: cboyk@charlesboyk-law.com\n- Phone: (419) 241-1395\n- Website: charlesboyk-law.com\n- Firm: Charles E. Boyk Law Offices, LLC\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (charlesboyk-law.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: cboyk@charlesboyk-law.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: cboyk@charlesboyk-law.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: charlesboyk-law.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 22,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Jacob Bick",
+        "title": "Legal Assistant",
+        "email": "jbick@charlesboyk-law.com",
+        "email_options": [
+          "jbick@charlesboyk-law.com",
+          "jacob.bick@charlesboyk-law.com",
+          "jacob@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Jacob is a dedicated Legal Assistant at Charles Boyk Law Offices, bringing enthusiasm and a strong work ethic to his role as he begins his legal career. A proud graduate of the University of Toledo, Jacob earned his Bachelor of Paralegal Studies with a focus on legal research, ethics, and litigation support.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Nicholas Borrillo",
+        "title": "Law Clerk",
+        "email": "nborrillo@charlesboyk-law.com",
+        "email_options": [
+          "nborrillo@charlesboyk-law.com",
+          "nicholas.borrillo@charlesboyk-law.com",
+          "nicholas@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Nick Borrillo is a law student at the University of Toledo College of Law, where he actively contributes to the legal community as a member of the University of Toledo Law Review, an Executive Board member of the Student Bar Association, and a participant in the Public Interest Law Association.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Tammy Bronowski",
+        "title": "Litigation Paralegal",
+        "email": "tbronowski@charlesboyk-law.com",
+        "email_options": [
+          "tbronowski@charlesboyk-law.com",
+          "tammy.bronowski@charlesboyk-law.com",
+          "tammy@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Tammy has a wealth of knowledge and is a member of the litigation team at Boyk Law. Her almost 20 years of legal experience have seen her on both sides of the courtroom working with the defense, and plaintiffs. Working as an advocate for the injured, she uses her patience and ability to think outside the box, assisting our attorneys as they prepare for court.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Crystal Buckman",
+        "title": "Intake Specialist",
+        "email": "cbuckman@charlesboyk-law.com",
+        "email_options": [
+          "cbuckman@charlesboyk-law.com",
+          "crystal.buckman@charlesboyk-law.com",
+          "crystal@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Crystal is often the first point of contact for our clients, and she takes that role to heart. With a Business Management certification and over eight years of customer service experience—including several years in leadership roles—she brings both professionalism and genuine empathy to every conversation.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Becky Casteels",
+        "title": "Subrogation / Medical Records Legal Assistant",
+        "email": "bcasteels@charlesboyk-law.com",
+        "email_options": [
+          "bcasteels@charlesboyk-law.com",
+          "becky.casteels@charlesboyk-law.com",
+          "becky@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Becky has been a dedicated member of our team since 2021. As a Subrogation / Medical records Legal Assistant, she plays a vital role in supporting our attorneys and ensuring that each case is handled with care, accuracy, and efficiency.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Katie Day",
+        "title": "Pre-Litigation Paralegal",
+        "email": "kday@charlesboyk-law.com",
+        "email_options": [
+          "kday@charlesboyk-law.com",
+          "katie.day@charlesboyk-law.com",
+          "katie@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Katie is a seasoned pre-litigation paralegal who has been an essential part of the Boyk team for over 12 years. During that time, she has earned a reputation for her unwavering dedication, compassion, and thorough approach to client service.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Mark Faulhaber",
+        "title": "Pre-Litigation Paralegal",
+        "email": "mfaulhaber@charlesboyk-law.com",
+        "email_options": [
+          "mfaulhaber@charlesboyk-law.com",
+          "mark.faulhaber@charlesboyk-law.com",
+          "mark@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Mark is a Pre-litigation Paralegal for Charles Boyk Law. He has a bachelor’s degree in political science and an associate’s degree in paralegal studies. He has over 3 years of experience in personal injury law.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Jessica Ferencz",
+        "title": "Chief of Staff and Paralegal",
+        "email": "jferencz@charlesboyk-law.com",
+        "email_options": [
+          "jferencz@charlesboyk-law.com",
+          "jessica.ferencz@charlesboyk-law.com",
+          "jessica@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Jessica is thrilled to be both Chuck’s Chief of Staff and a Paralegal. Every day she gets the chance to balance her love of helping clients with fine-tuning operations issues. After moving to Toledo 10 years ago, Jessica moved into the personal injury field, where she has built a decade-long career dedicated to helping clients navigate challenging times with compassion and precision.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "La'Toya White",
+        "title": "Medical Legal Assistant",
+        "email": "lwhite@charlesboyk-law.com",
+        "email_options": [
+          "lwhite@charlesboyk-law.com",
+          "latoya.white@charlesboyk-law.com",
+          "latoya@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "She joined the Charles Boyk Law team in June of 2022 as a receptionist, but now serves as a Medical Legal Assistant, where she collects, analyzes, and organizes ...",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Emma Sullivan",
+        "title": "Nurse Paralegal",
+        "email": "esullivan@charlesboyk-law.com",
+        "email_options": [
+          "esullivan@charlesboyk-law.com",
+          "emma.sullivan@charlesboyk-law.com",
+          "emma@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Emma Sullivan is the Nurse paralegal here at The Charles Boyk Law Offices. She supports all paralegals and attorneys with any requests that involve ...",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Maya May",
+        "title": "Community Liaison",
+        "email": "mmay@charlesboyk-law.com",
+        "email_options": [
+          "mmay@charlesboyk-law.com",
+          "maya.may@charlesboyk-law.com",
+          "maya@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Maya May is a former television news reporter in Toledo, Ohio, who now serves as the Community Liaison for Charles E. Boyk Law Offices.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Cynthia Walborn",
+        "title": "Legal Assistant",
+        "email": "cwalborn@charlesboyk-law.com",
+        "email_options": [
+          "cwalborn@charlesboyk-law.com",
+          "cynthia.walborn@charlesboyk-law.com",
+          "cynthia@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Legal Assistant at Charles E Boyk Law Offices. Toledo, Ohio Metropolitan Area.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Miranda Price",
+        "title": "Paralegal",
+        "email": "mprice@charlesboyk-law.com",
+        "email_options": [
+          "mprice@charlesboyk-law.com",
+          "miranda.price@charlesboyk-law.com",
+          "miranda@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Miranda Price joined the staff of Charles Boyk Law's Holland Office as a paralegal in 2023. She graduated from the paralegal program at the University of ...",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Nancy Thomas",
+        "title": "Litigation Paralegal",
+        "email": "nthomas@charlesboyk-law.com",
+        "email_options": [
+          "nthomas@charlesboyk-law.com",
+          "nancy.thomas@charlesboyk-law.com",
+          "nancy@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Litigation Paralegal / Legal Assistant, marking her 9th year with the firm. “Nancy is a top-notch professional legal assistant with the knowledge, work ethic, and personality to do a fantastic job for our clients.” - Charles Boyk",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Tori Hinton",
+        "title": "Intake Specialist",
+        "email": "thinton@charlesboyk-law.com",
+        "email_options": [
+          "thinton@charlesboyk-law.com",
+          "tori.hinton@charlesboyk-law.com",
+          "tori@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "“When the client calls in, we start by gathering the information to provide to an attorney. You have to ask a lot of sensitive questions, which sometimes is a bit difficult.”",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Molly Scott",
+        "title": "Intake Specialist",
+        "email": "mscott@charlesboyk-law.com",
+        "email_options": [
+          "mscott@charlesboyk-law.com",
+          "molly.scott@charlesboyk-law.com",
+          "molly@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "“If you are at that point, of course, we schedule you for a consultation, to speak with the attorney directly, to go over legal options in more detail.”",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Valentin Ornelas",
+        "title": "Intake Specialist",
+        "email": "vornelas@charlesboyk-law.com",
+        "email_options": [
+          "vornelas@charlesboyk-law.com",
+          "valentin.ornelas@charlesboyk-law.com",
+          "valentin@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "“I had a caller recently who said her family always works with Mr. Boyk. And she said, ‘I think he can handle every kind of case that I have; and I’ve called him for everything If we don’t help her personally, we usually point her in the right direction. That’s why she keeps calling.’”",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Jasmine Rozsa",
+        "title": "Business Operations Assistant",
+        "email": "jrozsa@charlesboyk-law.com",
+        "email_options": [
+          "jrozsa@charlesboyk-law.com",
+          "jasmine.rozsa@charlesboyk-law.com",
+          "jasmine@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Worked in area banking for 11 years and has HR experience at Michigan-based manufacturing and robotics companies. Daily responsibilities include accounting and Human Resources.",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Katelyn Thatcher",
+        "title": "Litigation Paralegal",
+        "email": "kthatcher@charlesboyk-law.com",
+        "email_options": [
+          "kthatcher@charlesboyk-law.com",
+          "katelyn.thatcher@charlesboyk-law.com",
+          "katelyn@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "New team member who has quickly integrated into the litigation team, noted for being dedicated and detail-oriented. She enjoys baking, playing pickleball, and relaxing with her two miniature poodles, Koda and Millie.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Lyndsay O'Shaughnessy-Hayden",
+        "title": "Legal Assistant",
+        "email": "loshaughnessy-hayden@charlesboyk-law.com",
+        "email_options": [
+          "loshaughnessy-hayden@charlesboyk-law.com",
+          "lyndsay.oshaughnessy-hayden@charlesboyk-law.com",
+          "lyndsay@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Legal Assistant at Charles E. Boyk Law Offices. Charles Boyk Law Offices LLC The University of Toledo. Maumee, Ohio, United States.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Leslie Rombkowski",
+        "title": "Office Manager/Paralegal",
+        "email": "lrombkowski@charlesboyk-law.com",
+        "email_options": [
+          "lrombkowski@charlesboyk-law.com",
+          "leslie.rombkowski@charlesboyk-law.com",
+          "leslie@charlesboyk-law.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "PERSONAL_INJURY",
+        "quote": "Office Manager/Paralegal at Charles E. Boyk Law Offices, LLC.",
+        "Best_match": "False",
+        "Priority_score": "9"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Charles E. Boyk\n- Email: cboyk@charlesboyk-law.com\n- Phone: (419) 241-1395\n- Website: charlesboyk-law.com\n- Firm: Charles E. Boyk Law Offices, LLC\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (charlesboyk-law.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: cboyk@charlesboyk-law.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: cboyk@charlesboyk-law.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: charlesboyk-law.com\nThought for 4m 19s\n{\n\"page_url\": \"https://www.charlesboyk-law.com/our-team/\",\n\"search_sources\": [\"https://www.charlesboyk-law.com\", \"https://www.linkedin.com/company/charles-boyk-law-offices-llc\", \"https://www.facebook.com/CharlesEBoykLawOffices/\", \"https://www.instagram.com/charlesboyklaw/\"],\n\"total_staff_found\": 21,\n\"attorney_email_domain\": \"charlesboyk-law.com\",\n\"paralegals\": [\n{\n\"name\": \"Jacob Bick\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jbick@charlesboyk-law.com\",\n\"email_options\": [\"jbick@charlesboyk-law.com\", \"jacob.bick@charlesboyk-law.com\", \"jacob@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Jacob is a dedicated Legal Assistant at Charles Boyk Law Offices, bringing enthusiasm and a strong work ethic to his role as he begins his legal career. A proud graduate of the University of Toledo, Jacob earned his Bachelor of Paralegal Studies with a focus on legal research, ethics, and litigation support.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Nicholas Borrillo\",\n\"title\": \"Law Clerk\",\n\"email\": \"nborrillo@charlesboyk-law.com\",\n\"email_options\": [\"nborrillo@charlesboyk-law.com\", \"nicholas.borrillo@charlesboyk-law.com\", \"nicholas@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Nick Borrillo is a law student at the University of Toledo College of Law, where he actively contributes to the legal community as a member of the University of Toledo Law Review, an Executive Board member of the Student Bar Association, and a participant in the Public Interest Law Association.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Tammy Bronowski\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"tbronowski@charlesboyk-law.com\",\n\"email_options\": [\"tbronowski@charlesboyk-law.com\", \"tammy.bronowski@charlesboyk-law.com\", \"tammy@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Tammy has a wealth of knowledge and is a member of the litigation team at Boyk Law. Her almost 20 years of legal experience have seen her on both sides of the courtroom working with the defense, and plaintiffs. Working as an advocate for the injured, she uses her patience and ability to think outside the box, assisting our attorneys as they prepare for court.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Crystal Buckman\",\n\"title\": \"Intake Specialist\",\n\"email\": \"cbuckman@charlesboyk-law.com\",\n\"email_options\": [\"cbuckman@charlesboyk-law.com\", \"crystal.buckman@charlesboyk-law.com\", \"crystal@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Crystal is often the first point of contact for our clients, and she takes that role to heart. With a Business Management certification and over eight years of customer service experience—including several years in leadership roles—she brings both professionalism and genuine empathy to every conversation.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Becky Casteels\",\n\"title\": \"Subrogation / Medical Records Legal Assistant\",\n\"email\": \"bcasteels@charlesboyk-law.com\",\n\"email_options\": [\"bcasteels@charlesboyk-law.com\", \"becky.casteels@charlesboyk-law.com\", \"becky@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Becky has been a dedicated member of our team since 2021. As a Subrogation / Medical records Legal Assistant, she plays a vital role in supporting our attorneys and ensuring that each case is handled with care, accuracy, and efficiency.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Katie Day\",\n\"title\": \"Pre-Litigation Paralegal\",\n\"email\": \"kday@charlesboyk-law.com\",\n\"email_options\": [\"kday@charlesboyk-law.com\", \"katie.day@charlesboyk-law.com\", \"katie@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Katie is a seasoned pre-litigation paralegal who has been an essential part of the Boyk team for over 12 years. During that time, she has earned a reputation for her unwavering dedication, compassion, and thorough approach to client service.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Mark Faulhaber\",\n\"title\": \"Pre-Litigation Paralegal\",\n\"email\": \"mfaulhaber@charlesboyk-law.com\",\n\"email_options\": [\"mfaulhaber@charlesboyk-law.com\", \"mark.faulhaber@charlesboyk-law.com\", \"mark@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Mark is a Pre-litigation Paralegal for Charles Boyk Law. He has a bachelor’s degree in political science and an associate’s degree in paralegal studies. He has over 3 years of experience in personal injury law.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Jessica Ferencz\",\n\"title\": \"Chief of Staff and Paralegal\",\n\"email\": \"jferencz@charlesboyk-law.com\",\n\"email_options\": [\"jferencz@charlesboyk-law.com\", \"jessica.ferencz@charlesboyk-law.com\", \"jessica@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Jessica is thrilled to be both Chuck’s Chief of Staff and a Paralegal. Every day she gets the chance to balance her love of helping clients with fine-tuning operations issues. After moving to Toledo 10 years ago, Jessica moved into the personal injury field, where she has built a decade-long career dedicated to helping clients navigate challenging times with compassion and precision.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"La'Toya White\",\n\"title\": \"Medical Legal Assistant\",\n\"email\": \"lwhite@charlesboyk-law.com\",\n\"email_options\": [\"lwhite@charlesboyk-law.com\", \"latoya.white@charlesboyk-law.com\", \"latoya@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"She joined the Charles Boyk Law team in June of 2022 as a receptionist, but now serves as a Medical Legal Assistant, where she collects, analyzes, and organizes ...\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Emma Sullivan\",\n\"title\": \"Nurse Paralegal\",\n\"email\": \"esullivan@charlesboyk-law.com\",\n\"email_options\": [\"esullivan@charlesboyk-law.com\", \"emma.sullivan@charlesboyk-law.com\", \"emma@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Emma Sullivan is the Nurse paralegal here at The Charles Boyk Law Offices. She supports all paralegals and attorneys with any requests that involve ...\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Maya May\",\n\"title\": \"Community Liaison\",\n\"email\": \"mmay@charlesboyk-law.com\",\n\"email_options\": [\"mmay@charlesboyk-law.com\", \"maya.may@charlesboyk-law.com\", \"maya@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Maya May is a former television news reporter in Toledo, Ohio, who now serves as the Community Liaison for Charles E. Boyk Law Offices.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Cynthia Walborn\",\n\"title\": \"Legal Assistant\",\n\"email\": \"cwalborn@charlesboyk-law.com\",\n\"email_options\": [\"cwalborn@charlesboyk-law.com\", \"cynthia.walborn@charlesboyk-law.com\", \"cynthia@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Legal Assistant at Charles E Boyk Law Offices. Toledo, Ohio Metropolitan Area.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Miranda Price\",\n\"title\": \"Paralegal\",\n\"email\": \"mprice@charlesboyk-law.com\",\n\"email_options\": [\"mprice@charlesboyk-law.com\", \"miranda.price@charlesboyk-law.com\", \"miranda@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Miranda Price joined the staff of Charles Boyk Law's Holland Office as a paralegal in 2023. She graduated from the paralegal program at the University of ...\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Nancy Thomas\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"nthomas@charlesboyk-law.com\",\n\"email_options\": [\"nthomas@charlesboyk-law.com\", \"nancy.thomas@charlesboyk-law.com\", \"nancy@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Litigation Paralegal / Legal Assistant, marking her 9th year with the firm. “Nancy is a top-notch professional legal assistant with the knowledge, work ethic, and personality to do a fantastic job for our clients.” - Charles Boyk\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Tori Hinton\",\n\"title\": \"Intake Specialist\",\n\"email\": \"thinton@charlesboyk-law.com\",\n\"email_options\": [\"thinton@charlesboyk-law.com\", \"tori.hinton@charlesboyk-law.com\", \"tori@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"“When the client calls in, we start by gathering the information to provide to an attorney. You have to ask a lot of sensitive questions, which sometimes is a bit difficult.”\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Molly Scott\",\n\"title\": \"Intake Specialist\",\n\"email\": \"mscott@charlesboyk-law.com\",\n\"email_options\": [\"mscott@charlesboyk-law.com\", \"molly.scott@charlesboyk-law.com\", \"molly@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"“If you are at that point, of course, we schedule you for a consultation, to speak with the attorney directly, to go over legal options in more detail.”\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Valentin Ornelas\",\n\"title\": \"Intake Specialist\",\n\"email\": \"vornelas@charlesboyk-law.com\",\n\"email_options\": [\"vornelas@charlesboyk-law.com\", \"valentin.ornelas@charlesboyk-law.com\", \"valentin@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"“I had a caller recently who said her family always works with Mr. Boyk. And she said, ‘I think he can handle every kind of case that I have; and I’ve called him for everything If we don’t help her personally, we usually point her in the right direction. That’s why she keeps calling.’”\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Jasmine Rozsa\",\n\"title\": \"Business Operations Assistant\",\n\"email\": \"jrozsa@charlesboyk-law.com\",\n\"email_options\": [\"jrozsa@charlesboyk-law.com\", \"jasmine.rozsa@charlesboyk-law.com\", \"jasmine@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Worked in area banking for 11 years and has HR experience at Michigan-based manufacturing and robotics companies. Daily responsibilities include accounting and Human Resources.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Katelyn Thatcher\",\n\"title\": \"Litigation Paralegal\",\n\"email\": \"kthatcher@charlesboyk-law.com\",\n\"email_options\": [\"kthatcher@charlesboyk-law.com\", \"katelyn.thatcher@charlesboyk-law.com\", \"katelyn@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"New team member who has quickly integrated into the litigation team, noted for being dedicated and detail-oriented. She enjoys baking, playing pickleball, and relaxing with her two miniature poodles, Koda and Millie.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Lyndsay O'Shaughnessy-Hayden\",\n\"title\": \"Legal Assistant\",\n\"email\": \"loshaughnessy-hayden@charlesboyk-law.com\",\n\"email_options\": [\"loshaughnessy-hayden@charlesboyk-law.com\", \"lyndsay.oshaughnessy-hayden@charlesboyk-law.com\", \"lyndsay@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Legal Assistant at Charles E. Boyk Law Offices. Charles Boyk Law Offices LLC The University of Toledo. Maumee, Ohio, United States.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Leslie Rombkowski\",\n\"title\": \"Office Manager/Paralegal\",\n\"email\": \"lrombkowski@charlesboyk-law.com\",\n\"email_options\": [\"lrombkowski@charlesboyk-law.com\", \"leslie.rombkowski@charlesboyk-law.com\", \"leslie@charlesboyk-law.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"PERSONAL_INJURY\",\n\"quote\": \"Office Manager/Paralegal at Charles E. Boyk Law Offices, LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n}\n],\n\"best_contact_reasoning\": \"Jessica Ferencz was selected as the best match because, as Chief of Staff and Paralegal, she holds a senior position that likely involves overseeing client intake, making decisions on new cases, and handling client communications in the personal injury practice area. Her decade-long experience in personal injury aligns perfectly with the firm's focus.\",\n\"search_notes\": \"Thoroughly searched the firm's website, including the 'Our Team' page and individual staff profiles, as well as newsletters in PDF format for additional staff mentions. Explored LinkedIn company page and employee profiles for more support staff. Checked Facebook and Instagram business pages, but they provided insufficient staff details. Legal directories like Avvo, FindLaw, and Lawyers.com were reviewed but contained no specific staff information.\"\n}\n103 web pages\n1.5s\nExpert\nVerify all staff statuses\nExplore similar Ohio firms\nPrioritize by role seniority\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:21:54.613469",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_032154.txt"
+  },
+  "search_completed_at": "2025-10-18T03:21:54.671312",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_charlesboyk-law_com_20251018_032154_w1.json"
+}

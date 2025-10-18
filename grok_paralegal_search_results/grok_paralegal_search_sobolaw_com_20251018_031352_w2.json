@@ -1,0 +1,298 @@
+{
+  "domain": "sobolaw.com",
+  "search_url": "sobolaw.com",
+  "attorney_info": {
+    "original_website": "sobolaw.com",
+    "attorney_name": "NOAH L. BROOK",
+    "attorney_email": "nbrook@sobolaw.com",
+    "phone": "(330) 689-6266",
+    "firm_name": "SOBO & SOBO, CO., LLP",
+    "practice_area": "PERSONAL_INJURY",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "PERSONAL_INJURY",
+      "Court": "COURT OF COMMON PLEAS GENERAL DIVISION CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "CRYSTAL SLOAN",
+      "Primary Defendant": "JUDITH DANZINGER",
+      "Attorney Name": "NOAH L. BROOK",
+      "Attorney Office": "SOBO & SOBO, CO., LLP",
+      "Attorney Email": "nbrook@sobolaw.com",
+      "Attorney Phone": "(330) 689-6266",
+      "Attorney Website": "sobolaw.com",
+      "Relief Requested": "$25,000.00",
+      "Processed At": "2025-10-18T01:04:32.970628",
+      "Folder Name": "case_3648205",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: NOAH L. BROOK\n- Email: nbrook@sobolaw.com\n- Phone: (330) 689-6266\n- Website: sobolaw.com\n- Firm: SOBO & SOBO, CO., LLP\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (sobolaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: nbrook@sobolaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: nbrook@sobolaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: sobolaw.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 15,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Lisette Rosario",
+        "title": "Paralegal",
+        "email": "lrosario@sobolaw.com",
+        "email_options": [
+          "lrosario@sobolaw.com",
+          "lisette.rosario@sobolaw.com",
+          "lisette@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "Dedicated and detail-oriented paralegal with 5 years of experience in business, corporate, and tort law.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Angel Martinez",
+        "title": "Supervising Paralegal",
+        "email": "amartinez@sobolaw.com",
+        "email_options": [
+          "amartinez@sobolaw.com",
+          "angel.martinez@sobolaw.com",
+          "angel@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "Relies on strong leadership and organizational skills to manage a team of paralegals, optimize training programs, and oversee office operations.",
+        "Best_match": "False",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Rachele Calabrese",
+        "title": "Paralegal",
+        "email": "rcalabrese@sobolaw.com",
+        "email_options": [
+          "rcalabrese@sobolaw.com",
+          "rachele.calabrese@sobolaw.com",
+          "rachele@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Stephanie Rivera",
+        "title": "Legal Assistant Paralegal",
+        "email": "srivera@sobolaw.com",
+        "email_options": [
+          "srivera@sobolaw.com",
+          "stephanie.rivera@sobolaw.com",
+          "stephanie@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "Certified Medical Assistant and Legal Assistant Paralegal.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Adriel Zapata",
+        "title": "Case Manager Paralegal",
+        "email": "azapata@sobolaw.com",
+        "email_options": [
+          "azapata@sobolaw.com",
+          "adriel.zapata@sobolaw.com",
+          "adriel@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "In my current role as a Case Manager Paralegal at Sobo & Sobo, I lead a team of legal professionals and oversee more than 250 active cases. I ensure consistent communication, compliance, and strategic case management to achieve optimal outcomes for clients.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Daniel Freedenberg",
+        "title": "Paralegal",
+        "email": "dfreedenberg@sobolaw.com",
+        "email_options": [
+          "dfreedenberg@sobolaw.com",
+          "daniel.freedenberg@sobolaw.com",
+          "daniel@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "I have more than a decade of experience with medical records in a legal environment, mainly with personal injury law.",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Dinahlee Vasquez",
+        "title": "Paralegal",
+        "email": "dvasquez@sobolaw.com",
+        "email_options": [
+          "dvasquez@sobolaw.com",
+          "dinahlee.vasquez@sobolaw.com",
+          "dinahlee@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Ashley Kline",
+        "title": "Paralegal",
+        "email": "akline@sobolaw.com",
+        "email_options": [
+          "akline@sobolaw.com",
+          "ashley.kline@sobolaw.com",
+          "ashley@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Victoria Merton",
+        "title": "Case Manager/Paralegal",
+        "email": "vmerton@sobolaw.com",
+        "email_options": [
+          "vmerton@sobolaw.com",
+          "victoria.merton@sobolaw.com",
+          "victoria@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Tara Moffatt",
+        "title": "Case Manager/Supervising Paralegal",
+        "email": "tmoffatt@sobolaw.com",
+        "email_options": [
+          "tmoffatt@sobolaw.com",
+          "tara.moffatt@sobolaw.com",
+          "tara@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "I am paralegal at Sobo & Sobo, LLP.",
+        "Best_match": "False",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Korrie Domain",
+        "title": "Paralegal",
+        "email": "kdomain@sobolaw.com",
+        "email_options": [
+          "kdomain@sobolaw.com",
+          "korrie.domain@sobolaw.com",
+          "korrie@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Christian D'Agostino",
+        "title": "Paralegal",
+        "email": "cdagostino@sobolaw.com",
+        "email_options": [
+          "cdagostino@sobolaw.com",
+          "christian.dagostino@sobolaw.com",
+          "christian@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Stephanie Badillo",
+        "title": "Paralegal",
+        "email": "sbadillo@sobolaw.com",
+        "email_options": [
+          "sbadillo@sobolaw.com",
+          "stephanie.badillo@sobolaw.com",
+          "stephanie@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Frankie Breton",
+        "title": "Paralegal",
+        "email": "fbreton@sobolaw.com",
+        "email_options": [
+          "fbreton@sobolaw.com",
+          "frankie.breton@sobolaw.com",
+          "frankie@sobolaw.com"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Personal Injury",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: NOAH L. BROOK\n- Email: nbrook@sobolaw.com\n- Phone: (330) 689-6266\n- Website: sobolaw.com\n- Firm: SOBO & SOBO, CO., LLP\n- Practice Area: PERSONAL_INJURY\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (sobolaw.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: nbrook@sobolaw.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: nbrook@sobolaw.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: sobolaw.com\nThought for 1m 50s\n{\n\"page_url\": \"https://sobolaw.com\",\n\"search_sources\": [\"https://sobolaw.com\", \"https://www.linkedin.com\", \"https://lawyers.findlaw.com\", \"https://www.facebook.com/SoboSoboLLP\", \"https://www.zoominfo.com\", \"https://www.datanyze.com\", \"https://www.avvo.com\", \"https://www.instagram.com/sobolaw/\"],\n\"total_staff_found\": 14,\n\"attorney_email_domain\": \"sobolaw.com\",\n\"paralegals\": [\n{\n\"name\": \"Lisette Rosario\",\n\"title\": \"Paralegal\",\n\"email\": \"lrosario@sobolaw.com\",\n\"email_options\": [\"lrosario@sobolaw.com\", \"lisette.rosario@sobolaw.com\", \"lisette@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"Dedicated and detail-oriented paralegal with 5 years of experience in business, corporate, and tort law.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Angel Martinez\",\n\"title\": \"Supervising Paralegal\",\n\"email\": \"amartinez@sobolaw.com\",\n\"email_options\": [\"amartinez@sobolaw.com\", \"angel.martinez@sobolaw.com\", \"angel@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"Relies on strong leadership and organizational skills to manage a team of paralegals, optimize training programs, and oversee office operations.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Rachele Calabrese\",\n\"title\": \"Paralegal\",\n\"email\": \"rcalabrese@sobolaw.com\",\n\"email_options\": [\"rcalabrese@sobolaw.com\", \"rachele.calabrese@sobolaw.com\", \"rachele@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Stephanie Rivera\",\n\"title\": \"Legal Assistant Paralegal\",\n\"email\": \"srivera@sobolaw.com\",\n\"email_options\": [\"srivera@sobolaw.com\", \"stephanie.rivera@sobolaw.com\", \"stephanie@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"Certified Medical Assistant and Legal Assistant Paralegal.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Adriel Zapata\",\n\"title\": \"Case Manager Paralegal\",\n\"email\": \"azapata@sobolaw.com\",\n\"email_options\": [\"azapata@sobolaw.com\", \"adriel.zapata@sobolaw.com\", \"adriel@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"In my current role as a Case Manager Paralegal at Sobo & Sobo, I lead a team of legal professionals and oversee more than 250 active cases. I ensure consistent communication, compliance, and strategic case management to achieve optimal outcomes for clients.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Daniel Freedenberg\",\n\"title\": \"Paralegal\",\n\"email\": \"dfreedenberg@sobolaw.com\",\n\"email_options\": [\"dfreedenberg@sobolaw.com\", \"daniel.freedenberg@sobolaw.com\", \"daniel@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"I have more than a decade of experience with medical records in a legal environment, mainly with personal injury law.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Dinahlee Vasquez\",\n\"title\": \"Paralegal\",\n\"email\": \"dvasquez@sobolaw.com\",\n\"email_options\": [\"dvasquez@sobolaw.com\", \"dinahlee.vasquez@sobolaw.com\", \"dinahlee@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Ashley Kline\",\n\"title\": \"Paralegal\",\n\"email\": \"akline@sobolaw.com\",\n\"email_options\": [\"akline@sobolaw.com\", \"ashley.kline@sobolaw.com\", \"ashley@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Victoria Merton\",\n\"title\": \"Case Manager/Paralegal\",\n\"email\": \"vmerton@sobolaw.com\",\n\"email_options\": [\"vmerton@sobolaw.com\", \"victoria.merton@sobolaw.com\", \"victoria@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Tara Moffatt\",\n\"title\": \"Case Manager/Supervising Paralegal\",\n\"email\": \"tmoffatt@sobolaw.com\",\n\"email_options\": [\"tmoffatt@sobolaw.com\", \"tara.moffatt@sobolaw.com\", \"tara@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"I am paralegal at Sobo & Sobo, LLP.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Korrie Domain\",\n\"title\": \"Paralegal\",\n\"email\": \"kdomain@sobolaw.com\",\n\"email_options\": [\"kdomain@sobolaw.com\", \"korrie.domain@sobolaw.com\", \"korrie@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Christian D'Agostino\",\n\"title\": \"Paralegal\",\n\"email\": \"cdagostino@sobolaw.com\",\n\"email_options\": [\"cdagostino@sobolaw.com\", \"christian.dagostino@sobolaw.com\", \"christian@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Stephanie Badillo\",\n\"title\": \"Paralegal\",\n\"email\": \"sbadillo@sobolaw.com\",\n\"email_options\": [\"sbadillo@sobolaw.com\", \"stephanie.badillo@sobolaw.com\", \"stephanie@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Frankie Breton\",\n\"title\": \"Paralegal\",\n\"email\": \"fbreton@sobolaw.com\",\n\"email_options\": [\"fbreton@sobolaw.com\", \"frankie.breton@sobolaw.com\", \"frankie@sobolaw.com\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Personal Injury\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Adriel Zapata was selected as the best match because, as a Case Manager Paralegal who leads a team and oversees more than 250 active personal injury cases, they are likely senior enough to handle new client intake, make decisions on cases, and manage client communications in the personal injury practice area.\",\n\"search_notes\": \"The main website sobolaw.com lists only attorneys and no support staff. Extensive searches on LinkedIn yielded multiple paralegal and case manager profiles with bios. Client reviews on FindLaw mentioned specific paralegals. Social media like Facebook provided team mentions but limited roles. Data sites like Zoominfo and Datanyze added a few more names. No direct emails or phones found; emails generated based on firm pattern.\"\n}\n58 web pages\n2s\nExpert\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:13:52.928088",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_031352.txt"
+  },
+  "search_completed_at": "2025-10-18T03:13:52.971366",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_sobolaw_com_20251018_031352_w2.json"
+}

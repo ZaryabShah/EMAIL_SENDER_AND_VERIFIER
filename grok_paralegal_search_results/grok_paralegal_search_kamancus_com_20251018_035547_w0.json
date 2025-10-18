@@ -1,0 +1,298 @@
+{
+  "domain": "kamancus.com",
+  "search_url": "kamancus.com",
+  "attorney_info": {
+    "original_website": "kamancus.com",
+    "attorney_name": "Darcy Mehling Good",
+    "attorney_email": "kcattorney@kamancus.com",
+    "phone": "(216) 696-0650",
+    "firm_name": "KAMAN & CUSIMANO, LLC",
+    "practice_area": "FORECLOSURE",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "FORECLOSURE",
+      "Court": "IN THE COURT OF COMMON PLEAS CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "LIBERTY BELL CONDOMINIUM UNIT OWNERS’ ASSOCIATION",
+      "Primary Defendant": "MERIAM BENABDALLAH",
+      "Attorney Name": "Darcy Mehling Good",
+      "Attorney Office": "KAMAN & CUSIMANO, LLC",
+      "Attorney Email": "kcattorney@kamancus.com",
+      "Attorney Phone": "(216) 696-0650",
+      "Attorney Website": "kamancus.com",
+      "Relief Requested": "$5,687.31",
+      "Processed At": "2025-10-18T01:04:30.745819",
+      "Folder Name": "case_3646009",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Darcy Mehling Good\n- Email: kcattorney@kamancus.com\n- Phone: (216) 696-0650\n- Website: kamancus.com\n- Firm: KAMAN & CUSIMANO, LLC\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (kamancus.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: kcattorney@kamancus.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: kcattorney@kamancus.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: kamancus.com",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 15,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Sandra Chapman",
+        "title": "Paralegal",
+        "email": "schapman@kamancus.com",
+        "email_options": [
+          "schapman@kamancus.com",
+          "sandra.chapman@kamancus.com",
+          "sandra@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "Dedicated & thorough paralegal with extensive experience assisting counsel in: • Filing liens on developers who,...",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Samantha Miloro",
+        "title": "Paralegal",
+        "email": "smiloro@kamancus.com",
+        "email_options": [
+          "smiloro@kamancus.com",
+          "samantha.miloro@kamancus.com",
+          "samantha@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "8"
+      },
+      {
+        "name": "Brittany Swan",
+        "title": "Paralegal/Legal Assistant",
+        "email": "bswan@kamancus.com",
+        "email_options": [
+          "bswan@kamancus.com",
+          "brittany.swan@kamancus.com",
+          "brittany@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Kathryn Bartko",
+        "title": "Paralegal",
+        "email": "kbartko@kamancus.com",
+        "email_options": [
+          "kbartko@kamancus.com",
+          "kathryn.bartko@kamancus.com",
+          "kathryn@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Jenn Granito",
+        "title": "Paralegal",
+        "email": "jgranito@kamancus.com",
+        "email_options": [
+          "jgranito@kamancus.com",
+          "jenn.granito@kamancus.com",
+          "jenn@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Sarah Jones",
+        "title": "Paralegal",
+        "email": "sjones@kamancus.com",
+        "email_options": [
+          "sjones@kamancus.com",
+          "sarah.jones@kamancus.com",
+          "sarah@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "9"
+      },
+      {
+        "name": "Morgan Hapner",
+        "title": "Assessment Recovery Paralegal",
+        "email": "mhapner@kamancus.com",
+        "email_options": [
+          "mhapner@kamancus.com",
+          "morgan.hapner@kamancus.com",
+          "morgan@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Assessment Recovery",
+        "quote": "JD Candidate at Chase College of Law",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Juanita Clancy",
+        "title": "Paralegal",
+        "email": "jclancy@kamancus.com",
+        "email_options": [
+          "jclancy@kamancus.com",
+          "juanita.clancy@kamancus.com",
+          "juanita@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "CMCA",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Micah Nielsen",
+        "title": "Legal Assistant",
+        "email": "mnielsen@kamancus.com",
+        "email_options": [
+          "mnielsen@kamancus.com",
+          "micah.nielsen@kamancus.com",
+          "micah@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Jill Wooster",
+        "title": "Legal Assistant",
+        "email": "jwooster@kamancus.com",
+        "email_options": [
+          "jwooster@kamancus.com",
+          "jill.wooster@kamancus.com",
+          "jill@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Community Associations",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "5"
+      },
+      {
+        "name": "Amanda Restivo",
+        "title": "Administrative Assistant",
+        "email": "arestivo@kamancus.com",
+        "email_options": [
+          "arestivo@kamancus.com",
+          "amanda.restivo@kamancus.com",
+          "amanda@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administrative",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Amanda Kohuth",
+        "title": "Administrative Assistant",
+        "email": "akohuth@kamancus.com",
+        "email_options": [
+          "akohuth@kamancus.com",
+          "amanda.kohuth@kamancus.com",
+          "amanda@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administrative",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Gina Harmon",
+        "title": "Administrative Assistant",
+        "email": "gharmon@kamancus.com",
+        "email_options": [
+          "gharmon@kamancus.com",
+          "gina.harmon@kamancus.com",
+          "gina@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administrative",
+        "quote": "",
+        "Best_match": "False",
+        "Priority_score": "4"
+      },
+      {
+        "name": "Vicki Thomas",
+        "title": "Office Manager",
+        "email": "vthomas@kamancus.com",
+        "email_options": [
+          "vthomas@kamancus.com",
+          "vicki.thomas@kamancus.com",
+          "vicki@kamancus.com"
+        ],
+        "email_confidence": "generated_high",
+        "phone": "",
+        "department": "Administrative",
+        "quote": "Legal Assistant; Administrative Assistant",
+        "Best_match": "False",
+        "Priority_score": "6"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Darcy Mehling Good\n- Email: kcattorney@kamancus.com\n- Phone: (216) 696-0650\n- Website: kamancus.com\n- Firm: KAMAN & CUSIMANO, LLC\n- Practice Area: FORECLOSURE\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (kamancus.com) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: kcattorney@kamancus.com and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: kcattorney@kamancus.com\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: FORECLOSURE), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: kamancus.com\nThought for 2m 46s\n{\n\"page_url\": \"https://communityassociations.law/\",\n\"search_sources\": [\"https://communityassociations.law/\", \"https://www.linkedin.com/company/kaman-cusimano-llc\", \"LinkedIn profile searches via web\", \"Google web search\"],\n\"total_staff_found\": 14,\n\"attorney_email_domain\": \"kamancus.com\",\n\"paralegals\": [\n{\n\"name\": \"Sandra Chapman\",\n\"title\": \"Paralegal\",\n\"email\": \"schapman@kamancus.com\",\n\"email_options\": [\"schapman@kamancus.com\", \"sandra.chapman@kamancus.com\", \"sandra@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"Dedicated & thorough paralegal with extensive experience assisting counsel in: • Filing liens on developers who,...\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Samantha Miloro\",\n\"title\": \"Paralegal\",\n\"email\": \"smiloro@kamancus.com\",\n\"email_options\": [\"smiloro@kamancus.com\", \"samantha.miloro@kamancus.com\", \"samantha@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"8\"\n},\n{\n\"name\": \"Brittany Swan\",\n\"title\": \"Paralegal/Legal Assistant\",\n\"email\": \"bswan@kamancus.com\",\n\"email_options\": [\"bswan@kamancus.com\", \"brittany.swan@kamancus.com\", \"brittany@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Kathryn Bartko\",\n\"title\": \"Paralegal\",\n\"email\": \"kbartko@kamancus.com\",\n\"email_options\": [\"kbartko@kamancus.com\", \"kathryn.bartko@kamancus.com\", \"kathryn@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Jenn Granito\",\n\"title\": \"Paralegal\",\n\"email\": \"jgranito@kamancus.com\",\n\"email_options\": [\"jgranito@kamancus.com\", \"jenn.granito@kamancus.com\", \"jenn@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Sarah Jones\",\n\"title\": \"Paralegal\",\n\"email\": \"sjones@kamancus.com\",\n\"email_options\": [\"sjones@kamancus.com\", \"sarah.jones@kamancus.com\", \"sarah@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"9\"\n},\n{\n\"name\": \"Morgan Hapner\",\n\"title\": \"Assessment Recovery Paralegal\",\n\"email\": \"mhapner@kamancus.com\",\n\"email_options\": [\"mhapner@kamancus.com\", \"morgan.hapner@kamancus.com\", \"morgan@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Assessment Recovery\",\n\"quote\": \"JD Candidate at Chase College of Law\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Juanita Clancy\",\n\"title\": \"Paralegal\",\n\"email\": \"jclancy@kamancus.com\",\n\"email_options\": [\"jclancy@kamancus.com\", \"juanita.clancy@kamancus.com\", \"juanita@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"CMCA\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Micah Nielsen\",\n\"title\": \"Legal Assistant\",\n\"email\": \"mnielsen@kamancus.com\",\n\"email_options\": [\"mnielsen@kamancus.com\", \"micah.nielsen@kamancus.com\", \"micah@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Jill Wooster\",\n\"title\": \"Legal Assistant\",\n\"email\": \"jwooster@kamancus.com\",\n\"email_options\": [\"jwooster@kamancus.com\", \"jill.wooster@kamancus.com\", \"jill@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Community Associations\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n},\n{\n\"name\": \"Amanda Restivo\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"arestivo@kamancus.com\",\n\"email_options\": [\"arestivo@kamancus.com\", \"amanda.restivo@kamancus.com\", \"amanda@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administrative\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Amanda Kohuth\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"akohuth@kamancus.com\",\n\"email_options\": [\"akohuth@kamancus.com\", \"amanda.kohuth@kamancus.com\", \"amanda@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administrative\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Gina Harmon\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"gharmon@kamancus.com\",\n\"email_options\": [\"gharmon@kamancus.com\", \"gina.harmon@kamancus.com\", \"gina@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administrative\",\n\"quote\": \"\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"4\"\n},\n{\n\"name\": \"Vicki Thomas\",\n\"title\": \"Office Manager\",\n\"email\": \"vthomas@kamancus.com\",\n\"email_options\": [\"vthomas@kamancus.com\", \"vicki.thomas@kamancus.com\", \"vicki@kamancus.com\"],\n\"email_confidence\": \"generated_high\",\n\"phone\": \"\",\n\"department\": \"Administrative\",\n\"quote\": \"Legal Assistant; Administrative Assistant\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n}\n],\n\"best_contact_reasoning\": \"Morgan Hapner was selected as the best match because her title as Assessment Recovery Paralegal directly aligns with the foreclosure practice area, as assessment recovery in community associations often involves foreclosure proceedings on liens for unpaid assessments. She is likely to handle related client matters and has relevant experience, making her senior enough for new case intake in this specific area.\",\n\"search_notes\": \"Initial search on kamancus.com yielded no content. Identified correct firm website as communityassociations.law via web search. Website listed only attorneys, no support staff. Conducted targeted web searches on LinkedIn for roles like paralegal, legal assistant, and administrative staff at Kaman & Cusimano, LLC, extracting profiles and details. Email pattern derived from found examples like jizzo@kamancus.com and jkaman@kamancus.com, using first initial + lastname format. No direct emails or phones found; all generated. Checked social media and directories but no additional staff info.\"\n}\n45 web pages\n2 / 2\n4.8s\nExpert\nVerify Morgan Hapner's email\nContact Darcy Mehling Good\nAdd phone numbers\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:55:47.143904",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_035547.txt"
+  },
+  "search_completed_at": "2025-10-18T03:55:47.166263",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_kamancus_com_20251018_035547_w0.json"
+}

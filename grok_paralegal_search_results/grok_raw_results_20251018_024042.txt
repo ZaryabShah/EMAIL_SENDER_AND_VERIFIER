@@ -1,0 +1,189 @@
+Share
+Sign up
+Sign in
+COMPREHENSIVE PARALEGAL SEARCH REQUEST
+
+MISSION: Find ALL paralegals, legal assistants, and support staff for this law firm
+
+FIRM DETAILS:
+- Attorney: Daniel M. Katz
+- Email: DMK@DMKLEGAL.COM
+- Phone: (216) 696-5250
+- Website: dmklegal.com
+- Firm: DANIEL MARK KATZ CO LPA
+- Practice Area: PERSONAL_INJURY
+
+SEARCH REQUIREMENTS:
+1. PRIMARY: Search the main website (dmklegal.com) thoroughly for ALL staff
+2. DEEP SEARCH: If website has limited info, search these sources:
+   - LinkedIn company page and employee profiles
+   - Facebook business page and staff mentions
+   - Instagram business account
+   - Google Business listings
+   - Legal directories (Avvo, FindLaw, Lawyers.com)
+   - Bar association listings
+   - Court filing documents (if accessible)
+
+TARGET ROLES TO FIND:
+- Paralegals (all levels: senior, junior, certified)
+- Legal Assistants
+- Legal Secretaries
+- Case Managers
+- Document Specialists  
+- Litigation Support Staff
+- Client Services Coordinators
+- Administrative Assistants (in legal capacity)
+
+REQUIRED INFORMATION for each person:
+- Full Name (required)
+- Job Title/Role (required) 
+- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)
+- Direct Phone/Extension (if available)
+- Department/Practice Area
+- Professional Background/Quote (if available)
+
+CRITICAL EMAIL REQUIREMENTS:
+1. If direct email found: Use the actual email
+2. If NO email found: Generate 2-3 probable email options using the attorney's email format
+3. Email generation patterns to try:
+   - firstname.lastname@domain.com
+   - firstinitiallastname@domain.com  
+   - firstname@domain.com
+   - staff.firstname@domain.com
+   - paralegal.firstname@domain.com
+4. Extract domain from attorney email: DMK@DMKLEGAL.COM and use it for all generated emails
+5. or use common formats based on firm domain
+
+BEST CONTACT IDENTIFICATION:
+Analyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.
+Consider:
+- Senior paralegals or case managers (highest priority)
+- Legal assistants with client contact responsibilities
+- Office managers if they handle new client intake
+- Avoid receptionists unless they're the only option
+Mark this person with "Best_match": "True"
+
+SEARCH STRATEGY:
+- Check "Our Team", "Staff", "About Us", "Meet the Team" pages
+- Look for staff bios and profiles
+- Search social media for team photos and mentions
+- Check LinkedIn for current employees
+- Look for staff in news articles or case announcements
+- Find people in office photos or group pictures
+
+EXTRACTION FORMAT:
+Please output results in this EXACT JSON format:
+
+{
+    "page_url": "website_searched",
+    "search_sources": ["list_of_sources_checked"],
+    "total_staff_found": number,
+    "attorney_email_domain": "domain_from_attorney_email",
+    "paralegals": [
+        {
+            "name": "Full Name",
+            "title": "Job Title",
+            "email": "direct_email_if_found_OR_most_likely_generated_email", 
+            "email_options": ["email1@domain.com", "email2@domain.com", "email3@domain.com"],
+            "email_confidence": "found/generated_high/generated_medium/generated_low",
+            "phone": "direct_phone_if_found",
+            "department": "practice_area_or_department",
+            "quote": "professional_background_or_bio_excerpt",
+            "Best_match": "True_or_False",
+            "Priority_score": "from 10 to 1 (10 is highest)"
+        }
+    ],
+    "best_contact_reasoning": "explanation_of_why_this_person_was_selected_as_best_match",
+    "search_notes": "brief_summary_of_search_process_and_sources_used"
+}
+
+SPECIFIC EMAIL GENERATION INSTRUCTIONS:
+- Attorney email pattern: DMK@DMKLEGAL.COM
+- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).
+- For "John Smith" generate these patterns: ["john.smith@domain.com", "jsmith@domain.com", "john@domain.com"]
+- Always provide 2-3 email options per person (more if unsure)
+- Mark confidence level: "found" (actual email found), "generated_high" (strong pattern match), "generated_medium" (reasonable guess), "generated_low" (last resort)
+
+BEST MATCH SELECTION CRITERIA:
+Based on the case information (Practice Area: PERSONAL_INJURY), select the staff member who would be:
+1. Most likely to handle new client intake for this practice area
+2. Senior enough to make decisions about new cases  
+3. Specifically responsible for client communications
+4. Has experience in the relevant practice area
+
+IMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!
+
+CRITICAL: 
+- ALWAYS generate email options even if no direct emails found
+- ALWAYS select exactly ONE person as "Best_match": "True" 
+- ALWAYS explain your reasoning for the best match selection
+- MUST MAKE SURE: ALWAYS THINK HARDER
+
+START COMPREHENSIVE SEARCH NOW for: dmklegal.com
+Thought for 3m 12s
+{
+"page_url": "dmklegal.com",
+"search_sources": ["dmklegal.com", "LinkedIn", "Avvo", "Martindale.com", "LawyerLegion.com", "SignalHire", "Success.ai", "Bold.pro", "Justia.com", "SupremeCourt.Ohio.gov", "OSHA.gov", "Salary.com"],
+"total_staff_found": 4,
+"attorney_email_domain": "dmklegal.com",
+"paralegals": [
+{
+"name": "Savannah Rossi",
+"title": "Paralegal",
+"email": "savannah.rossi@dmklegal.com",
+"email_options": ["savannah.rossi@dmklegal.com", "srossi@dmklegal.com", "savannah@dmklegal.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "Filed clients' legal documents in relevant courts for processing. Provided administrative support to boost firm's document production and legal correspondence. Conducted thorough research and review of case information to assist attorneys. Corresponded daily with clients, insurance adjusters, doctors and attorneys. Mailed and arranged for delivery of legal correspondence to clients, witnesses and court officials. Conducted research and analyzed documents to prepare findings and formulate alternatives. Drafted legal complaints, summonses and interrogatories. Liaised between attorney and outside counsel, exchanging information. Maintained knowledge on case status by reviewing relevant records and reporting back to clients. Filed pleadings and paperwork with court clerk to meet strict deadlines. Oversaw legal team appointments, hearings and depositions schedules.",
+"Best_match": "True",
+"Priority_score": "10"
+},
+{
+"name": "Danielle Cherkes",
+"title": "Office Manager/Workers Compensation Paralegal",
+"email": "danielle.cherkes@dmklegal.com",
+"email_options": ["danielle.cherkes@dmklegal.com", "dcherkes@dmklegal.com", "danielle@dmklegal.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "Office Manager/Workers Compensation Paralegal at Daniel Mark Katz Co Lpa from July 2017 to October 2021.",
+"Best_match": "False",
+"Priority_score": "9"
+},
+{
+"name": "Sydney Dawson",
+"title": "Legal Assistant",
+"email": "sydney.dawson@dmklegal.com",
+"email_options": ["sydney.dawson@dmklegal.com", "sdawson@dmklegal.com", "sydney@dmklegal.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "Legal Assistant at Daniel Mark Katz Co., L.P.A. from May 2019 to February 2020.",
+"Best_match": "False",
+"Priority_score": "8"
+},
+{
+"name": "Brailey Simplican",
+"title": "Legal Assistant",
+"email": "brailey.simplican@dmklegal.com",
+"email_options": ["brailey.simplican@dmklegal.com", "bsimplican@dmklegal.com", "brailey@dmklegal.com"],
+"email_confidence": "generated_medium",
+"phone": "",
+"department": "Personal Injury",
+"quote": "Assisted attorney in all phases of civil litigation. Drafted and filed affidavits, pleadings.",
+"Best_match": "False",
+"Priority_score": "7"
+}
+],
+"best_contact_reasoning": "Savannah Rossi was selected as the best match because she is the most recent paralegal identified, with employment ending in March 2024, making her knowledge of the firm's personal injury practice more current. Her responsibilities included client communications, case management, and new case handling tasks, aligning with the criteria for handling new client intake in personal injury matters. She appears senior enough based on her detailed duties involving research, drafting, and liaising with clients and external parties.",
+"search_notes": "The main website dmklegal.com provided no staff information, with all browsed pages showing insufficient content. No company LinkedIn page was found. Searches across LinkedIn profiles, resume sites (Bold.pro, Success.ai, SignalHire), legal directories (Avvo, Martindale, LawyerLegion), court documents, and other sources revealed only former support staff members, with no current staff identified beyond the attorney. Emails were generated based on common patterns using the firm's domain, as no direct emails were found. The firm appears small (1-5 employees per public data), but no additional names surfaced despite extensive searches."
+}
+85 web pages
+1.4s
+Expert
+Verify current staff status
+Search Ohio bar association
+Add employment verification notes
+How can Grok help?
+Auto

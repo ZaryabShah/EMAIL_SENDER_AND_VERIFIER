@@ -1,0 +1,138 @@
+{
+  "domain": "gould-law.net",
+  "search_url": "gould-law.net",
+  "attorney_info": {
+    "original_website": "gould-law.net",
+    "attorney_name": "Craigg E. Gould",
+    "attorney_email": "craigg@gould-law.net",
+    "phone": "(614) 445-6123",
+    "firm_name": "Gould Law, LLC",
+    "practice_area": "OTHER",
+    "case_id": "",
+    "row_data": {
+      "Case Number": "",
+      "Filing Date": "",
+      "Case Type": "OTHER",
+      "Court": "COURT OF COMMON PLEAS, CUYAHOGA COUNTY, OHIO",
+      "County": "CUYAHOGA",
+      "Plaintiff": "Jawad Dawodzai",
+      "Primary Defendant": "Administrator, Ohio Bureau of Workers’ Compensation",
+      "Attorney Name": "Craigg E. Gould",
+      "Attorney Office": "Gould Law, LLC",
+      "Attorney Email": "craigg@gould-law.net",
+      "Attorney Phone": "(614) 445-6123",
+      "Attorney Website": "gould-law.net",
+      "Relief Requested": "",
+      "Processed At": "2025-10-18T01:04:33.025786",
+      "Folder Name": "case_3648229",
+      "Paralegal Name": "",
+      "Paralegal Email": "",
+      "Email-2": "",
+      "Email-3": "",
+      "Email-4": "",
+      "Email-5": "",
+      "Paralegal Number": "",
+      "Department": "",
+      "Paralegal Website Page Link": "",
+      "Email Sent?": "",
+      "Email Replied?": "",
+      "Paralegal email": "",
+      "Phone call?": ""
+    }
+  },
+  "search_message": "COMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Craigg E. Gould\n- Email: craigg@gould-law.net\n- Phone: (614) 445-6123\n- Website: gould-law.net\n- Firm: Gould Law, LLC\n- Practice Area: OTHER\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (gould-law.net) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: craigg@gould-law.net and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: craigg@gould-law.net\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: gould-law.net",
+  "results": {
+    "page_url": "",
+    "search_sources": [],
+    "total_staff_found": 5,
+    "paralegals": [
+      {
+        "name": "Full Name",
+        "title": "Job Title",
+        "email": "direct_email_if_found_OR_most_likely_generated_email",
+        "email_options": [
+          "email1@domain.com",
+          "email2@domain.com",
+          "email3@domain.com"
+        ],
+        "email_confidence": "found/generated_high/generated_medium/generated_low",
+        "phone": "direct_phone_if_found",
+        "department": "practice_area_or_department",
+        "quote": "professional_background_or_bio_excerpt",
+        "Best_match": "True_or_False",
+        "Priority_score": "from 10 to 1 (10 is highest)"
+      },
+      {
+        "name": "Heather Zeallear",
+        "title": "Paralegal",
+        "email": "heather@gould-law.net",
+        "email_options": [
+          "heather@gould-law.net",
+          "hzeallear@gould-law.net",
+          "heather.zeallear@gould-law.net"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "General Practice (Criminal Defense, Workers' Compensation, DUI & DWI)",
+        "quote": "Previous experience at law firms like Ice Miller LLP; worked at Gould Law from 2014-2019.",
+        "Best_match": "True",
+        "Priority_score": "10"
+      },
+      {
+        "name": "Brandy Evans",
+        "title": "Legal Assistant",
+        "email": "brandy@gould-law.net",
+        "email_options": [
+          "brandy@gould-law.net",
+          "bevans@gould-law.net",
+          "brandy.evans@gould-law.net"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "General Practice",
+        "quote": "Worked at Gould Law from 2013-2014; now a paralegal at Franklin County Prosecutor's Office.",
+        "Best_match": "False",
+        "Priority_score": "7"
+      },
+      {
+        "name": "Jennifer Hartsook",
+        "title": "Administrative Assistant",
+        "email": "jennifer@gould-law.net",
+        "email_options": [
+          "jennifer@gould-law.net",
+          "jhartsook@gould-law.net",
+          "jennifer.hartsook@gould-law.net"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Administrative",
+        "quote": "Experienced Administrative Assistant at Gould Law, LLC.",
+        "Best_match": "False",
+        "Priority_score": "6"
+      },
+      {
+        "name": "Gregory T. Shumaker",
+        "title": "Law Clerk",
+        "email": "gregory@gould-law.net",
+        "email_options": [
+          "gregory@gould-law.net",
+          "gshumaker@gould-law.net",
+          "gregory.shumaker@gould-law.net"
+        ],
+        "email_confidence": "generated_medium",
+        "phone": "",
+        "department": "Legal Support",
+        "quote": "Served as Law Clerk from 2012-2014 at Gould Law, LLC; later Legal Associate until 2017.",
+        "Best_match": "False",
+        "Priority_score": "5"
+      }
+    ],
+    "search_notes": "",
+    "raw_content": "Share\nSign up\nSign in\nCOMPREHENSIVE PARALEGAL SEARCH REQUEST\n\nMISSION: Find ALL paralegals, legal assistants, and support staff for this law firm\n\nFIRM DETAILS:\n- Attorney: Craigg E. Gould\n- Email: craigg@gould-law.net\n- Phone: (614) 445-6123\n- Website: gould-law.net\n- Firm: Gould Law, LLC\n- Practice Area: OTHER\n\nSEARCH REQUIREMENTS:\n1. PRIMARY: Search the main website (gould-law.net) thoroughly for ALL staff\n2. DEEP SEARCH: If website has limited info, search these sources:\n   - LinkedIn company page and employee profiles\n   - Facebook business page and staff mentions\n   - Instagram business account\n   - Google Business listings\n   - Legal directories (Avvo, FindLaw, Lawyers.com)\n   - Bar association listings\n   - Court filing documents (if accessible)\n\nTARGET ROLES TO FIND:\n- Paralegals (all levels: senior, junior, certified)\n- Legal Assistants\n- Legal Secretaries\n- Case Managers\n- Document Specialists  \n- Litigation Support Staff\n- Client Services Coordinators\n- Administrative Assistants (in legal capacity)\n\nREQUIRED INFORMATION for each person:\n- Full Name (required)\n- Job Title/Role (required) \n- Direct Email (if available) + GENERATED EMAIL OPTIONS (see below)\n- Direct Phone/Extension (if available)\n- Department/Practice Area\n- Professional Background/Quote (if available)\n\nCRITICAL EMAIL REQUIREMENTS:\n1. If direct email found: Use the actual email\n2. If NO email found: Generate 2-3 probable email options using the attorney's email format\n3. Email generation patterns to try:\n   - firstname.lastname@domain.com\n   - firstinitiallastname@domain.com  \n   - firstname@domain.com\n   - staff.firstname@domain.com\n   - paralegal.firstname@domain.com\n4. Extract domain from attorney email: craigg@gould-law.net and use it for all generated emails\n5. or use common formats based on firm domain\n\nBEST CONTACT IDENTIFICATION:\nAnalyze the staff and identify the SINGLE BEST person to contact for attorney services/legal matters.\nConsider:\n- Senior paralegals or case managers (highest priority)\n- Legal assistants with client contact responsibilities\n- Office managers if they handle new client intake\n- Avoid receptionists unless they're the only option\nMark this person with \"Best_match\": \"True\"\n\nSEARCH STRATEGY:\n- Check \"Our Team\", \"Staff\", \"About Us\", \"Meet the Team\" pages\n- Look for staff bios and profiles\n- Search social media for team photos and mentions\n- Check LinkedIn for current employees\n- Look for staff in news articles or case announcements\n- Find people in office photos or group pictures\n\nEXTRACTION FORMAT:\nPlease output results in this EXACT JSON format:\n\n{\n    \"page_url\": \"website_searched\",\n    \"search_sources\": [\"list_of_sources_checked\"],\n    \"total_staff_found\": number,\n    \"attorney_email_domain\": \"domain_from_attorney_email\",\n    \"paralegals\": [\n        {\n            \"name\": \"Full Name\",\n            \"title\": \"Job Title\",\n            \"email\": \"direct_email_if_found_OR_most_likely_generated_email\", \n            \"email_options\": [\"email1@domain.com\", \"email2@domain.com\", \"email3@domain.com\"],\n            \"email_confidence\": \"found/generated_high/generated_medium/generated_low\",\n            \"phone\": \"direct_phone_if_found\",\n            \"department\": \"practice_area_or_department\",\n            \"quote\": \"professional_background_or_bio_excerpt\",\n            \"Best_match\": \"True_or_False\",\n            \"Priority_score\": \"from 10 to 1 (10 is highest)\"\n        }\n    ],\n    \"best_contact_reasoning\": \"explanation_of_why_this_person_was_selected_as_best_match\",\n    \"search_notes\": \"brief_summary_of_search_process_and_sources_used\"\n}\n\nSPECIFIC EMAIL GENERATION INSTRUCTIONS:\n- Attorney email pattern: craigg@gould-law.net\n- Extract domain from attorney email and use for all staff emails if it is right/accurate coz sometimes email's person name or domain can be little miscalculated because of OCR issues mostly it is accurate (domain).\n- For \"John Smith\" generate these patterns: [\"john.smith@domain.com\", \"jsmith@domain.com\", \"john@domain.com\"]\n- Always provide 2-3 email options per person (more if unsure)\n- Mark confidence level: \"found\" (actual email found), \"generated_high\" (strong pattern match), \"generated_medium\" (reasonable guess), \"generated_low\" (last resort)\n\nBEST MATCH SELECTION CRITERIA:\nBased on the case information (Practice Area: OTHER), select the staff member who would be:\n1. Most likely to handle new client intake for this practice area\n2. Senior enough to make decisions about new cases  \n3. Specifically responsible for client communications\n4. Has experience in the relevant practice area\n\nIMPORTANT: Be thorough and creative! Many firms hide staff information, so use multiple search angles. If the main website is limited, definitely search social media and professional networks. We need to find as many legal support staff as possible!\n\nCRITICAL: \n- ALWAYS generate email options even if no direct emails found\n- ALWAYS select exactly ONE person as \"Best_match\": \"True\" \n- ALWAYS explain your reasoning for the best match selection\n- MUST MAKE SURE: ALWAYS THINK HARDER\n\nSTART COMPREHENSIVE SEARCH NOW for: gould-law.net\nThought for 2m 53s\n{\n\"page_url\": \"https://gould-law.net\",\n\"search_sources\": [\"Martindale.com\", \"Avvo.com\", \"Lawyers.com\", \"LinkedIn via web search\", \"Ohio Supreme Court documents\", \"SignalHire\", \"RocketReach\"],\n\"total_staff_found\": 4,\n\"attorney_email_domain\": \"gould-law.net\",\n\"paralegals\": [\n{\n\"name\": \"Heather Zeallear\",\n\"title\": \"Paralegal\",\n\"email\": \"heather@gould-law.net\",\n\"email_options\": [\"heather@gould-law.net\", \"hzeallear@gould-law.net\", \"heather.zeallear@gould-law.net\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"General Practice (Criminal Defense, Workers' Compensation, DUI & DWI)\",\n\"quote\": \"Previous experience at law firms like Ice Miller LLP; worked at Gould Law from 2014-2019.\",\n\"Best_match\": \"True\",\n\"Priority_score\": \"10\"\n},\n{\n\"name\": \"Brandy Evans\",\n\"title\": \"Legal Assistant\",\n\"email\": \"brandy@gould-law.net\",\n\"email_options\": [\"brandy@gould-law.net\", \"bevans@gould-law.net\", \"brandy.evans@gould-law.net\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"General Practice\",\n\"quote\": \"Worked at Gould Law from 2013-2014; now a paralegal at Franklin County Prosecutor's Office.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"7\"\n},\n{\n\"name\": \"Jennifer Hartsook\",\n\"title\": \"Administrative Assistant\",\n\"email\": \"jennifer@gould-law.net\",\n\"email_options\": [\"jennifer@gould-law.net\", \"jhartsook@gould-law.net\", \"jennifer.hartsook@gould-law.net\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Administrative\",\n\"quote\": \"Experienced Administrative Assistant at Gould Law, LLC.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"6\"\n},\n{\n\"name\": \"Gregory T. Shumaker\",\n\"title\": \"Law Clerk\",\n\"email\": \"gregory@gould-law.net\",\n\"email_options\": [\"gregory@gould-law.net\", \"gshumaker@gould-law.net\", \"gregory.shumaker@gould-law.net\"],\n\"email_confidence\": \"generated_medium\",\n\"phone\": \"\",\n\"department\": \"Legal Support\",\n\"quote\": \"Served as Law Clerk from 2012-2014 at Gould Law, LLC; later Legal Associate until 2017.\",\n\"Best_match\": \"False\",\n\"Priority_score\": \"5\"\n}\n],\n\"best_contact_reasoning\": \"Heather Zeallear was selected as the best match because she held a paralegal role at the firm for a significant duration (5 years), making her likely experienced in handling client communications, case management, and new client intake in the firm's practice areas such as criminal defense and workers' compensation. As a paralegal, she fits the highest priority for senior support staff responsible for legal matters.\",\n\"search_notes\": \"The main website gould-law.net provided insufficient content, possibly indicating a minimal online presence. Extensive searches across legal directories (Martindale, Avvo, Lawyers.com), LinkedIn profiles via web snippets, and court documents revealed only past support staff; no current paralegals or assistants were explicitly listed beyond the attorney. The firm appears to be a small or solo practice focused on criminal law, workers' compensation, and related areas. No social media pages (Facebook, Instagram) or Google Business listings yielded additional staff information. Court filings from 2023-2025 confirm the firm is active but mention only the attorney.\"\n}\n43 web pages\n3.2s\nExpert\nVerify Heather Zeallear's current role\nSearch for current Gould Law staff\nAdd phone numbers for contacts\nHow can Grok help?\nAuto",
+    "extraction_timestamp": "2025-10-18T03:15:33.410405",
+    "raw_file": "grok_paralegal_search_results\\grok_raw_results_20251018_031533.txt"
+  },
+  "search_completed_at": "2025-10-18T03:15:33.428121",
+  "associated_cases": 1,
+  "result_file": "grok_paralegal_search_results\\grok_paralegal_search_gould-law_net_20251018_031533_w0.json"
+}
